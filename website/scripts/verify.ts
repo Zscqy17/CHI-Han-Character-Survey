@@ -39,10 +39,16 @@ for(const p of papers){
  for(const m of p.media){
   check(m.paperId===p.id&&locales.every(l=>!!m.caption[l]),'media identity + four languages');
   if(m.file){check(fs.existsSync('public/'+m.file)&&((!!m.license&&!!m.licenseUrl)||(m.rights==='source_excerpt'&&!!m.sourcePdfSha256&&!!m.sourceKind&&(!!m.rect||!!m.frames?.length))),'included media exists and has license or original-paper excerpt provenance');if(m.poster)check(fs.existsSync('public/'+m.poster),'GIF still exists');}
-  if(m.sourceType==='paper_figure_slideshow'){
+  if(m.sourceType==='paper_figure_slideshow'||m.sourceType==='paper_excerpt_slideshow'){
    check(m.kind==='gif'&&!!m.frames&&m.frames.length>=2&&!m.timestamps,'figure slideshows are distinct from observed video timestamps');
    for(const f of m.frames!){
-    check(f.page>=1&&f.page<=p.pdfPages&&f.rect.length===4&&f.rect[2]>f.rect[0]&&f.rect[3]>f.rect[1],'slideshow frame has valid source page and crop');
+    check(f.page>=1&&f.page<=p.pdfPages,'slideshow frame has valid source page');
+    if(f.sourceAssetId){
+     const original=p.media.find(x=>x.id===f.sourceAssetId);
+     check(original?.file===f.file,'slideshow references the same paper original source image');
+    }else{
+     check(f.rect?.length===4&&f.rect[2]>f.rect[0]&&f.rect[3]>f.rect[1],'slideshow page or figure has valid source geometry');
+    }
     check(createHash('sha256').update(fs.readFileSync('public/'+f.file)).digest('hex')===f.sha256,'individual source figure matches verified crop');
    }
   }
@@ -55,9 +61,19 @@ check(processes.ahn2026cheonjiin.output.en==='Hangul composition','Hangul not mi
 check(processes.han2020write.output.en.startsWith('Physical'),'robot glyph distinguished');
 check(papers.find(p=>p.id==='wada2025flick')!.summary.en.includes('not implemented'),'Flick-in boundary preserved');
 const gifPapers=filterPapers(papers,{...all,media:'gif'});
-check(gifPapers.length===16,'sixteen papers with GIFs');
+check(gifPapers.length===241,'all 241 papers have GIFs');
+check(papers.every(p=>p.media.filter(m=>m.kind==='gif').length===1),'one primary GIF per paper without duplicate coverage');
+const gifCoverage=JSON.parse(fs.readFileSync('public/data/gif-coverage.json','utf8'));
+check(gifCoverage.length===241&&new Set(gifCoverage.map((r:any)=>r.paperId)).size===241,'published GIF coverage manifest includes every paper once');
+for(const row of gifCoverage)check(papers.find(p=>p.id===row.paperId)?.media.some(m=>m.id===row.gifId&&m.kind==='gif'&&m.file===row.file),'GIF coverage record resolves to included media');
 check(gifPapers.filter(p=>p.media.some(m=>m.sourceType==='paper_figure_slideshow')).length===12,'twelve paper-figure slideshows');
-check(partitionGallery(papers).illustrated.slice(0,4).every(p=>previewMedia(p)?.sourceType!=='paper_figure_slideshow'),'real video frames and author animation precede figure slideshows');
+check(gifPapers.filter(p=>p.media.some(m=>m.sourceType==='paper_excerpt_slideshow')).length===225,'225 additional paper excerpt slideshows');
+check(partitionGallery(papers).illustrated.slice(0,4).every(p=>mediaRank(previewMedia(p))===0),'real video frames and author animation precede figure slideshows');
+for(const t of ['EN-A','EN-B'])for(const script of ['all','zh','ja','ko','other'])for(const view of ['all','algorithms','interaction']){
+ const base=filterPapers(papers,{...all,tier:t,script,view});
+ const animated=filterPapers(papers,{...all,tier:t,script,view,media:'gif'});
+ check(base.length===animated.length,'GIF coverage is complete within every category intersection');
+}
 for(const id of ['sun2024exploring','sarhangzadeh2024alignment']){
  const p=raw.find(p=>p.id===id)!;
  const gif=p.media.find(m=>m.kind==='gif') as any;
@@ -82,7 +98,9 @@ for(const view of ['all','algorithms','interaction'])for(const script of ['all',
  check(illustrated.every((p,i)=>i===0||mediaRank(previewMedia(illustrated[i-1]))<=mediaRank(previewMedia(p))),'GIF then video then image ordering survives every filter intersection');
 }
 check(partitionGallery(papers).illustrated.slice(0,gifPapers.length).every(p=>previewMedia(p)?.kind==='gif'),'all animated GIFs lead the catalogue');
-check(previewMedia(papers.find(p=>p.id==='han2020write')!)?.kind==='video','available video precedes a primary static image');
+check(previewMedia(papers.find(p=>p.id==='han2020write')!)?.kind==='gif','paper slideshow precedes video for newly covered paper');
+const withoutGif={...papers.find(p=>p.id==='han2020write')!,media:papers.find(p=>p.id==='han2020write')!.media.filter(m=>m.kind!=='gif')};
+check(previewMedia(withoutGif)?.kind==='video','available video still precedes static image if a GIF is absent');
 check(previewMedia(papers.find(p=>p.id==='park2015enhanced')!)?.sourceType==='paper_figure_slideshow','paper-figure slideshow precedes unavailable video');
 for(const p of papers){const ordered=orderedMedia(p);check(ordered.every((m,i)=>i===0||mediaRank(ordered[i-1])<=mediaRank(m)),'detail media follows motion priority');for(const m of p.media)if(m.status==='unavailable')check(!canPlayVideo(m),'unavailable sources do not get a playback control');}
 check(partitionGallery(papers).illustrated.length===241,'all 241 papers have a traceable visual preview');

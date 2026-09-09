@@ -66,7 +66,7 @@ text = credits.read_text().split('## Additional conference videos and key frames
 text = text.replace('The ACL key-frame GIF crops actual video frames', 'The ACL key-frame GIFs select actual video frames')
 text = text.replace('https://aclanthology.org/faq/#what-is-the-copyright-for-materials-in-the-acl-anthology', 'https://aclanthology.org/faq/copyright/')
 lines = ['## Additional conference videos and key frames',
-         'Added 2026-09-09. Video GIFs preserve original video frames and include a separate timestamp strip. Paper-figure slideshows retain original figure order with figure/page labels and individual source crops; their timing is editorial. External-only records do not assign a reuse license to the videos.']
+         'Added 2026-09-09. Video GIFs preserve original video frames and include a separate timestamp strip. Paper-figure slideshows retain original figure order. Paper-excerpt slideshows start with a reviewed illustration, table or preview, followed by source pages. Full-page views preserve multipart figures when separate crop boundaries are uncertain. All slideshows retain source links; their timing is editorial. External-only records do not assign a reuse license to the videos.']
 for m in motion:
     if not m.get('checkedAt'):
         continue
@@ -77,7 +77,7 @@ for m in motion:
         lines += [f"File: `{m['file']}`.", m['adaptation'], f"GIF SHA-256: `{m['assetSha256']}`."]
         if m.get('frames'):
             lines += [f"Original PDF SHA-256: `{m['sourcePdfSha256']}`. Attributed source excerpts; no new license is assigned."]
-            lines += [f"- Figure {f['figure']}, PDF page {f['page']}: `{f['file']}`." for f in m['frames']]
+            lines += [f"- {('Figure '+str(f['figure'])) if f.get('figure') else 'Source page'}, PDF page {f['page']}: `{f['file']}`." for f in m['frames']]
         else:
             lines += [f"Timestamps (seconds): {m['timestamps']}.",
                       f"License: [{m['license']}]({m['licenseUrl']}); [publisher policy]({m['licenseBasis']}).",

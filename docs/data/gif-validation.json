@@ -1,0 +1,1936 @@
+{
+  "papers": 241,
+  "passed": true,
+  "losslessPagePixelChecks": 901,
+  "decodedFrames": 1762,
+  "records": [
+    {
+      "paperId": "ezaki2000pen",
+      "gif": "media/ezaki2000pen-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "a04603e36b58493d3c69c42f1306d00b41c49091c40e100d17997504d2886e4c",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "luk2000digital",
+      "gif": "media/luk2000digital-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "ddf2acbe388b6b1d3f31a3723114d0a73e410b02fadc2be09821be9ead25e6e4",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "lin2006design",
+      "gif": "media/lin2006design-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "da0d7e1c8ef6782622d42a3ea48b76712a35cf8d41d7042e7c1b55ada0ba06ab",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "lin2008designing",
+      "gif": "media/lin2008designing-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "72f8bb53f14b60a2a4d6f6c27ebb54d8d791827f166aad0340ab64fb944a1b2f",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "fu2009fast",
+      "gif": "media/fu2009fast-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "02eff66c619e8f432388c1bf41c3603667f10321f22992de9b84dc0fa3014cef",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "kotani2010japanese",
+      "gif": "media/kotani2010japanese-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "dd6220507178f57af449e1c0f8f844e3145a410d85bfee83de2bffe3cfea699f",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "minett2010assistive",
+      "gif": "media/minett2010assistive-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "8d419408b8611f5220c4ed30e700f1996dba88011b3527b4050d95aacb433a50",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "wang2010accurate",
+      "gif": "media/wang2010accurate-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "ceea4a4dfef1665781db42d874914db7a69fa43b5dd82a7adef51504b95d940d",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "kotani2011proficiency",
+      "gif": "media/kotani2011proficiency-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "c521b1c13ae40757375c2948851e275df0da5f0ed1d02166defd9e4412574813",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "wu2012text",
+      "gif": "media/wu2012text-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "43569a628bc9308a064303aad0e11d0b524f9d7e2a973624ce0a1c06b45ba548",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "hamano2013usability",
+      "gif": "media/hamano2013usability-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "a0f80923d4206dad4aeed7788129f0a01be7b569d6021d7aa57fd926881925a9",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "miura2014usage",
+      "gif": "media/miura2014usage-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "1eeb3400f45f9e8b77d4301cef31da615b88c9719deed69b082f52d7f063bedf",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "shoji2014japanese",
+      "gif": "media/shoji2014japanese-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "ced783424ebecf1250ae6b08bfa10a14cfd1ed9dc9932c122177e6abc6050dab",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "zhou2014older",
+      "gif": "media/zhou2014older-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "950fbf183bcb1e891a0c4e7b78c9ab182e17df3d93b712281bc84c8e76d38396",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "lin2015designs",
+      "gif": "media/lin2015designs-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "cfb959e20b9721bf79f346f105bb18be5eab4e543ae80330a37b4d20d63b1d10",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "tang2015touch",
+      "gif": "media/tang2015touch-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "8dd80c04435c17c137639689bdf84e8010ffc446abb457fc6f096609bef78653",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "wang2015preliminary",
+      "gif": "media/wang2015preliminary-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "3655bf49231a499b901f99ab636316d521aed48db6b361012fd073fe60ae6fac",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "xie2017attitude",
+      "gif": "media/xie2017attitude-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "2f1933caf4ca87dd827fd8a4c157ab3e03b21a4a6ab9c96ad171f86a151f4164",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "jabeen2018sak",
+      "gif": "media/jabeen2018sak-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "f802d54d996e29da5f561b555faeaa3002da9e3c99e546c93064975bbc809482",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "jabeen2019modeling",
+      "gif": "media/jabeen2019modeling-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "e29da4f7722684cf3a5219d4b6233adc30ba03306b634bcd65ee296a3559e663",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "liao2019enabling",
+      "gif": "media/liao2019enabling-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "715902c411a8b4f1dde07d85b4afb419b2d39d0f71e90c42ad718a2735e6151c",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "lv2019brain",
+      "gif": "media/lv2019brain-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "74b951b0cfdf93cb1ddd8a61a2acf17c87eef7728ec3464e96bcb9e84b5e4a9a",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "shi2019vipboard",
+      "gif": "media/shi2019vipboard-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "26739b633ccce2956a6adf373836d021f81fe12ebd75b1b7c5ba3e11dc7805d5",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "yu2019asynchronous",
+      "gif": "media/yu2019asynchronous-figure-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "deaca8026e390b64841acd5dbca513519d514cb37f61199811689c92ddf47e53",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "han2020write",
+      "gif": "media/han2020write-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "af83e02c6db3fd7eed7d63475532b7ef0218418cbce8df35011c895e9a7b1165",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "wang2020effects",
+      "gif": "media/wang2020effects-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "12c6f07650cb6403bea86fa5bab8fb883d2fa7cf7e3788931a0748a25a0d0277",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "sun2022design",
+      "gif": "media/sun2022design-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "a01a1dc9c97042416a54878ea7b546e0b5df10d8647e730289fd9f49a9521804",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "weng2022establishment",
+      "gif": "media/weng2022establishment-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "111055fc58382261fa2d6b0b8764c63c3b3bc8d29798f9a75d33affa67a13bf6",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "young2023enabling",
+      "gif": "media/young2023enabling-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "3aa5fbaef0c5e1d64a1663339bf06bebcf9d04c654901e7d76aefa4209b36509",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "chen2024handwriting",
+      "gif": "media/chen2024handwriting-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "31dc5ddfc65a76bfd3288a19a914341f8e8d026b20a7311aea56d565db35e013",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "nonoka2024study",
+      "gif": "media/nonoka2024study-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "dcbb4d67d0995aab365976a508dd447949594543c18a2869eb00430d96477b1b",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ahn2025rectus",
+      "gif": "media/ahn2025rectus-figure-slideshow.gif",
+      "decodedFrames": 10,
+      "sha256": "b12d050b3622fac05f429bfa0d634f3b347481fab37ea32bf28c7bfe8da52533",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "liu2025influence",
+      "gif": "media/liu2025influence-paper-slideshow.gif",
+      "decodedFrames": 12,
+      "sha256": "8e0c691b2eb86171ddf54324a913bc786aa0a468862303adc6040a09f0586f4f",
+      "losslessPagePixelChecks": 11,
+      "passed": true
+    },
+    {
+      "paperId": "fukushima2000online",
+      "gif": "media/fukushima2000online-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "0b8f225d7e848b14f766225e34759c23f173cd1d00360906e07b3a8118b93c9c",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ichimura2000kana",
+      "gif": "media/ichimura2000kana-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "3bfe20980f6c73cf5b35b062fcce633c9ce7321669b42aa4c77402b03d7b6437",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "tokuno2002context",
+      "gif": "media/tokuno2002context-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "545a9acb28115fea4cb55a969edbd9ce16218221d12b08e9d5c844088176e7ec",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ren2003candidate",
+      "gif": "media/ren2003candidate-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "6b52a0b72c2b8e432c178406665b76366e867270633a805fd35bb17291223dd5",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "houser2004japanese",
+      "gif": "media/houser2004japanese-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "f985cb3527170fe55f33b1883fae0eb49ecb2e71090369019a9c5ab84f823070",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "huang2004statistical",
+      "gif": "media/huang2004statistical-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "de48096c4ef3c00e275aeeff52dc115ba31451e7fb139d9dc0d14d491cc7531e",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "sato2004menu",
+      "gif": "media/sato2004menu-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "8dba2302f4b31354389c66e56ce96ccc7045bf731f2e641f9f08fb0d3198be72",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "komatsu2005corpus",
+      "gif": "media/komatsu2005corpus-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "6238a3bf798530acef9a5a74d9941320aaa9b75eecfc7e4ef32450d00a5fa0f6",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "araki2006evaluation",
+      "gif": "media/araki2006evaluation-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "5cddf0576b9537e2e13b890f88d46aaab0af3fed1d5cedebd9f3a4f4f39fc236",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "araki2006evaluationb",
+      "gif": "media/araki2006evaluationb-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "fb51ab0bae74073e7a0552cdb4a960f21c3c7d8a7b16c62e0ec80852abace19e",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "doo2006korean",
+      "gif": "media/doo2006korean-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "4cb1adb583cadfbc1a57f8d0fd57f9e7013665b4d22741788ba07d059b500e8a",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "itoh2006comparative",
+      "gif": "media/itoh2006comparative-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "2a289454cf6fb1de058abf194758d403cd9df58e7959c9dede81e50d9a411ef2",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ota2007online",
+      "gif": "media/ota2007online-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "fe656352c13c46b7e730fded35e7d17e0a25123bf35dfc1fc975945e6fb780b8",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "sakurada2007japanese",
+      "gif": "media/sakurada2007japanese-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "22b9cee0326389c9d51f8d11a0729368bc38252a95e787856a27925170839af6",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "sano2007recognition",
+      "gif": "media/sano2007recognition-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "900dc9387933a8f38d3ecbd2f7cb1944d0b61bfcd5ff4836b9ab2733ccdf8099",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "tonouchi2007text",
+      "gif": "media/tonouchi2007text-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "cda8d982fac3174a813bbce19850cd596525594882e6342a6498e129b1095eba",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ehara2008multilingual",
+      "gif": "media/ehara2008multilingual-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "a18ef522ba5c2c638c945377329916627ad545008509e3fcda83494f2fae7a27",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "go2008itone",
+      "gif": "media/go2008itone-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "a8ffdd9f2318a3b9f3e0ff5508660e5936428d68e41deb05acf8fe8b6df9ec0e",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "ilinkin2008design",
+      "gif": "media/ilinkin2008design-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "29cddd23b4f62f135b269dcab42c0f4df1ee68d2936777c26ed5d5bf6faed395",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "mladenov2008integrated",
+      "gif": "media/mladenov2008integrated-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "8cf788d4fc88e44c25e0c46491eb54a06e05c60afe332a61473c5126b1173af5",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "miyao2009writer",
+      "gif": "media/miyao2009writer-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "11795cd7dde45a8e3b9cefaf58e868acba86dc5d24bb113dcc75fb1e68f8c4dc",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "shin2009multi",
+      "gif": "media/shin2009multi-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "8f1de29c08af81e4b1a986c420be8b1eb4bc5d0f53acdbe279c4ed5e6d66aa14",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "ilinkin2010evaluation",
+      "gif": "media/ilinkin2010evaluation-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "c4d483d24d65dc47e0b806df747ff1a599ec32f66afb7d5096c5fdbfd987d66b",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "kato2010kana",
+      "gif": "media/kato2010kana-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "0272ac075b112779e1055d36b77221c0da9312325e8aececeffb541e197cc869",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "kimioka2011niboshi",
+      "gif": "media/kimioka2011niboshi-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "db5e7fd80ec65e87a2365783498f668820a2d9ee84b6a7c505bbc985a2563ce1",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "ikegami2012modeless",
+      "gif": "media/ikegami2012modeless-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "2c9e2794277b4d4201d386b18c5d9b1be89a726ee21fd4af15b5f6d37fc8bd54",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "fukatsu2013look",
+      "gif": "media/fukatsu2013look-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "a4a628314c73d1122c1351d072909eeda47eb70b8c76eafb714b3c8ea0a9e5bb",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "go2013designing",
+      "gif": "media/go2013designing-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "608ef90956fcf37dc2d2ab8f0873071d0e042614025a4383246f9e4a11d51a7f",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "kim2013hybrid",
+      "gif": "media/kim2013hybrid-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "577057cf7298c6d9979883d0671bf4e1d647e305af13cd3c8c9d515f7feffcba",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "wu2013web",
+      "gif": "media/wu2013web-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "a3b7b405331f6a127bda7feee63435b19da2175ce246227890edec015a43639c",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "ashitaka2014acquisition",
+      "gif": "media/ashitaka2014acquisition-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "3e1e99c6744a9f318f8f33b7df7e5b1ddb33c022105105d8cfaa7b88cde7bc32",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "higashida2015one",
+      "gif": "media/higashida2015one-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "546ee93a946be9cd093d563a5e8f286596495d0f44b7410db32bbd2d7394ddda",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ikegami2015hybrid",
+      "gif": "media/ikegami2015hybrid-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "3a0a57d8deaabb864d8bf88fc5d923d2556f1610fff247108a695a7b43047430",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "matsuhara2015efficient",
+      "gif": "media/matsuhara2015efficient-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "89b3a1aa34434fc201324d76260a9376cf4a4f7d1fd0973a4d3f385aa9ae26f7",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "park2015enhanced",
+      "gif": "media/park2015enhanced-figure-slideshow.gif",
+      "decodedFrames": 10,
+      "sha256": "e51c92cb670fdd2578879434390ac392ec6c57537ca4c4542ca189d041cf322e",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "lee2016complete",
+      "gif": "media/lee2016complete-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "a57e35410155442c3abcf863dac9283bfd38059465ee90e60f76378baa2318c6",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "han2017mid",
+      "gif": "media/han2017mid-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "670eae4b0b94de7b886385d815d37bf85cfa2378c50fdae374bc95cbd691e685",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "ikegami2017flick",
+      "gif": "media/ikegami2017flick-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "d58309ba4f1b709114d8fc124eb0d32243cdd6431afc10ac22467b8c5566c94b",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "ilinkin2017evaluation",
+      "gif": "media/ilinkin2017evaluation-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "d98137355e94ba23e2da21c95a572642c097adc255a1939c7b627b6acf1ccff3",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "shin2017non",
+      "gif": "media/shin2017non-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "d43946a897223ae462670b61fef8d50a6b4d4e1b410ebb1e33838b82462e8055",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "nguyen2018online",
+      "gif": "media/nguyen2018online-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "5a3651be5093294ff673e7a86528e8ebc1be39ba22ecb17ffd60f780235ad2b7",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "takei2018button",
+      "gif": "media/takei2018button-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "edd7655ed1260612ecc83fe1bdd443be443321de6cdfc3cc636390de862b2a0e",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "tojo2018bubbleflick",
+      "gif": "media/tojo2018bubbleflick-paper-slideshow.gif",
+      "decodedFrames": 9,
+      "sha256": "21a72eb85bc89ee3a51b21540459508f06974be82d05f63c4337affff8fd228c",
+      "losslessPagePixelChecks": 8,
+      "passed": true
+    },
+    {
+      "paperId": "tanaka2019micro",
+      "gif": "media/tanaka2019micro-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "7726894cdd59056d6f354a4f166fe34fe6a4f0882e75af9d69506ed4785e0b49",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "toba2019efficient",
+      "gif": "media/toba2019efficient-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "44ff69620ad951b0f64b692f7a2388e9b409b0e82de3fe2c0ccc01c605a80f83",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "nakamura2020japanese",
+      "gif": "media/nakamura2020japanese-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "292534b7a464886a6c0d589935fadb4de6aa798ca900a84f78466c5c014fc259",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "sato2020homonym",
+      "gif": "media/sato2020homonym-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "3dda26b68ac8181d2e93323bea60c8df30248b634f09c49261b9218d2ae621d8",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "nakamura2021bimanual",
+      "gif": "media/nakamura2021bimanual-paper-slideshow.gif",
+      "decodedFrames": 16,
+      "sha256": "2ab59007c8d465561282099e0709bfa8e40ad8cd07bc961f8dff0b0a96a2d6d6",
+      "losslessPagePixelChecks": 15,
+      "passed": true
+    },
+    {
+      "paperId": "takahashi2021japanese",
+      "gif": "media/takahashi2021japanese-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "caceed670a69626c9754cbb98aef5dc756e1b1e8906265b41f720d73b7415552",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "yokoyama2021joyflick",
+      "gif": "media/yokoyama2021joyflick-figure-slideshow.gif",
+      "decodedFrames": 15,
+      "sha256": "ee94a4e0c82ede93902c537c2e86f73dd939dee105f4ecd687744a2bea54690e",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "ikegami2024fast",
+      "gif": "media/ikegami2024fast-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "6a8cdb82e9c0cbf391740d6c45263b1c049056135988fb1e4d348c1165b60e85",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "sarhangzadeh2024alignment",
+      "gif": "media/sarhangzadeh2024alignment-keyframes.gif",
+      "decodedFrames": 4,
+      "sha256": "9c1df9b4350ccb28670c2ba40cf7476c28b8bd1f8ed3ce0142e997fd8ead1a99",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "wada2025flick",
+      "gif": "media/wada2025flick-original.gif",
+      "decodedFrames": 503,
+      "sha256": "a36727d76995a286618bf3065233f459c2a180c63035ec617477800f4c8f195a",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "kishi2026proposal",
+      "gif": "media/kishi2026proposal-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "263740e7186a11ffd8cb39a830434741f85383b3b72c08ffdc22b7eb3140e0f0",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "mokuya2026japanese",
+      "gif": "media/mokuya2026japanese-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "79e8258ef9f0af631cfb30a8a957d8107bf4c89f4dd7d45eb9bc3796ac59ecd2",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "takeuchi2026kuchimoji",
+      "gif": "media/takeuchi2026kuchimoji-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "20487350987c331595fe4f6118c904dcd918917109b31153df255ca73bb6a441",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "tanakaishii2002entering",
+      "gif": "media/tanakaishii2002entering-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "1bb3b0e9ed059562e821a070f3f0ce8906d67ca4c3c9134b35a97680825a07d7",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "kurihara2006speech",
+      "gif": "media/kurihara2006speech-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "c7fa928c146b56b489e35e9ceb96afc3861ef95ffacbae4fe4fc6f20fdbc822a",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "hatano2009japanese",
+      "gif": "media/hatano2009japanese-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "6102e28f596e30cfc063c53e434d573ebb1f2618e7efea302ba67a27b7504a1b",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "li2009bci",
+      "gif": "media/li2009bci-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "6b4cb82541cfac382a3bced787b8d05abdedcfbec24ffcea8ec9f84b37490c76",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "jin2010chinese",
+      "gif": "media/jin2010chinese-paper-slideshow.gif",
+      "decodedFrames": 11,
+      "sha256": "a5df23d1c2c13cd57fc94cb6fe0855e4d3ebb1252826efeff8de36955af8ce9a",
+      "losslessPagePixelChecks": 10,
+      "passed": true
+    },
+    {
+      "paperId": "kotani2010design",
+      "gif": "media/kotani2010design-paper-slideshow.gif",
+      "decodedFrames": 9,
+      "sha256": "6a0ff8b532674d8c1cca55f745ebaeda5d91b632e541ec70024a177609f8be6e",
+      "losslessPagePixelChecks": 8,
+      "passed": true
+    },
+    {
+      "paperId": "lee2011hangul",
+      "gif": "media/lee2011hangul-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "423091f73f031ca5ad77291742450b612d8ca72ec6487b62cf43186a8c3d6c38",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "sun2011design",
+      "gif": "media/sun2011design-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "05aee0d398c4e0849a783ee04a3fc874d6f1569562b3f5a87d87fc9db6fc71ae",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "bi2012multilingual",
+      "gif": "media/bi2012multilingual-paper-slideshow.gif",
+      "decodedFrames": 15,
+      "sha256": "c8abb9143d6aef7b9cc94c95c513588b4c469d61d14abecd1dce476d7dfacc52",
+      "losslessPagePixelChecks": 14,
+      "passed": true
+    },
+    {
+      "paperId": "liang2012eye",
+      "gif": "media/liang2012eye-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "7cf823651f7683ba72ecef1170a6ff23e6fd89256faa4247629342977b77c32d",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "minett2012chinese",
+      "gif": "media/minett2012chinese-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "dd9ed3bd9ffa1b1a2bbc447545246f0994732044c86bb42929b8b1598f26cd9e",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "chen2013cursor",
+      "gif": "media/chen2013cursor-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "1133bbd45d1bd612d8085c890cb51af60a524c1b6f43eba94fab1d73f1c49ac9",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "hagiwara2013koosho",
+      "gif": "media/hagiwara2013koosho-figure-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "0f0c7933e8cf8efc0373a5e2470ce36f4791e995463ecc22f8705010348524dc",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "huang2013fastest",
+      "gif": "media/huang2013fastest-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "129140187929ca2f800a400a6e266f919d6ae5ca09d75adba22d2417b21316c2",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "yu2016brain",
+      "gif": "media/yu2016brain-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "b09f3431185ffeaa91eb0c4cd7d8bf3457bcefade64221c865c92e11de2eac0a",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "han2017eighty",
+      "gif": "media/han2017eighty-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "fce9423d6e5b24a0609c4a020a3566112adbb1004d9792f922a14246cb31f866",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "gan2020air",
+      "gif": "media/gan2020air-paper-slideshow.gif",
+      "decodedFrames": 12,
+      "sha256": "3c2f29114775936df31c330720e0b086dad5c5b454d18505ee8fd5ec7e529d10",
+      "losslessPagePixelChecks": 11,
+      "passed": true
+    },
+    {
+      "paperId": "li2020approach",
+      "gif": "media/li2020approach-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "07d19a73c222280d0bd8885d579a490fa3b7319e8f0691a88d296c7300f0bf78",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "shi2020steady",
+      "gif": "media/shi2020steady-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "1425d9bde55687978c74e62a010096118b9395e89b8ec0d802db0c89a3889e42",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "guo2021calibration",
+      "gif": "media/guo2021calibration-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "1003ce6ae696c1a6abe42979b27679a460571b72ec5e365e2e3fd608c12e29a1",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "ogata2021effectiveness",
+      "gif": "media/ogata2021effectiveness-paper-slideshow.gif",
+      "decodedFrames": 10,
+      "sha256": "e6283295885e167f736fa9e430f1aee1f21777866b9151e1080f54c9a9891d26",
+      "losslessPagePixelChecks": 9,
+      "passed": true
+    },
+    {
+      "paperId": "huang2022calibration",
+      "gif": "media/huang2022calibration-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "c0fa1c279f4b14fb8d36dfed68e567bae3a7848922bf2195cfa664fbb945786a",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "li2022practical",
+      "gif": "media/li2022practical-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "4e14cdcb1a80c8e69992d2e8fa4b7642e3c7d77a06079c42f6b5a203c95b71d7",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "tang2022interface",
+      "gif": "media/tang2022interface-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "8404c0b931612c7ebb61092fd1c1edc979134b68b1511d8610be0cf8b6fe22e3",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "gao2024character",
+      "gif": "media/gao2024character-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "95b751b8d2bc4bc2262d0d9a50c3cb9da2b029b0d427a8d4f1681790cc06f8eb",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "hosono2024segmentation",
+      "gif": "media/hosono2024segmentation-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "e828a8c8982fbf3334d6292a53c74aac2df1c7e4287aec1d62943c10eb3554d6",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "tong2024eye",
+      "gif": "media/tong2024eye-figure-slideshow.gif",
+      "decodedFrames": 11,
+      "sha256": "f97bf45635fcb0c7ebd6eb993c47a9a34b6718fffa8bd0ca8bb8a4ed9401e3e3",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "yang2024reconstructing",
+      "gif": "media/yang2024reconstructing-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "c607d2ba9e03832dad0b29533a11e9e5842afcbe085916d6290bde1f63a4f570",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "wu2025mind",
+      "gif": "media/wu2025mind-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "9d3467e249c027a15cc5a5e2e6f4ec499630782c52e3e61a839a538d81bf302d",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "ahn2026cheonjiin",
+      "gif": "media/ahn2026cheonjiin-figure-slideshow.gif",
+      "decodedFrames": 9,
+      "sha256": "3d37267608fd43347d2fc054c6001e72f888837e892ee1223939a03c7a223663",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "li2026asynchronous",
+      "gif": "media/li2026asynchronous-paper-slideshow.gif",
+      "decodedFrames": 11,
+      "sha256": "bd6f1c42f6943bb7238f204fa450d06ffd0f6b7ba496be9961fb5fe3c54a89d0",
+      "losslessPagePixelChecks": 10,
+      "passed": true
+    },
+    {
+      "paperId": "wang2026eeg",
+      "gif": "media/wang2026eeg-paper-slideshow.gif",
+      "decodedFrames": 9,
+      "sha256": "d9edae1098af85f929d8de7d06faef0e7ab34292b6cd395a095be179dfd13139",
+      "losslessPagePixelChecks": 8,
+      "passed": true
+    },
+    {
+      "paperId": "komiya2017japanese",
+      "gif": "media/komiya2017japanese-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "1d755b23616c5af6fc0d1287c6397ed71bc2691020b12fb0e8ad5a0622e6bc16",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "ogitani2018space",
+      "gif": "media/ogitani2018space-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "c34f71cf1f5faa581d1e1c9331ab90553185b678e368e7d78090feaece703148",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "yang2018interaction",
+      "gif": "media/yang2018interaction-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "dd32814a81903814103e4ef0b5bc12fbb12b12532a54391dba5fb46655aac946",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "kato2023hover",
+      "gif": "media/kato2023hover-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "be79904a86572b670426290de696c225e8bbf5cc1ee792ec9304d03f97a004e4",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "monobe2025research",
+      "gif": "media/monobe2025research-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "25fdf760bf7ad6e190051ea2cb2b8ee16e80e994562c2e2b7b61c4481f024945",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "yuasa2025flickpose",
+      "gif": "media/yuasa2025flickpose-figure-slideshow.gif",
+      "decodedFrames": 15,
+      "sha256": "8a0cc1ce525bcd121d46235deac5cd3ba1d241794203eeb6f244cc349c2f2ac8",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "chen2000statistical",
+      "gif": "media/chen2000statistical-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "36fe21f135b6d3f7cdbfe13df7555569d82d562cff62d1e781c11c8bbf8900c0",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "wang2001chinese",
+      "gif": "media/wang2001chinese-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "8989ced38e0a48b8b4dc0932c5b5b6a56f00e462cdf144bbd57cbdccd9d65f6b",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "liu2002approach",
+      "gif": "media/liu2002approach-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "53de25a490c0b430fb50f6a4aced1bad97a3602b068a06a01bad2d765cb2ff50",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "lo2002cross",
+      "gif": "media/lo2002cross-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "eff8da6aaee85bbae81e752fc3f968181bfd9f47e64d83bee67963a2350edebf",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "matic2002quickstroke",
+      "gif": "media/matic2002quickstroke-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "9240d1a595c68ce4d791c60cd413476ee610e8eebf581079a1d69dde5da18cc1",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "huang2004adaptive",
+      "gif": "media/huang2004adaptive-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "04d152d58f2e384c01ce07794ba9aca486cf56e08b2a8215940cd32f82e63f79",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "xiaolong2004mining",
+      "gif": "media/xiaolong2004mining-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "1cea1a53d67d0492192124f1d303d4c1a99e94a01063c971e102256462110597",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "ge2005online",
+      "gif": "media/ge2005online-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "eafb2f15e5e4dab8d9ab923fac35dcff0d802e48f8cdde2e61c22c789bdc3921",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "lin2005graphics",
+      "gif": "media/lin2005graphics-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "55d706b1a4a16a55a0c0cd4c397dbcaf8aca04cc4e6d69c8a48f01bf5491a166",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "tsai2005applying",
+      "gif": "media/tsai2005applying-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "983edc18679c41e3b7a943de274015a6d2ebe67e842d192d5ac2e66e712ed2c3",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "tsai2005word",
+      "gif": "media/tsai2005word-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "ada43cd3fd1a08afad5c1815b7c19eb61ef20f5f026d318b038004ee11a1607c",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "hsu2006spoken",
+      "gif": "media/hsu2006spoken-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "2dc6dc1efb67f6494a3b0a1597541921c75bd89844034231f6d95acb57e99a0b",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "liu2006application",
+      "gif": "media/liu2006application-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "b62a3a1eeb7bdf570be54133e0996f8bba95981f1744ea3511070f975e1ed696",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "tsai2006word",
+      "gif": "media/tsai2006word-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "4d41e9a12d25199484951262077465350b8c82e7c07f29a2e343485520cc28b4",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "tseng2006chinese",
+      "gif": "media/tseng2006chinese-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "424982e110941bf56cc2553739da3348dcde11da0d55e82849aa9dc759f9976a",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "wang2006maximum",
+      "gif": "media/wang2006maximum-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "25c8b75ccfb6c3b6436e39b1bbebbb62fd6ef8d4fbad9607575487f5b93dae79",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "zhou2006improved",
+      "gif": "media/zhou2006improved-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "d3ec6eff493cc8decf61093b88efb6c1b7eca837f74debcbcd06249e94128211",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "lin2007constructing",
+      "gif": "media/lin2007constructing-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "39ac875816151d88bd31bd1aa5345653ad0a08ba86e01866d79b31c9346ffee8",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "liu2007chinese",
+      "gif": "media/liu2007chinese-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "b6f4d00c1a5ef67fcd8784cb647b874a9464cf7820aefb472e56137f7f2e7516",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ma2007line",
+      "gif": "media/ma2007line-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "b253f76f663ff666b11483fe177f86494bc2aa54012c9c470abc8499986270ee",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "tung2007key",
+      "gif": "media/tung2007key-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "191bef9658e0de6fcc6347d40a388a639e7cb30a783bb893b1def37a2a48def8",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "xiao2007exploiting",
+      "gif": "media/xiao2007exploiting-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "891f2983a7548c08fd7d67aa9b10db9e4dffd9b2201a08039ed3a8bf74669889",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "zhou2007segment",
+      "gif": "media/zhou2007segment-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "580956dbfc3f14e2e299c9d61f467cf499af213e9b3a55e7fa99035936d6f648",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "jiang2008multimodal",
+      "gif": "media/jiang2008multimodal-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "0ed00072b4fd1e4146d0a4a526f61e9eca225a54f17e9ae7106952743f742c04",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "lin2008novel",
+      "gif": "media/lin2008novel-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "f3a2565954b6f6227504c187b2ad93c3532c0f6249298d437e35d9386e4c9690",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "liu2008rotatxt",
+      "gif": "media/liu2008rotatxt-paper-slideshow.gif",
+      "decodedFrames": 9,
+      "sha256": "82dd894ad107f4510f2621fc0148d6cca0578e3e63e55b3f7e1a3ea08a4b4409",
+      "losslessPagePixelChecks": 8,
+      "passed": true
+    },
+    {
+      "paperId": "wen2008ambiguity",
+      "gif": "media/wen2008ambiguity-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "52c3bb0393fdae3bbc474e4082326bf3e45faf40acce6a456739feb1d177c33d",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "gong2009design",
+      "gif": "media/gong2009design-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "5d7b6b4808ab1bab584a2fbb547284e879ec913b650f17f1c8693bb439aa4680",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "jiang2009artificial",
+      "gif": "media/jiang2009artificial-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "76fced210c6ce499cf70c97622901ac027cb0419d5dbcde5ade796d99a753538",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "li2009effect",
+      "gif": "media/li2009effect-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "87a31738ac0552fe5e48e6180fe0c02fd4cf20a0b3d142e16549df0d7e78ba0d",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "liu2009chinese",
+      "gif": "media/liu2009chinese-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "65241d226973647925c3623a81e6f7ecb319c5807b6bf0201b6d0d85d30b422e",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "liu2009immediate",
+      "gif": "media/liu2009immediate-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "792f8b9492214d62bc05eb1103574f23c6f7d25bc0cb1b566ca00908a1794974",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "po2009six",
+      "gif": "media/po2009six-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "68414b0bac36abb6b09618e47a5e7e5e45c7f25a28ed3b66f51993059df4ce3d",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "ren2009optimal",
+      "gif": "media/ren2009optimal-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "bd63d4ac98d97643f5c5e0b247c354959201b8e1b3d03057a76096c23e68e985",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "tung2009modified",
+      "gif": "media/tung2009modified-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "60b84370be0fc3639e572ff02f20c7acef659847da5b26186d441a8baa594b6d",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "wei2009applying",
+      "gif": "media/wei2009applying-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "f62498034d9da9b2fb9d798e2382e09d23d68b720082f518ac4902fcdc708ab5",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "wei2009linux",
+      "gif": "media/wei2009linux-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "943cd590768e59104a88c24431a284bd870461dce9d3de264a16ae51236e2a90",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "yan2009birth",
+      "gif": "media/yan2009birth-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "8b4fdfe82b128ffd66e2295ed8e9a694a5746cf71109138cdf0e09e5aaa7a848",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "li2010prompting",
+      "gif": "media/li2010prompting-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "2d0bd2a49e0d1fa59dc7360dfc2706e9040e6f566be7c8a78f6a107c6f4053ee",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "liu2010predicting",
+      "gif": "media/liu2010predicting-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "305e6c12e8b512fbf479935133594a1a7aebbc3a228e6e23d1c1ea1b7791462a",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "niu2010stroke",
+      "gif": "media/niu2010stroke-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "250e4f769d7c4ebf49c2aad4491be1fade1f24d8760c43097316318b577cd8a0",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "wang2010improvement",
+      "gif": "media/wang2010improvement-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "16160f2ddfc83cb87ad641e7e48062139a83712993884923c8032324e93b5520",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "zhou2010hit",
+      "gif": "media/zhou2010hit-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "2c710d629704296ccb4a979de22de9b4ca386d211cda86ef8cb3e1f4d38e2625",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "lin2011auxiliary",
+      "gif": "media/lin2011auxiliary-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "f491afe08164ffc7cbf4f531e27bbf9c171e3ccba4e8643dcd1ba8888e042653",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "liu2011user",
+      "gif": "media/liu2011user-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "d319b57bfb97d29c69ac454b62bc73d4b687871ef8a70ed129b26de09e931c46",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "po2011dynamic",
+      "gif": "media/po2011dynamic-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "23293ce32ef2f100331fec4d7152c80f036280226b96965c4c32af2de28a9d78",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "sha2011automatic",
+      "gif": "media/sha2011automatic-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "3ea8f139b04e984798e0ba2729cae19a1d14f93ca28eab725de0a11598752b71",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "wong2011chinese",
+      "gif": "media/wong2011chinese-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "81356d06428f8d60e194615db38d5642f4910242793b96b2b936cf4c17735d14",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "zheng2011chime",
+      "gif": "media/zheng2011chime-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "28fd53a6de69e2f398744ddc24a4bf5f03dce49213ba36f9ead6f33321158459",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "zheng2011why",
+      "gif": "media/zheng2011why-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "659a6e5c4535014d4bf1229964bdace035e84046d673d40a3b37b8ae2690d2ae",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "zou2011overlapped",
+      "gif": "media/zou2011overlapped-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "665a6f81d6e41fd41c94acf77e9203179e76c56868b93d99f4340cb9627b64a2",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "liu2012pinyinpie",
+      "gif": "media/liu2012pinyinpie-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "ca8301413572b7ddf7f4c5a69369882c944b39860c0ce2423d399f89da467ce0",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "masui2012enjoying",
+      "gif": "media/masui2012enjoying-paper-slideshow.gif",
+      "decodedFrames": 12,
+      "sha256": "01026be4b29ef290238d3ad2797554267a779c44681b715bd279d9e695eec400",
+      "losslessPagePixelChecks": 11,
+      "passed": true
+    },
+    {
+      "paperId": "suzuki2012unified",
+      "gif": "media/suzuki2012unified-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "81cddf3886d1c892476e0f1aa616ae0e771477f1b02de2790b4826c16bbad7c0",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "wang2012approach",
+      "gif": "media/wang2012approach-paper-slideshow.gif",
+      "decodedFrames": 9,
+      "sha256": "dd180c8b0f72c76505c8f9a83f01b156879311abaeafc6fa59263c92a98a568b",
+      "losslessPagePixelChecks": 8,
+      "passed": true
+    },
+    {
+      "paperId": "wang2012improving",
+      "gif": "media/wang2012improving-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "4ff66cf8d0136c44ad59d43b991a23294e2ffa08869a07a610d136a91e69da91",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "yang2012machine",
+      "gif": "media/yang2012machine-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "42f509d3da17b1681bf49ae1eb13c50ca974a27e0c23e35847c9fe0f4b4c45ab",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "zhu2012design",
+      "gif": "media/zhu2012design-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "ea861fcd4132a50528a1b71dffc31c583f6d7c1a24dcfb0cfe4b764257843023",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "gao2013user",
+      "gif": "media/gao2013user-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "a47ec4161cdf3f26b01d1be56861984943770910dc710e14a3c7dabf4ced0c41",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "jia2013kyss",
+      "gif": "media/jia2013kyss-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "7679647d4f45aa8de60c04a70ad3d2db07e966309fd69451a8e1bf2dd1616dc7",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "li2013mutual",
+      "gif": "media/li2013mutual-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "9260d057d5b3c741100b7f73703c8ef64b229f8be638528b6ed008fe408aa103",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "liu2013investigating",
+      "gif": "media/liu2013investigating-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "b2a22013f4693d49efad29ee1a5e5187610fbaad4eadc7164cec6e5b44a92c16",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "petrovi2013metoda",
+      "gif": "media/petrovi2013metoda-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "1ec1334279e1565bb105f5f8617f2868c24d79b09cb5b63d35b3bdf8f9a6df6e",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "po2013radical",
+      "gif": "media/po2013radical-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "dcf249bd3f5b8b285e505c81fbecbde29439228fc8a6423f41841b95e6fd9d96",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "tan2013china",
+      "gif": "media/tan2013china-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "325aaaa4b7d127f4c291d4cd7ff2372a187ab87cce94b6188d539cd6a9aeae33",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "tu2013optimal",
+      "gif": "media/tu2013optimal-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "2ed1a98199d3eccd8025755d6f5d65ba4581d015a941ae25cd14643ae9a8d462",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "jia2014joint",
+      "gif": "media/jia2014joint-keyframes.gif",
+      "decodedFrames": 4,
+      "sha256": "4787afc55892cc2422c754f97d3c29240224b0c835a83cd5ca48d1005cf4e021",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "niu2014stroke",
+      "gif": "media/niu2014stroke-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "25b655e9575f0a3c2bfeeebfd4601786fa9314c8ccc952ef856273ce9413ace8",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "sim2014multimodal",
+      "gif": "media/sim2014multimodal-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "b5121f1c5852da36c7175469eed47fdf353b95fb34a39b79df28fad9592698cf",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "yang2014chinese",
+      "gif": "media/yang2014chinese-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "fed53b6cb84b464898a4db41d9a537cb46ab8fd4997252981c585e1662e8d6e8",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "anon2015smart",
+      "gif": "media/anon2015smart-paper-slideshow.gif",
+      "decodedFrames": 9,
+      "sha256": "076452847fe1f63c12725b8687067daf8d79f454d890fd515e84adcd8025120f",
+      "losslessPagePixelChecks": 8,
+      "passed": true
+    },
+    {
+      "paperId": "chen2015neural",
+      "gif": "media/chen2015neural-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "e8e149849593344691c7dc98c1364c60ccce5044eecd22ae39478cbba0d0a7c4",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "huang2015input",
+      "gif": "media/huang2015input-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "317ab525033013c2fc4adf913aed854b90cc3ebaa3298363896b84be19f70bec",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "lin2015investigation",
+      "gif": "media/lin2015investigation-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "9af092e8e9e52c274ec7a98b807f971232d4f01d6d894df1afe74bfa17084472",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "gong2016leveraging",
+      "gif": "media/gong2016leveraging-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "439b6c1d771b8e15248eb428fff3cb3678a5b025a12dd78e043da9f397cd4a94",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "wu2016study",
+      "gif": "media/wu2016study-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "5ae885a1b5a3ac3c574063cae0d7c4a518f6725882786f5f72e4a50154cd26d4",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "xiao2016pinyin",
+      "gif": "media/xiao2016pinyin-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "427883de9bbed969d7cfb7ebec1e2d15d6ebbbc7feef1ffadd5e08272964a4f9",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "zhu2016word",
+      "gif": "media/zhu2016word-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "28fff131fb591f4844d58c35fd8666a10903187c8d34ec424f4b6d9744f4f444",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "chen2017effect",
+      "gif": "media/chen2017effect-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "de0c1958dcd42c4f2f8a41d44ca8b5dd0d2ed6f44a0df142fa3351fd60a55285",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "chen2017role",
+      "gif": "media/chen2017role-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "b3a68bcca0de6ec0e12efbd8396fb04a05820969449cd7f1c9b5ac203eda86b0",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "huang2017research",
+      "gif": "media/huang2017research-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "4f0d510c559cb1ebbb38ec5d190a5d5242c6b5618252ed63eb2c82fbc3eb0ef6",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "huang2017researchb",
+      "gif": "media/huang2017researchb-paper-slideshow.gif",
+      "decodedFrames": 12,
+      "sha256": "597c57d91188f15c5b861928482f9ad68911145bd388e2eb16647104af67c7c7",
+      "losslessPagePixelChecks": 11,
+      "passed": true
+    },
+    {
+      "paperId": "huang2018chinese",
+      "gif": "media/huang2018chinese-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "19701daeebc53f5d8141aaf89dd2904ff4659abb093b89cbf77801ea3ca894d2",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "huang2018moon",
+      "gif": "media/huang2018moon-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "2b034a0e8160a6262142d42f09b0c90b0598a124bc1f0777a828ba93f487a02a",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "huang2018research",
+      "gif": "media/huang2018research-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "35f85803ee73d4fa6a908bae7937cf69630fbd2f9216d779b8ac78091517ef63",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "ji2018knowledge",
+      "gif": "media/ji2018knowledge-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "71c46e715ce76a7e56cf2309089ac5b38c555ea56e2da5ec54a9194dcafd04c4",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "meng2018smart",
+      "gif": "media/meng2018smart-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "7d543e6eaa1397ddeaf2c2b6e655d6be1a1cecc346f0ff7e61804c263a9fa459",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "ruan2018comparing",
+      "gif": "media/ruan2018comparing-paper-slideshow.gif",
+      "decodedFrames": 13,
+      "sha256": "aa2ca5a4c2c3e2b66ad88ea157d79e0ac900cd97804e601640fec62b6ae540b0",
+      "losslessPagePixelChecks": 12,
+      "passed": true
+    },
+    {
+      "paperId": "tian2018visor",
+      "gif": "media/tian2018visor-paper-slideshow.gif",
+      "decodedFrames": 11,
+      "sha256": "c2180082bde78515db50cbe002d53f1c4dd1a7f87e561376b9352a1ab4c627d2",
+      "losslessPagePixelChecks": 10,
+      "passed": true
+    },
+    {
+      "paperId": "yang2019testime",
+      "gif": "media/yang2019testime-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "09e03afa2afd5aecfc205a56912288648ce3d7297e104ba06fe2bbec2669bf24",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "yao2019enabling",
+      "gif": "media/yao2019enabling-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "388e36ac0e72fce9926fb69703daf33fdf89bb30a8502f3c2fddd181b646f27a",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "yao2019seeime",
+      "gif": "media/yao2019seeime-figure-slideshow.gif",
+      "decodedFrames": 12,
+      "sha256": "61af833f586245c35f19df3e4caef13e42737f8bd840443f695376e3f73c6a04",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "zhang2019open",
+      "gif": "media/zhang2019open-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "f18d8e32838762e4dab9624a718324d91ecb323a393e880f5b4f9f00dbe428e0",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "zhang2019smarthandwriting",
+      "gif": "media/zhang2019smarthandwriting-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "b727d5d06ad637f10df72d5540d0849f5dd01623e4f504e79f77206b78f86b46",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "cao2020evaluation",
+      "gif": "media/cao2020evaluation-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "b7724fac08f1900530d1bb2a43de606578e472f9d90a7ddd2c33398247ce4100",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "ding2020design",
+      "gif": "media/ding2020design-figure-slideshow.gif",
+      "decodedFrames": 10,
+      "sha256": "1f724ba638eaaad1fbe6a71d5edba6fe53c703a1c638d4229393e4378989b576",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "li2020influence",
+      "gif": "media/li2020influence-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "4b08ee453e7e317340263994a7e9bebcfaf00209428abed39dcbc4bdf2df5924",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "liu2020stroke",
+      "gif": "media/liu2020stroke-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "525154da96868e2b183e4bc0c4c4c4c141cacae8445f50fa262ec82940f4edca",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "yang2020subsequent",
+      "gif": "media/yang2020subsequent-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "02681551c580b5378198840db603cb31553d67dea96b6b271fc856541d69d9c9",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "zhang2020user",
+      "gif": "media/zhang2020user-paper-slideshow.gif",
+      "decodedFrames": 3,
+      "sha256": "65091edb033f44b62d40629ef5009f6c717e8f23f8f60e5d5c97f50947506746",
+      "losslessPagePixelChecks": 2,
+      "passed": true
+    },
+    {
+      "paperId": "zhou2020children",
+      "gif": "media/zhou2020children-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "7652f82dc4c4708886e4af4b7d4cd878dd1d8226b63a3668f83e5731b8bea6e3",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "jiang2022adaptive",
+      "gif": "media/jiang2022adaptive-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "14d8e2a508505a343342e4104309f12b90c60168eb2929581675c9697ea20f2b",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "li2022fast",
+      "gif": "media/li2022fast-paper-slideshow.gif",
+      "decodedFrames": 10,
+      "sha256": "c349511dda1b335f35f99873d4dcfae78256d6b90074641f408fdf8dbbdce59d",
+      "losslessPagePixelChecks": 9,
+      "passed": true
+    },
+    {
+      "paperId": "tan2022exploring",
+      "gif": "media/tan2022exploring-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "207d2a98a5feb7bd24474fdcfc90ff5155fc119153d748e58c048b75b81536cc",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "xiong2022pinyin",
+      "gif": "media/xiong2022pinyin-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "a3612c43e9250693dce08d819a9f5b76dfe708f78f01721543673cdf2ba35f41",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "li2023less",
+      "gif": "media/li2023less-paper-slideshow.gif",
+      "decodedFrames": 5,
+      "sha256": "b1b93924a104c82650a2e60c91918b3688523fc95d9937954ec369e504b031e7",
+      "losslessPagePixelChecks": 4,
+      "passed": true
+    },
+    {
+      "paperId": "luo2023internet",
+      "gif": "media/luo2023internet-paper-slideshow.gif",
+      "decodedFrames": 2,
+      "sha256": "b2cffe94a6d1b57334cacbfba3daa894d105c084ca1056d20c50431d55c4e568",
+      "losslessPagePixelChecks": 1,
+      "passed": true
+    },
+    {
+      "paperId": "ding2024generative",
+      "gif": "media/ding2024generative-paper-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "da2c2247ab135b6efb535b2d1bc7a96c4a7fe1f04a0e7ccb8447a78a9ae55b12",
+      "losslessPagePixelChecks": 5,
+      "passed": true
+    },
+    {
+      "paperId": "guo2024optimization",
+      "gif": "media/guo2024optimization-figure-slideshow.gif",
+      "decodedFrames": 6,
+      "sha256": "676eb01c266fce09765b726ce32ef0b3f18caf8a0200a8071815a521e0e9a2e1",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "knockel2024silent",
+      "gif": "media/knockel2024silent-paper-slideshow.gif",
+      "decodedFrames": 8,
+      "sha256": "1e6a3db58a23e1ced15be426b931b383ad9ab69c2c26d520430bf049edcdb493",
+      "losslessPagePixelChecks": 7,
+      "passed": true
+    },
+    {
+      "paperId": "sun2024exploring",
+      "gif": "media/sun2024exploring-keyframes.gif",
+      "decodedFrames": 3,
+      "sha256": "c0cf2c2a6ff5d7bbbfca1bb84fbded60e7a03d494ccd459bf10ddf7325b0f92e",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    },
+    {
+      "paperId": "chen2025investigating",
+      "gif": "media/chen2025investigating-paper-slideshow.gif",
+      "decodedFrames": 7,
+      "sha256": "d0d54fa03d59c1f82c380990d664712db66ef961cb9c94570b5d071cb37c9b4b",
+      "losslessPagePixelChecks": 6,
+      "passed": true
+    },
+    {
+      "paperId": "peng2025enhancing",
+      "gif": "media/peng2025enhancing-paper-slideshow.gif",
+      "decodedFrames": 4,
+      "sha256": "d207e86b11326190b4dab36c9ef1b6a2a3a8f46ade9ea2f3f74bf3273081a593",
+      "losslessPagePixelChecks": 3,
+      "passed": true
+    },
+    {
+      "paperId": "zhang2026tone",
+      "gif": "media/zhang2026tone-figure-slideshow.gif",
+      "decodedFrames": 18,
+      "sha256": "95d5382120ae88ec405d04a74518e723e3fa80460ed0462bf9349b0fd9016ddb",
+      "losslessPagePixelChecks": 0,
+      "passed": true
+    }
+  ]
+}
