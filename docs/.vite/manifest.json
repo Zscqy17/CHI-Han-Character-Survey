@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/atlas.tsx": {
-    "file": "CHI-Han-Character-Survey/_next/static/chunks/atlas-nge-UatV.js",
+    "file": "CHI-Han-Character-Survey/_next/static/chunks/atlas-nNN3_7xY.js",
     "name": "atlas",
     "src": "app/atlas.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "CHI-Han-Character-Survey/_next/static/chunks/app-route-prefetch-policy-DHcveWsW.js",
+    "file": "CHI-Han-Character-Survey/_next/static/chunks/app-route-prefetch-policy-BRrd9tGf.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -30,7 +30,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "CHI-Han-Character-Survey/_next/static/chunks/layout-segment-context-iKm_80mf.js",
+    "file": "CHI-Han-Character-Survey/_next/static/chunks/layout-segment-context-DV2yHJ-q.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -51,7 +51,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "CHI-Han-Character-Survey/_next/static/chunks/index-uz3vbyUg.js",
+    "file": "CHI-Han-Character-Survey/_next/static/chunks/index-C6xVv6U9.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,

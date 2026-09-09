@@ -2,7 +2,7 @@
 
 GitHub Pages serves this static website directly from a repository. Readers open a normal HTTPS link; they do not need a GitHub account or the offline PDF supplement.
 
-**Current review policy:** use the temporary anonymous review link supplied separately. GitHub Pages publication under the existing account is deferred because its address identifies that account. The instructions below are retained for later publication or a separate neutral publishing account.
+**Current review policy:** use the [temporary anonymous review website]([temporary review link supplied separately]). GitHub Pages publication under the existing account is deferred because its address identifies that account. The instructions below are retained for later publication or a separate neutral publishing account.
 
 ## Build and publish
 

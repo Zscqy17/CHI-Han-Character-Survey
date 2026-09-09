@@ -162,5 +162,2319 @@
       "ko": "논문에서 연결한 접근성 모바일 앱 뉴스 보도. 저자의 실험 영상이 아닌 제3자 보도이다."
     },
     "status": "news_coverage_source_confirmed"
+  },
+  {
+    "paperId": "sun2024exploring",
+    "sourceUrl": "https://aclanthology.org/2024.acl-short.56/",
+    "videoUrl": "https://aclanthology.org/2024.acl-short.56.mp4",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseBasis": "https://aclanthology.org/faq/copyright/",
+    "checkedAt": "2026-09-09",
+    "id": "sun2024exploring-video",
+    "kind": "video",
+    "caption": {
+      "en": "Conference-talk key frames: nine-/twenty-six-key Pinyin input, “bei zi” mapping to 被子 / 杯子 / 辈子, and the conditional variational model. These are explanatory slides, not a recorded typing trial.",
+      "zh": "会议讲解视频关键帧：九键／二十六键拼音输入、“bei zi”对应被子／杯子／辈子，以及条件变分模型。这些是讲解幻灯片，并非输入实验录像。",
+      "ja": "学会講演の抽出フレーム：9キー／26キーの拼音入力、「bei zi」から被子／杯子／辈子への対応、条件付き変分モデル。説明スライドであり、入力実験の録画ではない。",
+      "ko": "학회 발표 핵심 프레임: 9키/26키 병음 입력, “bei zi”와 被子 / 杯子 / 辈子의 대응, 조건부 변분 모델. 입력 실험 녹화가 아닌 설명 슬라이드이다."
+    },
+    "status": "official_video_accessible"
+  },
+  {
+    "paperId": "sun2024exploring",
+    "sourceUrl": "https://aclanthology.org/2024.acl-short.56/",
+    "videoUrl": "https://aclanthology.org/2024.acl-short.56.mp4",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseBasis": "https://aclanthology.org/faq/copyright/",
+    "checkedAt": "2026-09-09",
+    "id": "sun2024exploring-keyframes",
+    "kind": "gif",
+    "file": "media/sun2024exploring-keyframes.gif",
+    "poster": "media/sun2024exploring-keyframes-poster.png",
+    "caption": {
+      "en": "Conference-talk key frames: nine-/twenty-six-key Pinyin input, “bei zi” mapping to 被子 / 杯子 / 辈子, and the conditional variational model. These are explanatory slides, not a recorded typing trial.",
+      "zh": "会议讲解视频关键帧：九键／二十六键拼音输入、“bei zi”对应被子／杯子／辈子，以及条件变分模型。这些是讲解幻灯片，并非输入实验录像。",
+      "ja": "学会講演の抽出フレーム：9キー／26キーの拼音入力、「bei zi」から被子／杯子／辈子への対応、条件付き変分モデル。説明スライドであり、入力実験の録画ではない。",
+      "ko": "학회 발표 핵심 프레임: 9키/26키 병음 입력, “bei zi”와 被子 / 杯子 / 辈子의 대응, 조건부 변분 모델. 입력 실험 녹화가 아닌 설명 슬라이드이다."
+    },
+    "timestamps": [
+      10,
+      50,
+      110
+    ],
+    "durationsMs": [
+      3200,
+      5200,
+      4200
+    ],
+    "sourceType": "conference_explanation",
+    "adaptation": "Complete video frames selected, resized to 1280 × 720 and given a separate timestamp/attribution strip. Playback pauses shortened; original characters and diagrams retained. No reconstructed typing or generated content.",
+    "sourceSha256": "b45453e7e66343076f2a831919ea9883b264ee23c0669d1d9a32f837d57f1ef1",
+    "assetSha256": "c0cf2c2a6ff5d7bbbfca1bb84fbded60e7a03d494ccd459bf10ddf7325b0f92e"
+  },
+  {
+    "paperId": "sarhangzadeh2024alignment",
+    "sourceUrl": "https://aclanthology.org/2024.findings-acl.479/",
+    "videoUrl": "https://aclanthology.org/2024.findings-acl.479.mp4",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseBasis": "https://aclanthology.org/faq/copyright/",
+    "checkedAt": "2026-09-09",
+    "id": "sarhangzadeh2024alignment-video",
+    "kind": "video",
+    "caption": {
+      "en": "Conference-talk key frames: an introductory IME example with candidates, よいはんのうがある → 良い反応がある, alignment-based decoding, and correction of intermediate output. Explanatory slides; the introductory interface is not a measured trial of the proposed model.",
+      "zh": "会议讲解视频关键帧：带候选项的输入法入门示例、よいはんのうがある → 良い反応がある、基于对齐的解码及中间输出纠正。内容为讲解幻灯片；入门界面不是所提模型的实测实验。",
+      "ja": "学会講演の抽出フレーム：候補を含むIMEの導入例、よいはんのうがある → 良い反応がある、アラインメントに基づく復号、中間出力の修正。説明スライドであり、導入の画面は提案モデルの評価実験ではない。",
+      "ko": "학회 발표 핵심 프레임: 후보가 포함된 IME 도입 예시, よいはんのうがある → 良い反応がある, 정렬 기반 디코딩과 중간 출력 수정. 설명 슬라이드이며, 도입 화면은 제안 모델의 평가 실험이 아니다."
+    },
+    "status": "official_video_accessible"
+  },
+  {
+    "paperId": "sarhangzadeh2024alignment",
+    "sourceUrl": "https://aclanthology.org/2024.findings-acl.479/",
+    "videoUrl": "https://aclanthology.org/2024.findings-acl.479.mp4",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseBasis": "https://aclanthology.org/faq/copyright/",
+    "checkedAt": "2026-09-09",
+    "id": "sarhangzadeh2024alignment-keyframes",
+    "kind": "gif",
+    "file": "media/sarhangzadeh2024alignment-keyframes.gif",
+    "poster": "media/sarhangzadeh2024alignment-keyframes-poster.png",
+    "caption": {
+      "en": "Conference-talk key frames: an introductory IME example with candidates, よいはんのうがある → 良い反応がある, alignment-based decoding, and correction of intermediate output. Explanatory slides; the introductory interface is not a measured trial of the proposed model.",
+      "zh": "会议讲解视频关键帧：带候选项的输入法入门示例、よいはんのうがある → 良い反応がある、基于对齐的解码及中间输出纠正。内容为讲解幻灯片；入门界面不是所提模型的实测实验。",
+      "ja": "学会講演の抽出フレーム：候補を含むIMEの導入例、よいはんのうがある → 良い反応がある、アラインメントに基づく復号、中間出力の修正。説明スライドであり、導入の画面は提案モデルの評価実験ではない。",
+      "ko": "학회 발표 핵심 프레임: 후보가 포함된 IME 도입 예시, よいはんのうがある → 良い反応がある, 정렬 기반 디코딩과 중간 출력 수정. 설명 슬라이드이며, 도입 화면은 제안 모델의 평가 실험이 아니다."
+    },
+    "timestamps": [
+      45,
+      150,
+      290,
+      360
+    ],
+    "durationsMs": [
+      5000,
+      4000,
+      4000,
+      5000
+    ],
+    "sourceType": "conference_explanation",
+    "adaptation": "Complete video frames selected, resized to 1280 × 720 and given a separate timestamp/attribution strip. Playback pauses shortened; original characters and diagrams retained. No reconstructed typing or generated content.",
+    "sourceSha256": "c52fd49320342aa0f9032e1e32e3c7a4d847da319d3c09f6e7757023a56ed304",
+    "assetSha256": "9c1df9b4350ccb28670c2ba40cf7476c28b8bd1f8ed3ce0142e997fd8ead1a99"
+  },
+  {
+    "id": "hagiwara2013koosho-official-video",
+    "paperId": "hagiwara2013koosho",
+    "kind": "video",
+    "sourceUrl": "https://masukon.jp/research/",
+    "videoUrl": "https://www.youtube.com/watch?v=xurR3sYT08w",
+    "caption": {
+      "en": "Official KooSHO demonstration linked by a coauthor. The publisher description identifies aerial writing, kana–Kanji conversion and search visualization. Video-frame extraction was unavailable.",
+      "zh": "合著者页面链接的 KooSHO 官方演示。发布者说明涉及空中书写、假名—汉字转换及搜索展示；本轮无法提取视频帧。",
+      "ja": "共著者ページが示すKooSHO公式実演。公開者の説明は空中筆記、仮名漢字変換、検索結果表示を挙げる。今回、動画フレームは抽出できなかった。",
+      "ko": "공동저자 페이지에 연결된 KooSHO 공식 시연. 게시자 설명은 공중 필기, 가나–한자 변환과 검색 시각화를 명시한다. 이번에는 영상 프레임을 추출하지 못했다."
+    },
+    "checkedAt": "2026-09-09",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/xurR3sYT08w",
+    "status": "official_source_confirmed_download_restricted"
+  },
+  {
+    "id": "tan2022exploring-conference-video",
+    "paperId": "tan2022exploring",
+    "kind": "video",
+    "sourceUrl": "https://aclanthology.org/2022.acl-long.133/",
+    "videoUrl": "https://underline.io/lecture/50382-exploring-and-adapting-chinese-gpt-to-pinyin-input-method",
+    "caption": {
+      "en": "ACL 2022 conference explanation of the Chinese GPT Pinyin IME, available on Underline. Original lecture link only; no frames reproduced.",
+      "zh": "Underline 上的 ACL 2022 会议讲解，介绍中文 GPT 拼音输入法。保留原始报告链接，未转载视频帧。",
+      "ja": "Underlineで公開された中国語GPT拼音IMEのACL 2022講演。元の講演リンクのみを掲載し、フレームは転載していない。",
+      "ko": "Underline의 ACL 2022 중국어 GPT 병음 IME 발표. 원본 발표 링크만 제공하며 영상 프레임은 복제하지 않았다."
+    },
+    "checkedAt": "2026-09-09",
+    "status": "official_conference_lecture_accessible"
+  },
+  {
+    "id": "yokoyama2021joyflick-wiss2020-video",
+    "paperId": "yokoyama2021joyflick",
+    "kind": "video",
+    "sourceUrl": "https://kaiseiyokoyama.github.io/",
+    "videoUrl": "https://www.wiss.org/WISS2020Proceedings/data/17.mp4",
+    "caption": {
+      "en": "Author-linked WISS 2020 predecessor demonstration of JoyFlick kana entry. Related to the 2021 paper, not its experimental recording; final Kanji output was not verified.",
+      "zh": "作者链接的 WISS 2020 JoyFlick 前期假名输入演示。与 2021 年论文相关，但不是该论文实验录像；未核实最终汉字输出。",
+      "ja": "著者が示すWISS 2020のJoyFlick仮名入力の先行実演。2021年論文に関連するが、その実験録画ではない。漢字の確定出力は未確認。",
+      "ko": "저자가 연결한 WISS 2020 JoyFlick 가나 입력 선행 시연. 2021년 논문과 관련되지만 해당 실험 녹화는 아니다. 최종 한자 출력은 확인되지 않았다."
+    },
+    "checkedAt": "2026-09-09",
+    "status": "author_linked_predecessor_video_accessible"
+  },
+  {
+    "id": "yokoyama2021joyflick-mod-extension-video",
+    "paperId": "yokoyama2021joyflick",
+    "kind": "video",
+    "sourceUrl": "https://github.com/KaiseiYokoyama/JoyFlickMOD",
+    "videoUrl": "https://user-images.githubusercontent.com/8509057/140267217-08b6b6f0-0ff0-4de4-8a46-325e0ffe2837.mp4",
+    "caption": {
+      "en": "Author’s November 2021 Minecraft extension: kana composition and mixed-script candidates, including 女医, followed by the submitted Latin text JoyFlick. This is a later extension, not the paper experiment or committed Kanji output. Original video link only.",
+      "zh": "作者 2021 年 11 月的 Minecraft 扩展：假名组合与含「女医」的混合文字候选，最终提交拉丁文字 JoyFlick。这是后续扩展，不是论文实验或已提交的汉字输出；仅提供原视频链接。",
+      "ja": "著者による2021年11月のMinecraft拡張。仮名の組み立てと「女医」を含む混合文字候補の後、ラテン文字JoyFlickを送信する。論文実験や漢字の確定出力ではなく後続拡張。元動画へのリンクのみ。",
+      "ko": "저자의 2021년 11월 Minecraft 확장: 가나 조합과 女医를 포함한 혼합 문자 후보 뒤에 라틴 문자 JoyFlick을 전송한다. 논문 실험이나 확정된 한자 출력이 아닌 후속 확장이다. 원본 영상 링크만 제공한다."
+    },
+    "checkedAt": "2026-09-09",
+    "timestamps": [
+      0,
+      3,
+      5,
+      8,
+      10
+    ],
+    "status": "author_extension_source_verified"
+  },
+  {
+    "id": "ahn2025rectus-figure-slideshow",
+    "paperId": "ahn2025rectus",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/ahn2025rectus-figure-slideshow.gif",
+    "poster": "media/ahn2025rectus-figure-slideshow-poster.png",
+    "sourceUrl": "https://www.mdpi.com/1424-8220/25/23/7243",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "b0919d448058cbf13431abca74365969f1f4b320e524009aeee7e48efbdb1ba8",
+    "frames": [
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-1-p6.png",
+        "figure": "1",
+        "page": 6,
+        "rect": [
+          162.14450073242188,
+          97.83114624023438,
+          523.408447265625,
+          354.119140625
+        ],
+        "sha256": "3dcc0c4b9181c02863b9a3d4ff52e8687e7ba24c04ac3d49f0b76fcbe62819f5",
+        "captionOriginal": "Figure 1. (a) System configuration showing EMG electrodes, an acquisition device, a PC running signal processing, and a monitor with the Cheonjiin keyboard; (b) Flow diagram of EMG detection, preprocessing, feature extraction, classification, and key selection; (c) Disposable Ag/AgCl electrodes (Kendall) and the Ganglion board (OpenBCI) used for EMG acquisition.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-2-p6.png",
+        "figure": "2",
+        "page": 6,
+        "rect": [
+          161.35226440429688,
+          538.6289672851562,
+          510.70745849609375,
+          687.2835693359375
+        ],
+        "sha256": "8f0d6bd2e1d62234629c69297dcdcbe6f75514c280e63d4327f0dd6ce62bf624",
+        "captionOriginal": "Figure 2. Monitor interface and keyboard layout of the EMG‑based Cheonjiin speller. (a) The monitor interface displays directional command keys (UP, DOWN, LEFT, RIGHT, SELECT), which control cursor navigation and briefly flash when activated. The Cheonjiin keyboard layout is centered on the screen, and the text shown below it (e.g., “안녕하세요”) represents the user’s real‑time input. The red box highlights the currently selected key; (b) The Cheonjiin keyboard layout consists of Korean vowels (ㆍ, ㅡ, and ㅣ) and grouped consonant keys (ㄱㅋ, ㄴㄹ, ㄷㅌ, ㅂㅍ, ㅅㅎ, ㅈㅊ, ㅇㅁ) arranged to reflect the principles of the Cheonjiin input system.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-3-p9.png",
+        "figure": "3",
+        "page": 9,
+        "rect": [
+          13.266807556152344,
+          46.719024658203125,
+          573.0107421875,
+          262.8345947265625
+        ],
+        "sha256": "3f93d11d9397d39b0bf57b3802d50e6ac86fad5db98d0f64ff1d4a83d8c5247c",
+        "captionOriginal": "Figure 3. Electrode placement for EMG signal acquisition from the rectus femoris and gastrocnemius.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-4-p10.png",
+        "figure": "4",
+        "page": 10,
+        "rect": [
+          70.34390258789062,
+          55.154937744140625,
+          528.087890625,
+          483.0909423828125
+        ],
+        "sha256": "1c3069d5015ae56d8f9f3c70faea0fe454b3dae9922efb428b0aac76e03a9ec3",
+        "captionOriginal": "Figure 4. Flowchart of the proposed EMG‑based Cheonjiin speller system, showing signal prepro‑ cessing and cursor control steps.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-5-p12.png",
+        "figure": "5",
+        "page": 12,
+        "rect": [
+          161.85800170898438,
+          57.19598388671875,
+          560.177978515625,
+          559.5615844726562
+        ],
+        "sha256": "86b659415d6a1f479e92ee46114d25435c0e252b711f98ca4cfbe733828c4a49",
+        "captionOriginal": "Figure 5. Signal processing and feature extraction of EMG signals, including preprocessing, feature computation (RMS, slope sign changes, and peak amplitude), and key selection. In the preprocessing plots, the light blue region (0~2 s) represents the baseline measurement period, whereas the darker blue region indicates the segment used for signal processing. The light green region shown in feature extraction plots corresponds to the same processing segment highlighted in the prepro‑cessing stage.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-6-p13.png",
+        "figure": "6",
+        "page": 13,
+        "rect": [
+          57.11700439453125,
+          97.62905883789062,
+          537.468994140625,
+          370.819580078125
+        ],
+        "sha256": "3d219a8e9805c5b79356e8c93eb9b9f3a062a7286bdf8a0da408fb2a85605428",
+        "captionOriginal": "Figure 6. (a) Illustration of five input gestures based on rectus femoris and gastrocnemius muscle activation; (b) EMG signal recordings from individual channels showing variations during muscle contraction and relaxation for each gesture.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-7-p14.png",
+        "figure": "7",
+        "page": 14,
+        "rect": [
+          165.08706665039062,
+          64.8994140625,
+          554.949462890625,
+          593.0459594726562
+        ],
+        "sha256": "fecb28f3cae1631e78f125356c3bbc5524a4655c00e251737dfce7f2495b68ca",
+        "captionOriginal": "Figure 7. (a) Experiment 1 illustrating the control of five distinct commands (UP, DOWN, LEFT, RIGHT, and SELECT) through EMG gestures; (b) Experiment 2 illustrating the word‑input task and sentence‑input task using EMG‑based directional control.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-8-p17.png",
+        "figure": "8",
+        "page": 17,
+        "rect": [
+          56.0,
+          62.0,
+          535.0,
+          443.0
+        ],
+        "sha256": "8c4692d5afb4c66f67c6f3157358ad3de45df47b6d5b475383dc57bf639279f0",
+        "captionOriginal": "Figure 8. Temporal variations in the three extracted time‑domain features during continuous direc‑ tional input sequences. (a) Root Mean Square (RMS) representing overall signal power and muscle activation strength; (b) Slope Sign Change (SSC) capturing rapid fluctuations in motor‑unit firing activity; (c) Peak Amplitude highlighting transient high‑intensity contractions observed across four EMG channels.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-9-p18.png",
+        "figure": "9",
+        "page": 18,
+        "rect": [
+          162.0,
+          112.0,
+          557.0,
+          471.0
+        ],
+        "sha256": "6c15fdb3741103c2c5be48198de12ca37acba725c29ec31015cb4906b55fe110",
+        "captionOriginal": "Figure 9. (a) Confusion matrix for Experiment 1; (b) Confusion matrix for Experiment 2, with cor‑ responding bar graphs presenting the average accuracy, precision, recall, and F1‑score values, ex‑ pressed as percentages.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2025rectus/fig-10-p19.png",
+        "figure": "10",
+        "page": 19,
+        "rect": [
+          161.24700927734375,
+          475.77398681640625,
+          567.4869995117188,
+          639.6495971679688
+        ],
+        "sha256": "891aad897fc8be7022e5605f66e9dd7312d613f51ba05deb1569369eab99d655",
+        "captionOriginal": "Figure 10. Results of classification performance and user workload assessment; (a) Bar graph pre‑ senting evaluation scores of six workload components and overall workload across three subjects; (b) Pie chart showing the proportional contribution of each component to the overall workload.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–10 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Leg-muscle EMG triggers cursor and selection commands on a Cheonjiin keyboard to compose Hangul syllables. Hangul input; no Hanja conversion is demonstrated.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–10，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。腿部肌电触发 Cheonjiin 键盘的光标与选择命令，用于组合 Hangul 音节。 涉及 Hangul 输入，未展示 Hanja 转换。",
+      "ja": "論文図のスライドショー：図1〜10を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。脚の筋電でCheonjiinのカーソルと選択を操作し、Hangul音節を組み立てる。 Hangul入力であり、漢字変換の実演は含まない。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–10를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 다리 근전도로 천지인 키보드의 커서와 선택을 제어하여 한글 음절을 조합한다. 한글 입력이며 한자 변환 시연은 포함하지 않는다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "b12d050b3622fac05f429bfa0d634f3b347481fab37ea32bf28c7bfe8da52533",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-10; continuation frames retained."
+  },
+  {
+    "id": "ahn2026cheonjiin-figure-slideshow",
+    "paperId": "ahn2026cheonjiin",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/ahn2026cheonjiin-figure-slideshow.gif",
+    "poster": "media/ahn2026cheonjiin-figure-slideshow-poster.png",
+    "sourceUrl": "https://www.mdpi.com/1424-8220/26/7/2265",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "8071a0e23826785897b81b3fdc0983e0750939752f3b32355e67045179f9a259",
+    "frames": [
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-1-p5.png",
+        "figure": "1",
+        "page": 5,
+        "rect": [
+          87.85551452636719,
+          251.462646484375,
+          506.48236083984375,
+          675.48388671875
+        ],
+        "sha256": "5213e1b35860ea5052ee29db83673229aa5459de3d46c980b8a9256d2c8aced4",
+        "captionOriginal": "Figure 1. The experimental paradigm and system framework of the proposed SSVEP‑based Cheon‑ jiin speller. (a) An overview of the experimental configuration; (b) a system flow diagram illustrating signal acquisition, preprocessing, real‑time SSVEP decoding, and command generation; (c) an illus‑ tration of visual stimulation and corresponding EEG responses, including frequency‑coded visual stimulation, raw EEG recordings, filtered signals, and corresponding CCA reference signals used for correlation‑based frequency recognition.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-2-p6.png",
+        "figure": "2",
+        "page": 6,
+        "rect": [
+          153.83999633789062,
+          491.8399963378906,
+          573.8400268554688,
+          612.610595703125
+        ],
+        "sha256": "762ad634bccb4d5f2716870edc3d3b0f7fdd94e2658c38123a732967cdcb1a53",
+        "captionOriginal": "Figure 2. The graphical user interface and keyboard configuration of the proposed EEG‑based Cheon‑ jiin speller. (a) Screen display of the EEG‑based Cheonjiin system, where the red box indicates the current cursor position; (b) Cheonjiin keyboard layout with each stimulus labeled by its correspond‑ ing frequency (Hz).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-3-p7.png",
+        "figure": "3",
+        "page": 7,
+        "rect": [
+          150.47999572753906,
+          502.3999938964844,
+          335.760009765625,
+          651.18359375
+        ],
+        "sha256": "ecb735c243f28c0235e2f7bb121c4bcab499c15378d8cbe92300b51c3844eb97",
+        "captionOriginal": "Figure 3. EEG electrode placement. Purple circles denote the EEG recording sites (O1 and O2), the red circle denotes the reference electrode (POz), and the blue circle denotes the ground electrode (A1, left earlobe).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-4-p11.png",
+        "figure": "4",
+        "page": 11,
+        "rect": [
+          69.70000457763672,
+          63.2469482421875,
+          524.1799926757812,
+          541.7025756835938
+        ],
+        "sha256": "7679792f9ff5a08eb970c79221a5cf65265d4f3d15f3e5d086aceddb863daecb",
+        "captionOriginal": "Figure 4. Experimental Procedure. (a) Experiment 1 designed to quantitatively evaluate the classi‑ fication accuracy of five EEG‑driven control commands (UP, DOWN, LEFT, RIGHT, and SELECT); (b) Experiment 2 designed to assess real‑time Korean text entry performance through word input and sentence input tasks using EEG‑based directional navigation within the Cheonjiin interface.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-5-p14.png",
+        "figure": "5",
+        "page": 14,
+        "rect": [
+          81.76177978515625,
+          66.7247314453125,
+          509.0917663574219,
+          526.8087158203125
+        ],
+        "sha256": "8c99da17911951b0c9a9dd58bd05235dc983f3cafcd5e60db22bc680044cbee6",
+        "captionOriginal": "Figure 5. EEG signal analysis. (a) EEG headset and electrode configuration; (b) signal acquisition and processing procedure for 6.67 Hz stimulus; (c) time‑domain EEG signals for each stimulus fre‑ quency (0~5 s: pre‑stimulus; ≥5 s: stimulation); (d) Fast Fourier Transform (FFT) of EEG signals for each stimulus frequency; (e) scalp topographies showing frequency specific cortical activation; (f) signal‑to‑noise ratio (SNR) distributions for each stimulus frequency; (g) SNR values as a func‑ tion of stimulus frequency.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-6-p15.png",
+        "figure": "6",
+        "page": 15,
+        "rect": [
+          160.17800903320312,
+          64.2569580078125,
+          562.5780029296875,
+          463.64959716796875
+        ],
+        "sha256": "9ddfcb1b9b928b7adb8f5546ccb284c76ce6efe5cab1b7ea848f84da7f7f3ff6",
+        "captionOriginal": "Figure 6. EEG signal analysis under 12 Hz flicker stimulation. (a) The temporal amplitude and cor‑ responding spectral power changes induced by 12 Hz visual stimulation. The baseline was defined from −2 to 0 s, with stimulation applied intermittently at 0–1 s, 2–3 s, 4–6 s, and 7–10 s, showing stimulus‑locked frequency enhancement relative to baseline. (b) Event‑related spectral perturbation (ERSP) averaged across 10 trials under 12 Hz flicker stimulation.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-7-p16.png",
+        "figure": "7",
+        "page": 16,
+        "rect": [
+          161.0,
+          104.0,
+          564.0,
+          659.0
+        ],
+        "sha256": "0f2f9a1d0b4c0a0bdb96890339b8c036a23c3fde38b59d364cc78933c74e0ae3",
+        "captionOriginal": "Figure 7. (a) Window size optimization results from the preliminary experiment, presenting accuracy and ITR values for different analysis window durations; (b) confusion matrices for Experiments 1 and 2 with corresponding bar charts of accuracy, precision, recall, and F1‑score (%).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-8-p18.png",
+        "figure": "8",
+        "page": 18,
+        "rect": [
+          164.0,
+          133.0,
+          562.0,
+          679.0
+        ],
+        "sha256": "5283a0246e787aaf77fe17e8cc4a1bef31b4106964fa72386d1a6dee8e043a7f",
+        "captionOriginal": "Figure 8. Longitudinal evaluation of system performance across multiple sessions. (a) Longitudinal changes across four consecutive days (D1–D4) for each participant in Experiment 1 and Experiment 2; (b) day‑wise group averages of performance across participants; (c) experiment‑wise comparison showing mean accuracy and information transfer rate (ITR) across participants for Experiment 1 and Experiment 2.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ahn2026cheonjiin/fig-9-p19.png",
+        "figure": "9",
+        "page": 19,
+        "rect": [
+          164.0,
+          301.0,
+          562.0,
+          460.0
+        ],
+        "sha256": "b51a0537a42fe4a3b1945e868aa49543ee44c5d915f96e89ab710f8664ebe42e",
+        "captionOriginal": "Figure 9. NASA‑TLX for user workload assessment. (a) Bar chart comparing NASA‑TLX scores across subjects for Experiments 1 and 2; (b) pie chart representing relative contribution of each NASA‑ TLX subscale to total workload.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–9 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. EEG signals select five cursor commands on a Cheonjiin keyboard to compose Hangul; command accuracy is distinct from text-entry accuracy. Hangul input; no Hanja conversion is demonstrated.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–9，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。脑电信号选择 Cheonjiin 键盘上的五种光标命令以组合 Hangul；命令准确率与文字输入准确率不同。 涉及 Hangul 输入，未展示 Hanja 转换。",
+      "ja": "論文図のスライドショー：図1〜9を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。EEGで5種類のカーソル命令を選び、CheonjiinキーボードでHangulを合成する。命令精度と文字入力精度を区別する。 Hangul入力であり、漢字変換の実演は含まない。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–9를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. EEG로 다섯 가지 커서 명령을 선택하여 천지인 키보드에서 한글을 조합한다. 명령 정확도와 문자 입력 정확도를 구분한다. 한글 입력이며 한자 변환 시연은 포함하지 않는다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "3d37267608fd43347d2fc054c6001e72f888837e892ee1223939a03c7a223663",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-9; continuation frames retained."
+  },
+  {
+    "id": "park2015enhanced-figure-slideshow",
+    "paperId": "park2015enhanced",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/park2015enhanced-figure-slideshow.gif",
+    "poster": "media/park2015enhanced-figure-slideshow-poster.png",
+    "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S1071581914001050",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "d688b09309fe32338374ef9a65b3b79cfe09649d220fc5718d6a7d5a56931687",
+    "frames": [
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-1-p3.png",
+        "figure": "1",
+        "page": 3,
+        "rect": [
+          65.0,
+          429.0,
+          269.0,
+          568.0
+        ],
+        "sha256": "2dab256aefff78e8f3a3b10e67c9fab29b14006930cebff3738572eb0afb01cf",
+        "captionOriginal": "Fig. 1. Spectrum of a vowel /i/.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-2-p3.png",
+        "figure": "2",
+        "page": 3,
+        "rect": [
+          129.0,
+          602.0,
+          476.0,
+          736.0
+        ],
+        "sha256": "333c7890f28e61da764362b8d4cffc122163474a11d7fec3d67e426d59633bfd",
+        "captionOriginal": "Fig. 2. Generation process of auditory feedback using acoustic phonetic features.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-3-p4.png",
+        "figure": "3",
+        "page": 4,
+        "rect": [
+          304.0,
+          43.0,
+          554.0,
+          147.11770629882812
+        ],
+        "sha256": "00fb62b9fd9ac9dd92d3ea0878f0e11ec8caf3529163ee96c7e5150c1b6a6961",
+        "captionOriginal": "Fig. 3. Layout of the Korean QWERTY touch screen keyboard.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-4-p5.png",
+        "figure": "4",
+        "page": 5,
+        "rect": [
+          339.0639953613281,
+          56.63800048828125,
+          535.06298828125,
+          380.1719970703125
+        ],
+        "sha256": "7863add0a04cc96f0130fa5afe76a76d219688c13a662bd422d0cd7d028aa801",
+        "captionOriginal": "Fig. 4. Experimental application utilized in User Study 1 with task phrases, text input box, and Korean QWERTY touch screen keyboard.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-5-p6.png",
+        "figure": "5",
+        "page": 6,
+        "rect": [
+          60.25899887084961,
+          235.03302001953125,
+          256.25799560546875,
+          558.5670166015625
+        ],
+        "sha256": "3e5fd80607bfd5472b5d0356665a0247ebe0d39d54ec194be70edaa854e9d1d1",
+        "captionOriginal": "Fig. 5. Experimental application utilized in User Study 2 with text input box and Korean QWERTY touch screen keyboard.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-6-p6.png",
+        "figure": "6",
+        "page": 6,
+        "rect": [
+          128.7259979248047,
+          609.3140258789062,
+          456.7239990234375,
+          734.5130004882812
+        ],
+        "sha256": "470c0a66e6cda1de8bb05a8bda9c4aaac25e31c6a7f367753f328584bc13132d",
+        "captionOriginal": "Fig. 6. Set-up used in User Study 2.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-7-p6.png",
+        "figure": "7",
+        "page": 6,
+        "rect": [
+          305.22601318359375,
+          435.6969909667969,
+          549.2249755859375,
+          567.135986328125
+        ],
+        "sha256": "da458c74d83a33cfe4f651c3c19b292fb69876556254ce596cd895559169c10d",
+        "captionOriginal": "Fig. 7. Set-up used in User Study 3.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-8-p8.png",
+        "figure": "8",
+        "page": 8,
+        "rect": [
+          80.7020034790039,
+          56.636962890625,
+          504.94000244140625,
+          449.8669738769531
+        ],
+        "sha256": "c5ba54578e4b054cfeadec6fb7b8f33c995e057f6599d7879e97ce5fc4d1b722",
+        "captionOriginal": "Fig. 8. (a) Mean WPM, (b) Mean KSPC, (c) Mean CER, (d) Mean NCER, (e) Mean CONS and (f) UB in limited visual feedback condition.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-9-p9.png",
+        "figure": "9",
+        "page": 9,
+        "rect": [
+          89.0,
+          54.0,
+          522.0,
+          451.0
+        ],
+        "sha256": "567809c6a30b858b32bf230ee1640b0091b92f83b4f47438ae2f230a722cf9eb",
+        "captionOriginal": "Fig. 9. (a) Mean WPM, (b) Mean KSPC, (c) Mean CER, (d) Mean NCER, (e) Mean CONS and (f) UB in the open visual feedback condition.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/park2015enhanced/fig-10-p10.png",
+        "figure": "10",
+        "page": 10,
+        "rect": [
+          80.7020034790039,
+          56.636962890625,
+          504.94000244140625,
+          451.3069763183594
+        ],
+        "sha256": "fb9c882eab87b414239cd6d0af45056bd20347dfcbf01cfeb5bc98aaf878cce5",
+        "captionOriginal": "Fig. 10. (a) Mean WPM, (b) Mean KSPC, (c) Mean CER, (d) Mean NCER, (e) Mean CONS and (f) Mean UB in the open visual feedback condition in cafe.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–10 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Different sounds provide feedback for Korean touchscreen typing; sentence transcription is tested with automatic completion and correction disabled. Hangul input; no Hanja conversion is demonstrated.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–10，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。为韩文触屏输入提供不同声音反馈，在关闭自动补全和自动纠错的条件下测试句子抄录。 涉及 Hangul 输入，未展示 Hanja 转换。",
+      "ja": "論文図のスライドショー：図1〜10を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。異なる音で韓国語タッチ入力にフィードバックを与える。文の転記実験では自動補完と自動修正を無効にした。 Hangul入力であり、漢字変換の実演は含まない。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–10를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 한국어 터치 입력에 서로 다른 소리 피드백을 제공한다. 문장 전사 실험에서는 자동 완성과 교정을 껐다. 한글 입력이며 한자 변환 시연은 포함하지 않는다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "e51c92cb670fdd2578879434390ac392ec6c57537ca4c4542ca189d041cf322e",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-10; continuation frames retained."
+  },
+  {
+    "id": "hagiwara2013koosho-figure-slideshow",
+    "paperId": "hagiwara2013koosho",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/hagiwara2013koosho-figure-slideshow.gif",
+    "poster": "media/hagiwara2013koosho-figure-slideshow-poster.png",
+    "sourceUrl": "https://aclanthology.org/N13-3006/",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "66fd466a6be4257b13711f1ff4ce33c11e14462b3ef6d61e4a7ae275124f737f",
+    "frames": [
+      {
+        "file": "media/figure-sequences/hagiwara2013koosho/fig-1-p1.png",
+        "figure": "1",
+        "page": 1,
+        "rect": [
+          331.0,
+          231.0,
+          524.0,
+          294.0
+        ],
+        "sha256": "e39860fc75d474fa6439de9daed15af956b91522036f459f162cbb957b3e2a69",
+        "captionOriginal": "Figure 1: Overall text input procedure using KooSHO — (a) Character recognition (b) Kana- Kanji conversion results (c) Search results",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/hagiwara2013koosho/fig-2-p2.png",
+        "figure": "2",
+        "page": 2,
+        "rect": [
+          74.16000366210938,
+          56.47999954223633,
+          297.3599853515625,
+          147.5977783203125
+        ],
+        "sha256": "42bcff7bf634ca1139ca416f1d04dc3eb667376388b2b64572f0100be2be6d24",
+        "captionOriginal": "Figure 2: Conﬁugration of the KooSHO system",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/hagiwara2013koosho/fig-3-p2.png",
+        "figure": "3",
+        "page": 2,
+        "rect": [
+          318.2270202636719,
+          10.0,
+          534.9764404296875,
+          138.8477783203125
+        ],
+        "sha256": "aad58a93ca9002f7f724fe1d9f27719bf9cc09362d77a17be84451275154c9bd",
+        "captionOriginal": "Figure 3: Lattice search based on consonants",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–3 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Aerial letter trajectories form a lattice; consonant decoding produces Kanji candidates that users touch to submit a search query.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–3，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。空中字母轨迹形成词格，辅音解码生成汉字候选，用户触及候选后提交检索式。",
+      "ja": "論文図のスライドショー：図1〜3を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。空中で描く字母軌跡から格子を作り、子音の復号で漢字候補を生成する。利用者はタッチで検索語を確定する。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–3를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 공중에 쓴 글자 궤적으로 격자를 만들고 자음 디코딩으로 한자 후보를 생성한다. 사용자는 터치로 검색어를 확정한다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "0f0c7933e8cf8efc0373a5e2470ce36f4791e995463ecc22f8705010348524dc",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-3; continuation frames retained."
+  },
+  {
+    "id": "yuasa2025flickpose-figure-slideshow",
+    "paperId": "yuasa2025flickpose",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/yuasa2025flickpose-figure-slideshow.gif",
+    "poster": "media/yuasa2025flickpose-figure-slideshow-poster.png",
+    "sourceUrl": "https://www.mdpi.com/2076-3417/15/15/8122",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "fd18cfc04b65dbef4b6b938033349d41f5c52402ed2c9f90b3d3d486ac0a3ef3",
+    "frames": [
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-1-p5.png",
+        "figure": "1",
+        "page": 5,
+        "rect": [
+          156.16200256347656,
+          447.4620361328125,
+          307.5220031738281,
+          570.0220336914062
+        ],
+        "sha256": "d736957113d2988104b00a0f0655c1fd98a62bae1380a98b73ed73ed59d6e74b",
+        "captionOriginal": "Figure 1. Key layout for flick input.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-2-p6.png",
+        "figure": "2",
+        "page": 6,
+        "rect": [
+          156.98800659179688,
+          233.06103515625,
+          509.2279968261719,
+          334.058349609375
+        ],
+        "sha256": "a039b8860fb1bcc89ffb164995f376765e47b8998219f592c53f89541c6790a4",
+        "captionOriginal": "Figure 2. Left-hand poses used in the text input system.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-3-p7.png",
+        "figure": "3",
+        "page": 7,
+        "rect": [
+          160.7060089111328,
+          68.02299499511719,
+          538.385986328125,
+          231.38299560546875
+        ],
+        "sha256": "b5f3158af4a4403b9304bcea2a9f7d22d49b87e9da3bd2bbef253a0e4036c44d",
+        "captionOriginal": "Figure 3. Virtual objects used in FlickPose.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-4-p7.png",
+        "figure": "4",
+        "page": 7,
+        "rect": [
+          159.87899780273438,
+          253.47999572753906,
+          364.7590026855469,
+          384.67999267578125
+        ],
+        "sha256": "366f47c560ed8825e992bb81a511d6f05eb4e88e0e405a0614bf314bdbc5840a",
+        "captionOriginal": "Figure 4. Placement position of virtual object.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-5-p7.png",
+        "figure": "5",
+        "page": 7,
+        "rect": [
+          167.6750030517578,
+          559.1110229492188,
+          391.2750244140625,
+          761.4710083007812
+        ],
+        "sha256": "9fb40ae3131abc7fc1720c6879f7ea798053ea282a392473927c6e822d4a4626",
+        "captionOriginal": "Figure 5. Status of touch-panel type.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-6-p8.png",
+        "figure": "6",
+        "page": 8,
+        "rect": [
+          168.08799743652344,
+          194.78501892089844,
+          377.76800537109375,
+          397.20501708984375
+        ],
+        "sha256": "5e6b4188b8ccb2a0ccfc41c6533fc9f420536cb060847f8a5fd0f96debec1444",
+        "captionOriginal": "Figure 6. Status of raycast type.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-7-p10.png",
+        "figure": "7",
+        "page": 10,
+        "rect": [
+          167.6750030517578,
+          122.50401306152344,
+          355.1549987792969,
+          270.9840087890625
+        ],
+        "sha256": "86d7c044974377449bc6ff9adfb386b523a62dc310fabd3e0279859806f7470e",
+        "captionOriginal": "Figure 7. Hand pose with each finger moderately bent.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-8-p10.png",
+        "figure": "8",
+        "page": 10,
+        "rect": [
+          167.72799682617188,
+          309.24005126953125,
+          403.5679931640625,
+          569.800048828125
+        ],
+        "sha256": "185a2b3c2ea14e560a03f17b671986403bca836548c7ee8a72d303de56e8e5a1",
+        "captionOriginal": "Figure 8. Scene of hand data collection.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-9-p12.png",
+        "figure": "9",
+        "page": 12,
+        "rect": [
+          165.99095153808594,
+          145.25259399414062,
+          434.92694091796875,
+          297.68060302734375
+        ],
+        "sha256": "560be35f8fe7c55845532b34de0c4eff83f394a053112afb3f5fadcd7b7f47d8",
+        "captionOriginal": "Figure 9. Architecture of model with all joint points as input.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-10-p14.png",
+        "figure": "10",
+        "page": 14,
+        "rect": [
+          167.31500244140625,
+          495.4951171875,
+          370.7550048828125,
+          642.2951049804688
+        ],
+        "sha256": "a5b1941a8877442115ced2801101aa7f7cb6bd00bfe6346df4afcdf994d3fbf6",
+        "captionOriginal": "Figure 10. Option button location.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-11-p15.png",
+        "figure": "11",
+        "page": 15,
+        "rect": [
+          168.50100708007812,
+          71.60298156738281,
+          411.96099853515625,
+          257.3429870605469
+        ],
+        "sha256": "56c1d646c6d2206983f8cccc41c72222edcdd4503df494cce5c93b2ac37a0230",
+        "captionOriginal": "Figure 11. Virtual keyboard with QWERTY layout.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-12-p16.png",
+        "figure": "12",
+        "page": 16,
+        "rect": [
+          165.99095153808594,
+          72.21543884277344,
+          385.678955078125,
+          279.5914306640625
+        ],
+        "sha256": "c862451372cd42c70b898a53073b2acec99cdc546c0a9c2170d41cac48707300",
+        "captionOriginal": "Figure 12. Example of screen during experiment.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-13-p16.png",
+        "figure": "13",
+        "page": 16,
+        "rect": [
+          166.4308319091797,
+          605.0526733398438,
+          336.41424560546875,
+          761.9884643554688
+        ],
+        "sha256": "384c94b60c59dcc263d233f96bcd5f84a9f60315c00c4649ae74cf5a765d8a41",
+        "captionOriginal": "Figure 13. Subject in raycast type experiment.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-14-p19.png",
+        "figure": "14",
+        "page": 19,
+        "rect": [
+          163.0,
+          355.0,
+          562.0,
+          725.0
+        ],
+        "sha256": "9c21c3fe6b5c6b0e62260023767d3d98ed3262515508c2338f56a9f43369b33c",
+        "captionOriginal": "Figure 14. Cont.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yuasa2025flickpose/fig-14-p20.png",
+        "figure": "14",
+        "page": 20,
+        "rect": [
+          163.0,
+          70.0,
+          563.0,
+          314.0
+        ],
+        "sha256": "32bd795a71861493c46357e71833f64d7689913155e18f951e4281ae0a035ecf",
+        "captionOriginal": "Figure 14. Distribution of responses to each question in questionnaire.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–14 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. One hand selects a key and the other selects a symbol through hand poses; dictionary-based kana–Kanji conversion produces Japanese text.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–14，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。一只手选键，另一只手通过手势选字符，再由基于词典的假名转汉字生成日文文本。",
+      "ja": "論文図のスライドショー：図1〜14を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。片手でキー、もう片手の姿勢で記号を選ぶ。辞書による仮名漢字変換で日本語の文字列を作る。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–14를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 한 손으로 키를 고르고 다른 손 자세로 문자를 선택한다. 사전 기반 가나–한자 변환으로 일본어 텍스트를 만든다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "8a0cc1ce525bcd121d46235deac5cd3ba1d241794203eeb6f244cc349c2f2ac8",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-14; continuation frames retained."
+  },
+  {
+    "id": "yokoyama2021joyflick-figure-slideshow",
+    "paperId": "yokoyama2021joyflick",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/yokoyama2021joyflick-figure-slideshow.gif",
+    "poster": "media/yokoyama2021joyflick-figure-slideshow-poster.png",
+    "sourceUrl": "https://link.springer.com/chapter/10.1007/978-3-030-85613-7_8",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "37d01e145eec127521722b77d973dcb1d7e87b1d55ad0082f923fd0ae17265c2",
+    "frames": [
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-1-p2.png",
+        "figure": "1",
+        "page": 2,
+        "rect": [
+          50.0,
+          50.0,
+          402.0,
+          137.0
+        ],
+        "sha256": "a11059ebacbc776a26bce6133f3a0c3894e0b75b7c82d829428e06b1db78d60b",
+        "captionOriginal": "Fig. 1. Views of game controller (Nintendo Switch Pro Controller [16]). (a) Front view. (b) Top view.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-2-p3.png",
+        "figure": "2",
+        "page": 3,
+        "rect": [
+          60.0,
+          361.0,
+          391.0,
+          458.0
+        ],
+        "sha256": "be19edaf549af618191d4110c66fb417150115439c75fc447580ddc6a2ffc6e7",
+        "captionOriginal": "Fig. 2. Japanese syllabary charts. (Left) Basic letters only. (Right) Voiced letters, the P-sound, and small letters.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-3-p4.png",
+        "figure": "3",
+        "page": 4,
+        "rect": [
+          106.31999969482422,
+          476.9599914550781,
+          317.5199890136719,
+          570.3919067382812
+        ],
+        "sha256": "b2420d168ee98895963db05fb1696f1ac8ea3189762ecd82c8b19be761877db1",
+        "captionOriginal": "Fig. 3. View of the Kana syllabary keyboard.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-4-p5.png",
+        "figure": "4",
+        "page": 5,
+        "rect": [
+          93.48699951171875,
+          299.93902587890625,
+          358.4930114746094,
+          453.1650390625
+        ],
+        "sha256": "1d13803e01e9cd78adbf838d54a966b0822d575072022eaa443ecb3ba6672846",
+        "captionOriginal": "Fig. 4. Process of ﬂick-input. (a) Pressing the ‘ ’ key will provide feedback on char- acters that can be input by tapping or ﬂicking the ‘ ’ key. (b) Flicking the ‘ ’ key downwards will input (c) “ ”.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-5-p7.png",
+        "figure": "5",
+        "page": 7,
+        "rect": [
+          183.0,
+          50.0,
+          269.0,
+          132.0
+        ],
+        "sha256": "781ae47e4e010b12ec77d3bac2ae9c1fbb0e92ca754182b93e7d421fd4f3d525",
+        "captionOriginal": "Fig. 5. View of the EGConvert when the user selects ‘ ’ (T-o).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-6-p7.png",
+        "figure": "6",
+        "page": 7,
+        "rect": [
+          87.0,
+          224.0,
+          372.0,
+          296.0
+        ],
+        "sha256": "97116dd312febc767b32b2fc1142d4bd24395f9e70b7225e0462036056cef971",
+        "captionOriginal": "Fig. 6. Views of IToNe (a) when both sticks are in the neutral position and (b) when the user selects the ‘ ’ (T-o) key.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-7-p8.png",
+        "figure": "7",
+        "page": 8,
+        "rect": [
+          128.0,
+          50.0,
+          294.0,
+          144.0
+        ],
+        "sha256": "ee4f0068db21b23e9c68552b0ae501dd08ce5c3a288e580dbce1066903af4d13",
+        "captionOriginal": "Fig. 7. JoyFlick’s widget in the neutral position (both sticks) and descriptions.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-8-p9.png",
+        "figure": "8",
+        "page": 9,
+        "rect": [
+          53.0,
+          49.0,
+          401.0,
+          134.0
+        ],
+        "sha256": "b25e4f924c3c8ab7c5ef5fc958f609dfc53a19636cf8b330f88e48542fa6dd9c",
+        "captionOriginal": "Fig. 8. JoyFlick’s widget (a) when the user selects the ‘ ’ key and (b) when the user selects the ‘ ’ and ‘ ’ keys to enter “ ” (T-o).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-9-p10.png",
+        "figure": "9",
+        "page": 10,
+        "rect": [
+          111.06700134277344,
+          208.4390411376953,
+          312.9830017089844,
+          361.0350341796875
+        ],
+        "sha256": "d26998321caeee3de1020fcb3808fe8479e0ba4141965324365a3d1b39ecdb87",
+        "captionOriginal": "Fig. 9. Display during the tests. In this example, the participant was instructed to enter “ ” (“INTERACT”) (a) and “ ” (“INTERAC”) has been entered (b). During the trainings, the text explaining how to complete the entry was additionally showed.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-10-p12.png",
+        "figure": "10",
+        "page": 12,
+        "rect": [
+          37.20000076293945,
+          47.84000015258789,
+          213.83999633789062,
+          210.9600067138672
+        ],
+        "sha256": "16e14a1a3d26cbb7584c869f32afe65d54d3dd81a498e94d1d3d96be19af3ae8",
+        "captionOriginal": "Fig. 10. Average text entry speeds using JoyFlick and Kana syllabary key- board. The gray bands show 95% con- ﬁdence interval.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-11-p12.png",
+        "figure": "11",
+        "page": 12,
+        "rect": [
+          220.55999755859375,
+          47.84000015258789,
+          397.20001220703125,
+          210.9600067138672
+        ],
+        "sha256": "f48b3dc24eed04383f5dad676bd90c4ef5f882d5d7b468374053a7af57bc2a7d",
+        "captionOriginal": "Fig. 11. Average JoyFlick text entry speeds of TARGET-USERS and OTH- ERS. The gray bands show 95% conﬁ- dence interval.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-12-p12.png",
+        "figure": "12",
+        "page": 12,
+        "rect": [
+          213.83999633789062,
+          267.20001220703125,
+          402.4800109863281,
+          442.79998779296875
+        ],
+        "sha256": "29c15d40d1738d02d8e34bb40b25f29b46ddb3ae859a35c0b9f9fea2656c5383",
+        "captionOriginal": "Fig. 12. Average text entry speeds using JoyFlick and Kana syllabary keyboard of (left) TARGET-USERS and (right) OTHERS. The gray bands show 95% conﬁdence interval.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-13-p15.png",
+        "figure": "13",
+        "page": 15,
+        "rect": [
+          49.20000076293945,
+          47.36000061035156,
+          228.72000122070312,
+          212.39999389648438
+        ],
+        "sha256": "f698ffba58f0fbd303183fdcb7b91b9199c51c9a74fab13cd591e5eb213ace0e",
+        "captionOriginal": "Fig. 13. Average text entry speeds for JoyFlick and Kana syllabary keyboard. The gray bands show 95% conﬁdence interval.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-14-p15.png",
+        "figure": "14",
+        "page": 15,
+        "rect": [
+          232.55999755859375,
+          47.36000061035156,
+          412.0799865722656,
+          212.39999389648438
+        ],
+        "sha256": "c79737485efbf20a603f624e38e6930e8d69e6574fa2bce6e0cc63df36845dd8",
+        "captionOriginal": "Fig. 14. Average JoyFlick text entry speeds of TARGET-USERS and OTH- ERS. The gray bands show 95% conﬁ- dence interval.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yokoyama2021joyflick/fig-15-p15.png",
+        "figure": "15",
+        "page": 15,
+        "rect": [
+          52.560001373291016,
+          266.239990234375,
+          240.72000122070312,
+          443.2799987792969
+        ],
+        "sha256": "2dfbd4f3e20bd28a37155ed40f64e2791bf0e609a2fc38dc7e7dbbe171e446f5",
+        "captionOriginal": "Fig. 15. Average text entry speeds for JoyFlick and Kana syllabary keyboard of (left) TARGET-USERS and (right) OTHERS. The gray bands show 95% conﬁdence interval.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–15 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Two joysticks and modifier buttons produce Japanese kana. IME integration and VR use are discussed as future extensions. Background keyboard designs discussed in the paper are also included.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–15，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。两个摇杆与修饰按键用于输入日文假名，接入输入法和 VR 使用属于讨论中的后续扩展。 同时包含论文讨论的背景键盘设计。",
+      "ja": "論文図のスライドショー：図1〜15を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。2本のジョイスティックと修飾ボタンで日本語の仮名を入力する。IME統合とVR利用は今後の拡張として述べる。 論文が背景として論じる既存キーボードの図も含む。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–15를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 조이스틱 두 개와 수정 버튼으로 일본어 가나를 입력한다. IME 통합과 VR 활용은 향후 확장으로 논의한다. 논문에서 배경으로 논의한 기존 키보드 그림도 포함한다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "ee94a4e0c82ede93902c537c2e86f73dd939dee105f4ecd687744a2bea54690e",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-15; continuation frames retained."
+  },
+  {
+    "id": "yu2019asynchronous-figure-slideshow",
+    "paperId": "yu2019asynchronous",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/yu2019asynchronous-figure-slideshow.gif",
+    "poster": "media/yu2019asynchronous-figure-slideshow-poster.png",
+    "sourceUrl": "https://ieeexplore.ieee.org/abstract/document/8708258/",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "ea33fbf78bfc940585819fbb7ea3c20c3ec39c9be11218d2084158ec83fe3952",
+    "frames": [
+      {
+        "file": "media/figure-sequences/yu2019asynchronous/fig-1-p4.png",
+        "figure": "1",
+        "page": 4,
+        "rect": [
+          47.428001403808594,
+          56.12799072265625,
+          564.5719604492188,
+          434.1919860839844
+        ],
+        "sha256": "f30b9d9d5f0b7b8196ee5ecf5ba9297bc7950254495906d292bbccac6e0d18fb",
+        "captionOriginal": "Fig. 1. Illustration of the sinogram input procedure. A (left-top) The GUI used in the P300 calibration experiment, highlighting the intensiﬁcation of one row. B (right-top) The GUI at the beginning of the online spelling experiment. The sinograms with their corresponding Pinyins are displayed on the top of the GUI as a prompt. C (left-bottom) The GUI after the initial consonant is input. D (right-bottom) The GUI after the vowel is input. The sinograms in the red box can be directly selected by performing a double-blink task.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yu2019asynchronous/fig-2-p5.png",
+        "figure": "2",
+        "page": 5,
+        "rect": [
+          338.6679992675781,
+          52.048004150390625,
+          542.9719848632812,
+          206.4320068359375
+        ],
+        "sha256": "367049c92490a9ae6bc2436cd750659301e517d62087544f31a645c7568fbc8a",
+        "captionOriginal": "Fig. 2. Flow chart of the sinogram input procedure. The blue line corresponds to the averaged EOG signals during the blinking task, and the pink line represents the averaged EOG signals for the non-blinking task.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yu2019asynchronous/fig-3-p6.png",
+        "figure": "3",
+        "page": 6,
+        "rect": [
+          318.9880065917969,
+          56.36798095703125,
+          555.572021484375,
+          319.23199462890625
+        ],
+        "sha256": "38adba000776f6cda1b9728a4dcc76d1a6bb95611b14d93542b87ae9394d70f3",
+        "captionOriginal": "Fig. 3. Flow chart of the sinogram input procedure.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–3 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. EEG spelling is activated by triple blinks, while double blinks select predicted Chinese characters.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–3，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。三次眨眼激活脑电拼写，双次眨眼用于选择预测汉字。",
+      "ja": "論文図のスライドショー：図1〜3を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。3回の瞬目でEEG綴り入力を起動し、2回の瞬目で予測漢字を選択する。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–3를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 세 번 눈을 깜박여 EEG 철자 입력을 시작하고 두 번 깜박여 예측 한자를 선택한다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "deaca8026e390b64841acd5dbca513519d514cb37f61199811689c92ddf47e53",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-3; continuation frames retained."
+  },
+  {
+    "id": "tong2024eye-figure-slideshow",
+    "paperId": "tong2024eye",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/tong2024eye-figure-slideshow.gif",
+    "poster": "media/tong2024eye-figure-slideshow-poster.png",
+    "sourceUrl": "https://doi.org/10.1145/3654702",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "9355fb5a562876b6c6785f68222d12e738fd45e7dc4e36094d7ed1cb063b9c5c",
+    "frames": [
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-1-p5.png",
+        "figure": "1",
+        "page": 5,
+        "rect": [
+          43.827999114990234,
+          292.465576171875,
+          442.1900634765625,
+          530.2319946289062
+        ],
+        "sha256": "dd76389fca1d254d55bff745e4b32e049ebbf5c68fb58d379cb6c0e6f150fcea",
+        "captionOriginal": "Fig. 1. Eye-Strokes Drawing System for Mandarin Characters Architecture",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-2-p6.png",
+        "figure": "2",
+        "page": 6,
+        "rect": [
+          43.827999114990234,
+          292.9729309082031,
+          442.19049072265625,
+          493.70501708984375
+        ],
+        "sha256": "6ffb77df3345da42c5feeeeb9df3ecf439e5f62390019713b646df28ec669959",
+        "captionOriginal": "Fig. 2. Eye-Strokes Drawing System for Mandarin Characters Detection Flowchart",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-3-p7.png",
+        "figure": "3",
+        "page": 7,
+        "rect": [
+          149.25,
+          185.64801025390625,
+          336.75,
+          372.14801025390625
+        ],
+        "sha256": "a34d2277718e85e343e39f0bd67c7217311254f81546966eb70a126d92d7e218",
+        "captionOriginal": "Fig. 3. Eye-Strokes Drawing System for Mandarin Characters Project Physical Setup",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-4-p8.png",
+        "figure": "4",
+        "page": 8,
+        "rect": [
+          102.9800033569336,
+          82.68145751953125,
+          383.03961181640625,
+          241.76199340820312
+        ],
+        "sha256": "49f8073426abc190961569c41b93a8291d79e401c47ce5d136c4a1a74737ddb9",
+        "captionOriginal": "Fig. 4. Tobii Dynavox Software Bundle – Calibration Settings Page",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-5-p8.png",
+        "figure": "5",
+        "page": 8,
+        "rect": [
+          102.9800033569336,
+          278.2113037109375,
+          383.0366516113281,
+          434.97296142578125
+        ],
+        "sha256": "99ce5c1284c358eb0cd5223f53f2213660a810feff04936ffe9f82e289db97c7",
+        "captionOriginal": "Fig. 5. Main Scene Screenshot (Completed state)",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-6-p9.png",
+        "figure": "6",
+        "page": 9,
+        "rect": [
+          151.78599548339844,
+          118.1287841796875,
+          334.21673583984375,
+          191.80902099609375
+        ],
+        "sha256": "8088a73fbfdb2fe4cca779dc7a5cd4e9f1c92bc5f80b1f6b0fcecf7e187ee229",
+        "captionOriginal": "Fig. 6. Start Button Game Object (None, Partial, Complete dwell durations)",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-7-p9.png",
+        "figure": "7",
+        "page": 9,
+        "rect": [
+          167.0399932861328,
+          442.3215026855469,
+          318.9644775390625,
+          513.3049926757812
+        ],
+        "sha256": "cacd20734d808530139ca90656025bf4f4512024701e4d012c8354debf98087c",
+        "captionOriginal": "Fig. 7. Canvas Game Object (Idle, Complete states)",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-8-p11.png",
+        "figure": "8",
+        "page": 11,
+        "rect": [
+          140.60000610351562,
+          219.06700134277344,
+          345.4000244140625,
+          415.86700439453125
+        ],
+        "sha256": "d9d17158f6096c41126a37f17f33aac01de08d2ee88378617658c4093de444ea",
+        "captionOriginal": "Fig. 8. Sample Training Accuracy graph of CNN Model Training on dataset",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-9-p13.png",
+        "figure": "9",
+        "page": 13,
+        "rect": [
+          63.5469970703125,
+          354.4225769042969,
+          422.4671630859375,
+          514.0040283203125
+        ],
+        "sha256": "d9b43a9fea6bfc1589afb30fbb7040f513ba16b76c683d3763e233ec5977c2c0",
+        "captionOriginal": "Fig. 9. Intermediate Usability Test Bar Chart (Questions 1-3)",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-10-p14.png",
+        "figure": "10",
+        "page": 14,
+        "rect": [
+          43.827999114990234,
+          82.68234252929688,
+          233.1797637939453,
+          200.81097412109375
+        ],
+        "sha256": "15074830f9e1432f834f93af3316e57826d10dbd6834da3485a02f100b1c2345",
+        "captionOriginal": "Fig. 10. Intermediate usability test for the average time taken per task with their longest and shortest completion times",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/tong2024eye/fig-11-p14.png",
+        "figure": "11",
+        "page": 14,
+        "rect": [
+          252.8300018310547,
+          83.734375,
+          442.173583984375,
+          200.81097412109375
+        ],
+        "sha256": "b5a2f5d44e421f66e57075e97167263b83baf0b79e42a20ffe8cb607e6921dd9",
+        "captionOriginal": "Fig. 11. Intermediate usability test for Start, Undo, Clear Button Triggers",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–11 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Eye movements draw strokes for a limited Mandarin character set; the tested single characters include 一, 十 and 床.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–11，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。通过眼动绘制有限字集中的汉字笔画，测试的单字包括“一”“十”和“床”。",
+      "ja": "論文図のスライドショー：図1〜11を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。眼球運動で限定された中国語文字集合の筆画を描く。単字実験には一・十・床が含まれる。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–11를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 눈 움직임으로 제한된 중국어 문자 집합의 획을 그린다. 단일 문자 실험에는 一·十·床이 포함된다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "f97bf45635fcb0c7ebd6eb993c47a9a34b6718fffa8bd0ca8bb8a4ed9401e3e3",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-11; continuation frames retained."
+  },
+  {
+    "id": "guo2024optimization-figure-slideshow",
+    "paperId": "guo2024optimization",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/guo2024optimization-figure-slideshow.gif",
+    "poster": "media/guo2024optimization-figure-slideshow-poster.png",
+    "sourceUrl": "https://doi.org/10.1145/3640471.3680458",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "043b2603b87520cd4ca60e1190a0a2dbf7ae107935afe7ef49c4008b44b054dd",
+    "frames": [
+      {
+        "file": "media/figure-sequences/guo2024optimization/fig-1-p2.png",
+        "figure": "1",
+        "page": 2,
+        "rect": [
+          51.79800033569336,
+          81.68763732910156,
+          296.0450134277344,
+          252.905029296875
+        ],
+        "sha256": "c0577f49ebcfc2b0b9802d17c72aba3301a9db247dd90aaaf3aa493818bbe13e",
+        "captionOriginal": "Figure 1: Traditional T9 input layout",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/guo2024optimization/fig-2-p3.png",
+        "figure": "2",
+        "page": 3,
+        "rect": [
+          315.9549865722656,
+          355.2914733886719,
+          560.2035522460938,
+          467.28399658203125
+        ],
+        "sha256": "8b6420c53127936076846d5ff5c7a85bfe6e242394d6cb2565d1b8d16e5b9096",
+        "captionOriginal": "Figure 2: New T9 (left) and original T9 (right) layout",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/guo2024optimization/fig-3-p3.png",
+        "figure": "3",
+        "page": 3,
+        "rect": [
+          315.9549865722656,
+          520.8056030273438,
+          560.2049560546875,
+          669.1300048828125
+        ],
+        "sha256": "5858f0f5ec0e59ca2fcda7dee338faf18c31ed41c8d472cf29237f33b836ee42",
+        "captionOriginal": "Figure 3: Letter frequency",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/guo2024optimization/fig-4-p5.png",
+        "figure": "4",
+        "page": 5,
+        "rect": [
+          33.36000061035156,
+          77.5999984741211,
+          312.239990234375,
+          231.7344512939453
+        ],
+        "sha256": "bb1ea94cacc39dd0d12de3b0c64055ad5c91cb924937db1deb2a90d6970a195c",
+        "captionOriginal": "Figure 4: Comparison of new and original T9 keyboard layout in WPM",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/guo2024optimization/fig-5-p5.png",
+        "figure": "5",
+        "page": 5,
+        "rect": [
+          316.0,
+          80.0,
+          560.0,
+          219.0
+        ],
+        "sha256": "86e80cbcc856dc823db96341c2c3aba9c1460c3854514035e6ce45ba0a72e236",
+        "captionOriginal": "Figure 5: Comparison of thermal map for original T9 (left) and new T9 (right)",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/guo2024optimization/fig-6-p5.png",
+        "figure": "6",
+        "page": 5,
+        "rect": [
+          315.9549865722656,
+          302.07232666015625,
+          560.2017822265625,
+          451.27001953125
+        ],
+        "sha256": "da8ecf89955f346188ceeae30fded59778f88120c045ec81e8baa71e64edc896",
+        "captionOriginal": "Figure 6: Accuracy map of original T9 (in blue) and new T9 (in orange)",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–6 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. CN-T9 rearranges a numeric Pinyin keyboard to improve Chinese input layout; product implementation is discussed as future work.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–6，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。CN-T9 重排数字拼音键盘以改进中文输入布局，产品实现属于后续工作。",
+      "ja": "論文図のスライドショー：図1〜6を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。CN-T9が数字拼音キーボードを再配置して中国語入力の配列を改善する。製品実装は今後の課題である。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–6를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. CN-T9가 숫자 병음 키보드를 재배열하여 중국어 입력 배열을 개선한다. 제품 구현은 향후 과제로 논의한다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "676eb01c266fce09765b726ce32ef0b3f18caf8a0200a8071815a521e0e9a2e1",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-6; continuation frames retained."
+  },
+  {
+    "id": "yao2019seeime-figure-slideshow",
+    "paperId": "yao2019seeime",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/yao2019seeime-figure-slideshow.gif",
+    "poster": "media/yao2019seeime-figure-slideshow-poster.png",
+    "sourceUrl": "https://dl.acm.org/doi/abs/10.1145/3321408.3321594",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "37f78a5f4c77de6e00d6533dd56bd26ab092b1bb00cee18c0fd0b66c68f4f9f5",
+    "frames": [
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-1-p2.png",
+        "figure": "1",
+        "page": 2,
+        "rect": [
+          143.0,
+          80.0,
+          468.0,
+          202.0
+        ],
+        "sha256": "3a07a594baf7de316bb09f8ef6af7a30a18cd3e3d75b508eeacaba5c850c5b23",
+        "captionOriginal": "Figure 1: The architecture of the SeeIME",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-2-p2.png",
+        "figure": "2",
+        "page": 2,
+        "rect": [
+          390.0,
+          463.0,
+          489.0,
+          558.0
+        ],
+        "sha256": "1303ec7ef96a57b13a2d93bac1623b06f4042b8bd319412012c949fc8582de00",
+        "captionOriginal": "Figure 2: The procedure of SeeIME initialization",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-3-p3.png",
+        "figure": "3",
+        "page": 3,
+        "rect": [
+          51.0,
+          79.0,
+          299.0,
+          141.0
+        ],
+        "sha256": "71acc5c2e80ecb3da266d740ae999ca42d9652f3d5413e5d9bc413eebccd3d66",
+        "captionOriginal": "Figure 3: Screenshots of the keyboard in different modes. The picture on the left indicates the input of Pinyin, and the right indicates typing English translation for the target word",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-4-p3.png",
+        "figure": "4",
+        "page": 3,
+        "rect": [
+          57.0,
+          203.0,
+          291.0,
+          266.0
+        ],
+        "sha256": "03dd3eb5685155b7e490fcb4083d25d451b9d8a5ab6a5f5d06bf69f62dbd5584",
+        "captionOriginal": "Figure 4: The design of customized candidate bar",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-5-p3.png",
+        "figure": "5",
+        "page": 3,
+        "rect": [
+          350.0,
+          80.0,
+          526.0,
+          233.0
+        ],
+        "sha256": "2c2eeba3a5fdc5e560bcf5ef1704221eaa0288147b570e03d3b21113b0988bef",
+        "captionOriginal": "Figure 5: The specific process of Pinyin segmentation. A is the Pinyin syllable, I and E are the Pinyin character and English character, respectively",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-6-p3.png",
+        "figure": "6",
+        "page": 3,
+        "rect": [
+          319.0,
+          442.0,
+          556.0,
+          562.0
+        ],
+        "sha256": "f58f6f74ad2606bd8829c6065c3b9948a9dad393b87c6911b4c72e5862c14d91",
+        "captionOriginal": "Figure 6: Candidate sentence generation",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-7-p4.png",
+        "figure": "7",
+        "page": 4,
+        "rect": [
+          322.0,
+          79.0,
+          558.0,
+          228.0
+        ],
+        "sha256": "0772005ca1da0b129fba48dbfa05106552b028dcc4f23ec8036b14f4b0f1a14b",
+        "captionOriginal": "Figure 7: Candidate word reduction for the same syllable after adding two English characters",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-8-p4.png",
+        "figure": "8",
+        "page": 4,
+        "rect": [
+          314.0,
+          269.0,
+          562.0,
+          351.0
+        ],
+        "sha256": "acdb09adde8f29e47f1ff55340aec4f3e516c39bf89fa1921218246257ea5ec7",
+        "captionOriginal": "Figure 8: Screenshot of the actual use of IME",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-9-p4.png",
+        "figure": "9",
+        "page": 4,
+        "rect": [
+          321.0,
+          465.0,
+          560.0,
+          589.0
+        ],
+        "sha256": "a467dfb57761abd7348e7d8aba7475381b79e707d20bd3bc8831def78ec0158c",
+        "captionOriginal": "Figure 9: Search times for each syllable",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-10-p5.png",
+        "figure": "10",
+        "page": 5,
+        "rect": [
+          55.0,
+          173.0,
+          293.0,
+          336.0
+        ],
+        "sha256": "33973acbfa46bf0e33171c79ad4b8d455c5424c25491b23a85ba207a102bbc2a",
+        "captionOriginal": "Figure 10: The length distribution of Chinese characters in the testing set",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-11-p5.png",
+        "figure": "11",
+        "page": 5,
+        "rect": [
+          51.0,
+          462.0,
+          291.0,
+          581.0
+        ],
+        "sha256": "bd0499f735d5b9102a2c0fa3102e92f72c44453fb8b3d2256b620b60a9241cd8",
+        "captionOriginal": "Figure 11: The improvement of HRF using hybrid code",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/yao2019seeime/fig-12-p5.png",
+        "figure": "12",
+        "page": 5,
+        "rect": [
+          325.0,
+          81.0,
+          558.0,
+          202.0
+        ],
+        "sha256": "7dcf9e8a482e9bc86d2218ddfa126716a3628aaee063bd3c8a62b20f410e98b5",
+        "captionOriginal": "Figure 12: The statistics of five users’usages in 30 days.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–12 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. A learner-oriented mobile IME displays Pinyin, Chinese characters and English together using a hybrid Pinyin code.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–12，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。面向学习者的手机输入法采用混合拼音编码，同时显示拼音、汉字及英文。",
+      "ja": "論文図のスライドショー：図1〜12を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。学習者向け携帯IMEが混合拼音コードを使い、拼音・漢字・英語を一緒に表示する。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–12를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 학습자용 모바일 IME가 혼합 병음 코드를 사용하여 병음·한자·영어를 함께 표시한다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "61af833f586245c35f19df3e4caef13e42737f8bd840443f695376e3f73c6a04",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-12; continuation frames retained."
+  },
+  {
+    "id": "zhang2026tone-figure-slideshow",
+    "paperId": "zhang2026tone",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/zhang2026tone-figure-slideshow.gif",
+    "poster": "media/zhang2026tone-figure-slideshow-poster.png",
+    "sourceUrl": "https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2537784",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "80a1c0ef60192dc58feaed6e6f7b6017f9eb59bd2bf6bdce555355e923fa9697",
+    "frames": [
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-1-p5.png",
+        "figure": "1",
+        "page": 5,
+        "rect": [
+          151.63800048828125,
+          54.80598449707031,
+          443.63800048828125,
+          206.37799072265625
+        ],
+        "sha256": "f8d8e5dccba2578b90004752a02ad06fe2984dc30bd149db597fc8aca98beaf0",
+        "captionOriginal": "Figure 1. Chinese characters with the same mouth shape but different tones. Above are one-syllable words and below are two-syllable words.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-2-p7.png",
+        "figure": "2",
+        "page": 7,
+        "rect": [
+          115.63800048828125,
+          548.6019897460938,
+          479.63800048828125,
+          684.1859741210938
+        ],
+        "sha256": "b9009ce426be16bb36e14df20d075d1051e9638ed23b890b0665bdd4aa6403ff",
+        "captionOriginal": "Figure 2. (a) The user interface for the three selection-based methods (ControllerRay-Selection, HeadRotation-Selection, and a pie menu divided into five equal sections for the five tones). When the user’s cursor hovers over a tone in the pie menu, that area gradually lights up. In the figure, the color for tone1 is at its brightest state (dwell 400 ms), while the other tones remain at their dimmest states. (b) The interaction interface for two gesture-based methods (TouchPad- Gesture and HeadRotation-Gesture), consists of the sentences to be input and the asterisks (\u0001) feedback.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-3-p8.png",
+        "figure": "3",
+        "page": 8,
+        "rect": [
+          115.63800048828125,
+          506.93194580078125,
+          479.63800048828125,
+          728.2359619140625
+        ],
+        "sha256": "c7a70df85e3393af9ee44da9f432ef21ac0b57b0fe141f3b26a6f8f22be4b81d",
+        "captionOriginal": "Figure 3. (a) Five hand gestures for TouchPad-Gesture. (b) Five head gestures for HeadRotation-Gesture.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-4-p10.png",
+        "figure": "4",
+        "page": 10,
+        "rect": [
+          76.63300323486328,
+          535.6759643554688,
+          518.5859985351562,
+          706.1829833984375
+        ],
+        "sha256": "a64f91d24013a66432f95dccaecad72e742bba4a8679291ae4e01aa4c2745077",
+        "captionOriginal": "Figure 4. Boxplots of NASA-TLX scores (the lower, the better). The icon (\u0003) represents the mean score of all partici- pants. \u0001\u0001\u0001, \u0001\u0001, and \u0001 represent the .001, .01, and .05 significance level (p < 0.001, p < 0.01, and p < 0.05), respectively. The same marking scheme is used in all boxplots of this paper.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-5-p11.png",
+        "figure": "5",
+        "page": 11,
+        "rect": [
+          76.63300323486328,
+          570.427978515625,
+          518.5859985351562,
+          717.1809692382812
+        ],
+        "sha256": "692a7d3a5f35d0103a0df9e124e7bcb3d847b818241617f0c0917020888d086b",
+        "captionOriginal": "Figure 5. Boxplots of (a) entry rate, and (b) SUS scores (the higher, the better). The icon (\u0003) represents the mean score of all participants. \u0001represent the 0.05 significance level (p < 0.05). (c) The ranking of each tone-input method.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-6-p12.png",
+        "figure": "6",
+        "page": 12,
+        "rect": [
+          223.63800048828125,
+          522.0689697265625,
+          371.63800048828125,
+          717.1809692382812
+        ],
+        "sha256": "c8099434c88721ec0a546d89c7ac404d0b0e69fc3db1ca9d5207deb761d3581e",
+        "captionOriginal": "Figure 6. The user is conducting silent speech input in VR. The camera mounted on the HMD captures mouth move- ments, while the touchpad on the controller records tone gestures.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-7-p14.png",
+        "figure": "7",
+        "page": 14,
+        "rect": [
+          76.63300323486328,
+          471.61297607421875,
+          518.5859985351562,
+          706.239990234375
+        ],
+        "sha256": "5cad4832777301df90678b269965aa7343de65784a52f608d0ca865160a21f63",
+        "captionOriginal": "Figure 7. Tone-guided sequence modeling, the left figure is the structure of ToneLipNet, and the right figure shows the dynamic flow of ToneLipNet in prediction, taking the sentence “去吃饭吗” (“are you going to eat?”) as an example.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-8-p16.png",
+        "figure": "8",
+        "page": 16,
+        "rect": [
+          127.65699768066406,
+          586.81298828125,
+          467.6190185546875,
+          728.1799926757812
+        ],
+        "sha256": "dba4e4218ff18d02db687f5dc1fc3134164ab3df19fe57cb855e0e1834cad778",
+        "captionOriginal": "Figure 8. The CER and accuracy of ToneLipNet and baseline.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-9-p18.png",
+        "figure": "9",
+        "page": 18,
+        "rect": [
+          79.63800048828125,
+          54.806976318359375,
+          515.6380004882812,
+          206.83197021484375
+        ],
+        "sha256": "4b21695938609a4587fc4a6fd665f737f92e19150974407e785273a8789e26b4",
+        "captionOriginal": "Figure 9. (a) The number of Chinese characters in each sentence in our dataset. (b) The recording durations for each sentence in our dataset.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-10-p19.png",
+        "figure": "10",
+        "page": 19,
+        "rect": [
+          127.65699768066406,
+          54.8070068359375,
+          467.6190185546875,
+          196.17401123046875
+        ],
+        "sha256": "1756be1ed0675debeb199ba796110b348f29f2001e625e95dc02ca09bb7fd13a",
+        "captionOriginal": "Figure 10. The CER and accuracy of ToneLipNet and baseline under random split, representing the performance under regular conditions.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-11-p19.png",
+        "figure": "11",
+        "page": 19,
+        "rect": [
+          127.65699768066406,
+          246.42898559570312,
+          467.6190185546875,
+          389.2129821777344
+        ],
+        "sha256": "9f4e24c978862bf2458345fb43cf1ea45782fde0fd0c71a35ea0320bb4deccf5",
+        "captionOriginal": "Figure 11. The CER and accuracy of our ToneLipNet and baseline under participant-based split, representing the per- formance when handling new individuals.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-12-p20.png",
+        "figure": "12",
+        "page": 20,
+        "rect": [
+          127.65699768066406,
+          457.27001953125,
+          467.6190185546875,
+          595.0650024414062
+        ],
+        "sha256": "757a167ce1110b3cdb981d583757493be12fb31b1b2dfc3e94ee272cd4499a75",
+        "captionOriginal": "Figure 12. The CER and accuracy of our ToneLipNet and baseline under sentence-based split, representing the perform- ance when handling unseen sentences.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-13-p23.png",
+        "figure": "13",
+        "page": 23,
+        "rect": [
+          76.63300323486328,
+          54.806976318359375,
+          518.5859985351562,
+          490.8069763183594
+        ],
+        "sha256": "94e1e0a8f8921f3ef9193671e8a250ea558f416171aca71dda9524dd50eaaf71",
+        "captionOriginal": "Figure 13. (a) Average character-entry error rate (CER). (b) median tone-input error rate (TER). (c) average entry rate. Error bars of (a), (b) and (c) indicate ±1 standard errors. (d) Boxplots of SUS scores (the higher, the better). The icon (\u0003) represents the mean score of all participants. \u0001 represents 0.05 significance level (p < 0.05).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-14-p24.png",
+        "figure": "14",
+        "page": 24,
+        "rect": [
+          76.63300323486328,
+          54.8070068359375,
+          518.5859985351562,
+          179.39300537109375
+        ],
+        "sha256": "8ad63bde604ea01ac911479cfeda973072ee8d64a8ff16878a9ecfdaf8a3697e",
+        "captionOriginal": "Figure 14. Boxplots of NASA-TLX scores (the lower, the better).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-15-p26.png",
+        "figure": "15",
+        "page": 26,
+        "rect": [
+          211.61900329589844,
+          555.68798828125,
+          383.6000061035156,
+          730.447021484375
+        ],
+        "sha256": "dc51b37857fc2021586879fd1a686df671eaed8d49bdd49063ac522b10f2317e",
+        "captionOriginal": "Figure 15. Movement overlap rate (MOR). Error bars indicate ±1 standard errors.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-16-p27.png",
+        "figure": "16",
+        "page": 27,
+        "rect": [
+          211.61900329589844,
+          54.80699157714844,
+          383.6000061035156,
+          240.45098876953125
+        ],
+        "sha256": "26320590bcbcf0dec0ef624eac66cb263568377724ac179e0f6694b3f03bc3a0",
+        "captionOriginal": "Figure 16. Perceived coordination level. Error bars indicate ±1 standard errors.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-17-p27.png",
+        "figure": "17",
+        "page": 27,
+        "rect": [
+          211.61900329589844,
+          281.4079895019531,
+          383.6000061035156,
+          473.2879943847656
+        ],
+        "sha256": "1243f98a31368df585b8cf0085242add57f0d814ed78efe947260aaeadc4dbc5",
+        "captionOriginal": "Figure 17. Movement synchronization rate (MSR). Error bars indicate ±1 standard errors. \u0001represents p< 0.05 (Independent samples t-test).",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/zhang2026tone/fig-18-p27.png",
+        "figure": "18",
+        "page": 27,
+        "rect": [
+          128.0,
+          521.0,
+          476.0,
+          730.0
+        ],
+        "sha256": "03d721df194d0c7ee0f642def45a7861cd3ce6f3a0261b7c9fcf60443523e51d",
+        "captionOriginal": "Figure 18. Hand-mouth action priority.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–18 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Silent lip movements and touchpad tone gestures are fused in VR to generate Mandarin Han text without acoustic speech input.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–18，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。在 VR 中融合无声唇动与触控板声调手势，生成普通话汉字文本，无需声学语音输入。",
+      "ja": "論文図のスライドショー：図1〜18を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。VRで無音の唇運動とタッチパッドの声調ジェスチャーを融合し、音声入力なしで標準中国語の漢字列を生成する。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–18를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. VR에서 무음 입술 움직임과 터치패드 성조 제스처를 융합하여 음향 음성 입력 없이 표준 중국어 한자 텍스트를 생성한다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "95d5382120ae88ec405d04a74518e723e3fa80460ed0462bf9349b0fd9016ddb",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-18; continuation frames retained."
+  },
+  {
+    "id": "ding2020design-figure-slideshow",
+    "paperId": "ding2020design",
+    "kind": "gif",
+    "sourceType": "paper_figure_slideshow",
+    "sourceKind": "figure_sequence",
+    "file": "media/ding2020design-figure-slideshow.gif",
+    "poster": "media/ding2020design-figure-slideshow-poster.png",
+    "sourceUrl": "https://www.sciencedirect.com/science/article/pii/S1746809419303489",
+    "rights": "source_excerpt",
+    "sourcePdfSha256": "ed574c5b8f9cd13c8c8dfba676ce1a14cc402eebd1e18990315ffb90e06e671d",
+    "frames": [
+      {
+        "file": "media/figure-sequences/ding2020design/fig-1-p2.png",
+        "figure": "1",
+        "page": 2,
+        "rect": [
+          62.44499969482422,
+          53.18400573730469,
+          522.6849975585938,
+          209.5360107421875
+        ],
+        "sha256": "1c566ad821d85a41eccd739bf7e0d112e3c52ff964e6439bb7a8050758d55e9e",
+        "captionOriginal": "Fig.  1.  EOG  signal  generation  and  acquisition.  (a)  Anatomy  of  the  eyeball  and  (b)  distribution  of  EOG  collection  electrodes.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-2-p3.png",
+        "figure": "2",
+        "page": 3,
+        "rect": [
+          120.0,
+          52.0,
+          487.0,
+          304.0
+        ],
+        "sha256": "8342e37935c0f98bc5288cde141fc2e983900b2071d1577c381cb513304cf4f4",
+        "captionOriginal": "Fig.  2.  Overall  framework  of  the  EsCew  system.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-3-p4.png",
+        "figure": "3",
+        "page": 4,
+        "rect": [
+          61.0,
+          52.0,
+          524.0,
+          261.0
+        ],
+        "sha256": "2779f6cf42b635e4d3dbf8c4c2a2acdb4a5991d8bfcead6a724c5ab3c8a7f933",
+        "captionOriginal": "Fig.  3.  Eye  movement  patterns  and  their  EOG  waveforms.  Digits  1–5  represent  5  basic  strokes,  and  6–7  indicate  2  control  commands;  (a)–(e)  are  designed  eye  movement patterns",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-4-p4.png",
+        "figure": "4",
+        "page": 4,
+        "rect": [
+          109.0,
+          296.0,
+          476.0,
+          455.0
+        ],
+        "sha256": "5c99d9c91c1af49900995fcc2d30959209af913020fb15e4a97ae687ddd10491",
+        "captionOriginal": "Fig.  4.  An  experimental  paradigm  for  natural  Chinese  characters  data  collection.  The  eye  movement  pattern  during  the  period  of  eye  writing  could  be  one  of  5  basic  strokes or",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-5-p5.png",
+        "figure": "5",
+        "page": 5,
+        "rect": [
+          46.51000213623047,
+          53.968017578125,
+          290.75,
+          219.5360107421875
+        ],
+        "sha256": "c30767d835b7bd427ea2b13b41fdffc1c447c20e950ee6412bc230a9ebca8aed",
+        "captionOriginal": "Fig.  5.  Demonstration  of  the  path-warping  procedure.  The  horizontal  axis  is  the  total frame",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-6-p6.png",
+        "figure": "6",
+        "page": 6,
+        "rect": [
+          35.69999694824219,
+          53.39201354980469,
+          279.94000244140625,
+          237.5360107421875
+        ],
+        "sha256": "f68f74920b90c531abd6e5cdebdb2f8a7af74205b177dae3e90cb6e94a08ba28",
+        "captionOriginal": "Fig.  6.  The  real  experimental  scenario.  (a)  Signal  ampliﬁer  used  to  amplify  the  eye- writing",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-7-p7.png",
+        "figure": "7",
+        "page": 7,
+        "rect": [
+          72.0,
+          52.0,
+          535.0,
+          466.0
+        ],
+        "sha256": "b045701b610e91f3bb585135c53c4af0dbccd69c3bc2822200c5a04bf22e5325",
+        "captionOriginal": "Fig.  7.  Stroke  detection  results  using  the  proposed  algorithm  in  the  case  of  Chinese  character  “   ”.  (a)  Filtered  vertical  and  (c)  horizontal  EOG  data,  (b)  and  (d)  stroke segments  after  blink  splitting,  and  (e)  corresponding  stroke  sequences.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-8-p7.png",
+        "figure": "8",
+        "page": 7,
+        "rect": [
+          315.0,
+          495.0,
+          561.0,
+          704.0
+        ],
+        "sha256": "fe0c5993bfa9e9143810c4e69d2489e0805e4af9f004caa51cfde1c5153eb088",
+        "captionOriginal": "Fig.  8.  Confusion  matrices  of  basic  strokes  in  the  case  of  the  natural  eye-writing state.",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-9-p8.png",
+        "figure": "9",
+        "page": 8,
+        "rect": [
+          302.0,
+          52.0,
+          552.0,
+          300.0
+        ],
+        "sha256": "6ef28854e44e958e0f7da740d2f02b26a66b111d661a4eb07b7cdf768ca10409",
+        "captionOriginal": "Fig.  9.  Interaction  interface  of  the  saccade-control  method.  The  deﬁnition  of  each component",
+        "visuallyChecked": true
+      },
+      {
+        "file": "media/figure-sequences/ding2020design/fig-10-p9.png",
+        "figure": "10",
+        "page": 9,
+        "rect": [
+          46.70899963378906,
+          81.27603149414062,
+          362.708984375,
+          290.33203125
+        ],
+        "sha256": "4217bf4745f31d8139666d5bcad1d9a8cbfdf301ecfcde71edd3537139e834db",
+        "captionOriginal": "Fig.  10.  Comparison  results  between  the  eye-writing  method  and  the  saccade-control  method  under  different  rounds.  (a)  Average  input  rates  and  (b)  average  accuracies.",
+        "visuallyChecked": true
+      }
+    ],
+    "caption": {
+      "en": "Paper-figure slideshow: Figures 1–10 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Eye-writing signals are used to enter a small set of simplified Chinese characters, with calibration and confirm/cancel operations.",
+      "zh": "论文图组轮播：按原文顺序展示图 1–10，保留跨页续图。它是原文配图的编辑轮播，不是连续输入录像。眼写信号用于输入少量简体汉字，系统提供校准及确认、取消操作。",
+      "ja": "論文図のスライドショー：図1〜10を原文順に表示し、続きの図も保持する。原文の図を編集したもので、連続入力の録画ではない。眼書き信号から少数の簡体字を入力し、校正と確定・取り消し操作を備える。",
+      "ko": "논문 그림 슬라이드쇼: 그림 1–10를 원문 순서로 표시하며 이어지는 그림도 보존한다. 원문 그림을 편집한 슬라이드쇼이며 연속 입력 녹화가 아니다. 눈으로 쓰는 신호로 소수의 간체 한자를 입력하며 보정과 확인·취소를 지원한다."
+    },
+    "checkedAt": "2026-09-09",
+    "assetSha256": "1f724ba638eaaad1fbe6a71d5edba6fe53c703a1c638d4229393e4378989b576",
+    "adaptation": "Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.",
+    "durationsMs": [
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000
+    ],
+    "figureCoverage": "Numbered figures 1-10; continuation frames retained."
   }
 ]

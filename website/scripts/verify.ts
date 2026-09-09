@@ -1,5 +1,6 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
+import {createHash} from 'node:crypto';
 import {filterPapers,partitionGallery,previewMedia,previewImage,orderedMedia,mediaRank,canPlayVideo,publicationEra,paperHref,homeHref,viewHref,validLocale,locales,type Paper} from '../lib/catalogue';
 import {labels,tags} from '../lib/i18n';
 import {processes} from '../lib/processes';
@@ -37,7 +38,14 @@ for(const p of papers){
  }
  for(const m of p.media){
   check(m.paperId===p.id&&locales.every(l=>!!m.caption[l]),'media identity + four languages');
-  if(m.file){check(fs.existsSync('public/'+m.file)&&((!!m.license&&!!m.licenseUrl)||(m.rights==='source_excerpt'&&!!m.sourcePdfSha256&&!!m.sourceKind&&!!m.rect)),'included media exists and has license or original-paper excerpt provenance');if(m.poster)check(fs.existsSync('public/'+m.poster),'GIF still exists');}
+  if(m.file){check(fs.existsSync('public/'+m.file)&&((!!m.license&&!!m.licenseUrl)||(m.rights==='source_excerpt'&&!!m.sourcePdfSha256&&!!m.sourceKind&&(!!m.rect||!!m.frames?.length))),'included media exists and has license or original-paper excerpt provenance');if(m.poster)check(fs.existsSync('public/'+m.poster),'GIF still exists');}
+  if(m.sourceType==='paper_figure_slideshow'){
+   check(m.kind==='gif'&&!!m.frames&&m.frames.length>=2&&!m.timestamps,'figure slideshows are distinct from observed video timestamps');
+   for(const f of m.frames!){
+    check(f.page>=1&&f.page<=p.pdfPages&&f.rect.length===4&&f.rect[2]>f.rect[0]&&f.rect[3]>f.rect[1],'slideshow frame has valid source page and crop');
+    check(createHash('sha256').update(fs.readFileSync('public/'+f.file)).digest('hex')===f.sha256,'individual source figure matches verified crop');
+   }
+  }
  }
 }
 for(const dictionary of [labels,tags])for(const v of Object.values(dictionary))check(locales.every(l=>v[l]&&v[l].trim()),'four-language UI labels');
@@ -46,7 +54,24 @@ check(processes.huang2004statistical.output.en.includes('Hanja'),'Hanja distingu
 check(processes.ahn2026cheonjiin.output.en==='Hangul composition','Hangul not mislabeled Hanja');
 check(processes.han2020write.output.en.startsWith('Physical'),'robot glyph distinguished');
 check(papers.find(p=>p.id==='wada2025flick')!.summary.en.includes('not implemented'),'Flick-in boundary preserved');
-check(filterPapers(papers,{...all,media:'gif'}).length===2,'two papers with GIFs');
+const gifPapers=filterPapers(papers,{...all,media:'gif'});
+check(gifPapers.length===16,'sixteen papers with GIFs');
+check(gifPapers.filter(p=>p.media.some(m=>m.sourceType==='paper_figure_slideshow')).length===12,'twelve paper-figure slideshows');
+check(partitionGallery(papers).illustrated.slice(0,4).every(p=>previewMedia(p)?.sourceType!=='paper_figure_slideshow'),'real video frames and author animation precede figure slideshows');
+for(const id of ['sun2024exploring','sarhangzadeh2024alignment']){
+ const p=raw.find(p=>p.id===id)!;
+ const gif=p.media.find(m=>m.kind==='gif') as any;
+ check(gif.sourceType==='conference_explanation'&&gif.timestamps.length===gif.durationsMs.length,'new GIF frames are timestamped conference explanations');
+ check(createHash('sha256').update(fs.readFileSync('public/'+gif.file)).digest('hex')===gif.assetSha256,'new GIF matches verified extracted asset');
+ check(p.media.some(m=>m.kind==='video'&&canPlayVideo(m as any)),'new ACL GIF retains playable original source');
+}
+const publicCatalogue=JSON.parse(fs.readFileSync('public/data/catalogue.json','utf8'));
+check(JSON.stringify(raw)===JSON.stringify(publicCatalogue),'public catalogue matches the website records');
+const publicMedia=JSON.parse(fs.readFileSync('public/data/media.json','utf8'));
+for(const m of JSON.parse(fs.readFileSync('data/video-media.json','utf8'))){
+ check(JSON.stringify(publicMedia.find((x:any)=>x.id===m.id))===JSON.stringify(m),'motion media export preserves exact provenance');
+ check(JSON.stringify(raw.find(p=>p.id===m.paperId)?.media.find(x=>x.id===m.id))===JSON.stringify(m),'paper record preserves exact motion media');
+}
 check(filterPapers(papers,{...all,media:'image'}).every(p=>p.media.some(m=>m.kind==='image'&&m.file)),'image filter only included images');
 check(filterPapers(papers,{...all,media:'video'}).every(p=>p.media.some(m=>m.kind==='video'&&m.videoUrl)),'video filter actual source entries');
 for(const view of ['all','algorithms','interaction'])for(const script of ['all','zh','ja','ko','other'])for(const media of ['all','image','gif','video']){
@@ -56,9 +81,9 @@ for(const view of ['all','algorithms','interaction'])for(const script of ['all',
  check(illustrated.every(p=>{const m=previewMedia(p)!;const file=m.kind==='video'?previewImage(p)?.file:m.file;return file&&fs.existsSync('public/'+file)}),'gallery media has an attributed local image or animation');
  check(illustrated.every((p,i)=>i===0||mediaRank(previewMedia(illustrated[i-1]))<=mediaRank(previewMedia(p))),'GIF then video then image ordering survives every filter intersection');
 }
-check(partitionGallery(papers).illustrated.slice(0,2).every(p=>previewMedia(p)?.kind==='gif'),'both animated GIFs lead the catalogue');
+check(partitionGallery(papers).illustrated.slice(0,gifPapers.length).every(p=>previewMedia(p)?.kind==='gif'),'all animated GIFs lead the catalogue');
 check(previewMedia(papers.find(p=>p.id==='han2020write')!)?.kind==='video','available video precedes a primary static image');
-check(previewMedia(papers.find(p=>p.id==='park2015enhanced')!)?.kind==='image','unavailable video does not displace its paper image');
+check(previewMedia(papers.find(p=>p.id==='park2015enhanced')!)?.sourceType==='paper_figure_slideshow','paper-figure slideshow precedes unavailable video');
 for(const p of papers){const ordered=orderedMedia(p);check(ordered.every((m,i)=>i===0||mediaRank(ordered[i-1])<=mediaRank(m)),'detail media follows motion priority');for(const m of p.media)if(m.status==='unavailable')check(!canPlayVideo(m),'unavailable sources do not get a playback control');}
 check(partitionGallery(papers).illustrated.length===241,'all 241 papers have a traceable visual preview');
 check(papers.find(p=>p.id==='jia2014joint')!.media.some(m=>m.kind==='gif'&&m.poster?.endsWith('.png')),'video-frame GIF preserves its real still-frame poster');

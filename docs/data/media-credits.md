@@ -1,8 +1,8 @@
 # Media attribution and reuse
 
-Images are extracted regions of original published figures or a labeled text excerpt. Source content was not redrawn. The ACL key-frame GIF crops actual video frames and adds a separate timestamp strip; the Flick-in GIF is copied unchanged. Original authorship is retained. The atlas annotations describe source evidence and are separate from the underlying media.
+Images are extracted regions of original published figures or a labeled text excerpt. Source content was not redrawn. The ACL key-frame GIFs select actual video frames and adds a separate timestamp strip; the Flick-in GIF is copied unchanged. Original authorship is retained. The atlas annotations describe source evidence and are separate from the underlying media.
 
-ACL materials before 2016 use CC BY-NC-SA 3.0; subsequent ACL materials use CC BY 4.0. This policy does not automatically cover third-party publications hosted by the Anthology. [ACL copyright policy](https://aclanthology.org/faq/#what-is-the-copyright-for-materials-in-the-acl-anthology). The reused ACL items here are ACL proceedings/workshop material. Non-ACL figure licenses are stated in the original PDFs.
+ACL materials before 2016 use CC BY-NC-SA 3.0; subsequent ACL materials use CC BY 4.0. This policy does not automatically cover third-party publications hosted by the Anthology. [ACL copyright policy](https://aclanthology.org/faq/copyright/). The reused ACL items here are ACL proceedings/workshop material. Non-ACL figure licenses are stated in the original PDFs.
 
 ## tang2015touch-6m5KuF5MIbY
 
@@ -795,3 +795,543 @@ These source excerpts were selected from the user-provided article PDFs for the 
 - **peng2025enhancing** — [Enhancing GPT-Based Input Method with Domain-Adaptive Pinyin Encoder (s)](https://link.springer.com/chapter/10.1007/978-981-95-3346-6_16). Peng, Wenyao and Shi, Xiaodong (2026). figure 1, included article PDF page 4. File: `media/paper-figures/peng2025enhancing.png`.
 
 - **zhang2026tone** — [A tone-assisted Chinese silent speech input method for virtual reality](https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2537784). Zhang, Xinyu and Shan, Xinyuan and Zhou, Yang and Chen, Zihong and Tan, Peng and Xing, Youlu and Bin, Luo and Pan, Zhigeng and Feng, Guihuan (2026). figure 2, included article PDF page 7. File: `media/paper-figures/zhang2026tone.png`.
+
+## Additional conference videos and key frames
+
+Added 2026-09-09. Video GIFs preserve original video frames and include a separate timestamp strip. Paper-figure slideshows retain original figure order with figure/page labels and individual source crops; their timing is editorial. External-only records do not assign a reuse license to the videos.
+
+### sun2024exploring-video
+
+Sun, Bin and Li, Jianfeng and Zhou, Hao and Meng, Fandong and Li, Kan and Zhou, Jie (2024). *Exploring Conditional Variational Mechanism to Pinyin Input Method for Addressing One-to-Many Mappings in Low-Resource Scenarios*.
+
+[Source](https://aclanthology.org/2024.acl-short.56/). [Original video](https://aclanthology.org/2024.acl-short.56.mp4).
+
+Conference-talk key frames: nine-/twenty-six-key Pinyin input, “bei zi” mapping to 被子 / 杯子 / 辈子, and the conditional variational model. These are explanatory slides, not a recorded typing trial.
+
+External source only; no local reproduction.
+
+### sun2024exploring-keyframes
+
+Sun, Bin and Li, Jianfeng and Zhou, Hao and Meng, Fandong and Li, Kan and Zhou, Jie (2024). *Exploring Conditional Variational Mechanism to Pinyin Input Method for Addressing One-to-Many Mappings in Low-Resource Scenarios*.
+
+[Source](https://aclanthology.org/2024.acl-short.56/). [Original video](https://aclanthology.org/2024.acl-short.56.mp4).
+
+Conference-talk key frames: nine-/twenty-six-key Pinyin input, “bei zi” mapping to 被子 / 杯子 / 辈子, and the conditional variational model. These are explanatory slides, not a recorded typing trial.
+
+File: `media/sun2024exploring-keyframes.gif`.
+
+Complete video frames selected, resized to 1280 × 720 and given a separate timestamp/attribution strip. Playback pauses shortened; original characters and diagrams retained. No reconstructed typing or generated content.
+
+GIF SHA-256: `c0cf2c2a6ff5d7bbbfca1bb84fbded60e7a03d494ccd459bf10ddf7325b0f92e`.
+
+Timestamps (seconds): [10, 50, 110].
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [publisher policy](https://aclanthology.org/faq/copyright/).
+
+Source SHA-256: `b45453e7e66343076f2a831919ea9883b264ee23c0669d1d9a32f837d57f1ef1`.
+
+### sarhangzadeh2024alignment-video
+
+Sarhangzadeh, Armin and Watanabe, Taro (2024). *Alignment-based decoding policy for low-latency and anticipation-free neural japanese input method editors*.
+
+[Source](https://aclanthology.org/2024.findings-acl.479/). [Original video](https://aclanthology.org/2024.findings-acl.479.mp4).
+
+Conference-talk key frames: an introductory IME example with candidates, よいはんのうがある → 良い反応がある, alignment-based decoding, and correction of intermediate output. Explanatory slides; the introductory interface is not a measured trial of the proposed model.
+
+External source only; no local reproduction.
+
+### sarhangzadeh2024alignment-keyframes
+
+Sarhangzadeh, Armin and Watanabe, Taro (2024). *Alignment-based decoding policy for low-latency and anticipation-free neural japanese input method editors*.
+
+[Source](https://aclanthology.org/2024.findings-acl.479/). [Original video](https://aclanthology.org/2024.findings-acl.479.mp4).
+
+Conference-talk key frames: an introductory IME example with candidates, よいはんのうがある → 良い反応がある, alignment-based decoding, and correction of intermediate output. Explanatory slides; the introductory interface is not a measured trial of the proposed model.
+
+File: `media/sarhangzadeh2024alignment-keyframes.gif`.
+
+Complete video frames selected, resized to 1280 × 720 and given a separate timestamp/attribution strip. Playback pauses shortened; original characters and diagrams retained. No reconstructed typing or generated content.
+
+GIF SHA-256: `9c1df9b4350ccb28670c2ba40cf7476c28b8bd1f8ed3ce0142e997fd8ead1a99`.
+
+Timestamps (seconds): [45, 150, 290, 360].
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); [publisher policy](https://aclanthology.org/faq/copyright/).
+
+Source SHA-256: `c52fd49320342aa0f9032e1e32e3c7a4d847da319d3c09f6e7757023a56ed304`.
+
+### hagiwara2013koosho-official-video
+
+Hagiwara, Masato and Masuko, Soh (2013). *KooSHO: Japanese Text Input Environment based on Aerial Hand Writing*.
+
+[Source](https://masukon.jp/research/). [Original video](https://www.youtube.com/watch?v=xurR3sYT08w).
+
+Official KooSHO demonstration linked by a coauthor. The publisher description identifies aerial writing, kana–Kanji conversion and search visualization. Video-frame extraction was unavailable.
+
+External source only; no local reproduction.
+
+### tan2022exploring-conference-video
+
+Tan, M. and Dai, Y. and Tang, D. and Feng, Z. and Huang, G. and others (2022). *Exploring and adapting Chinese GPT to pinyin input method*.
+
+[Source](https://aclanthology.org/2022.acl-long.133/). [Original video](https://underline.io/lecture/50382-exploring-and-adapting-chinese-gpt-to-pinyin-input-method).
+
+ACL 2022 conference explanation of the Chinese GPT Pinyin IME, available on Underline. Original lecture link only; no frames reproduced.
+
+External source only; no local reproduction.
+
+### yokoyama2021joyflick-wiss2020-video
+
+Yokoyama, Kaisei and Takakura, Rei and Shizuki, Buntarou (2021). *JoyFlick: Japanese Text Entry Using Dual Joysticks for Flick Input Users*.
+
+[Source](https://kaiseiyokoyama.github.io/). [Original video](https://www.wiss.org/WISS2020Proceedings/data/17.mp4).
+
+Author-linked WISS 2020 predecessor demonstration of JoyFlick kana entry. Related to the 2021 paper, not its experimental recording; final Kanji output was not verified.
+
+External source only; no local reproduction.
+
+### yokoyama2021joyflick-mod-extension-video
+
+Yokoyama, Kaisei and Takakura, Rei and Shizuki, Buntarou (2021). *JoyFlick: Japanese Text Entry Using Dual Joysticks for Flick Input Users*.
+
+[Source](https://github.com/KaiseiYokoyama/JoyFlickMOD). [Original video](https://user-images.githubusercontent.com/8509057/140267217-08b6b6f0-0ff0-4de4-8a46-325e0ffe2837.mp4).
+
+Author’s November 2021 Minecraft extension: kana composition and mixed-script candidates, including 女医, followed by the submitted Latin text JoyFlick. This is a later extension, not the paper experiment or committed Kanji output. Original video link only.
+
+External source only; no local reproduction.
+
+### ahn2025rectus-figure-slideshow
+
+Ahn, Ji Won and Yu, Gi Yeon and Kim, Seong-Wan and Seok, Young-Seek and Choi, Seung Ho (2025). *Rectus Femoris and Gastrocnemius EMG Driven Cheonjiin Speller for Korean Text Input*.
+
+[Source](https://www.mdpi.com/1424-8220/25/23/7243).
+
+Paper-figure slideshow: Figures 1–10 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Leg-muscle EMG triggers cursor and selection commands on a Cheonjiin keyboard to compose Hangul syllables. Hangul input; no Hanja conversion is demonstrated.
+
+File: `media/ahn2025rectus-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `b12d050b3622fac05f429bfa0d634f3b347481fab37ea32bf28c7bfe8da52533`.
+
+Original PDF SHA-256: `b0919d448058cbf13431abca74365969f1f4b320e524009aeee7e48efbdb1ba8`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 6: `media/figure-sequences/ahn2025rectus/fig-1-p6.png`.
+
+- Figure 2, PDF page 6: `media/figure-sequences/ahn2025rectus/fig-2-p6.png`.
+
+- Figure 3, PDF page 9: `media/figure-sequences/ahn2025rectus/fig-3-p9.png`.
+
+- Figure 4, PDF page 10: `media/figure-sequences/ahn2025rectus/fig-4-p10.png`.
+
+- Figure 5, PDF page 12: `media/figure-sequences/ahn2025rectus/fig-5-p12.png`.
+
+- Figure 6, PDF page 13: `media/figure-sequences/ahn2025rectus/fig-6-p13.png`.
+
+- Figure 7, PDF page 14: `media/figure-sequences/ahn2025rectus/fig-7-p14.png`.
+
+- Figure 8, PDF page 17: `media/figure-sequences/ahn2025rectus/fig-8-p17.png`.
+
+- Figure 9, PDF page 18: `media/figure-sequences/ahn2025rectus/fig-9-p18.png`.
+
+- Figure 10, PDF page 19: `media/figure-sequences/ahn2025rectus/fig-10-p19.png`.
+
+### ahn2026cheonjiin-figure-slideshow
+
+Ahn, J. W. and Yu, G. Y. and Kim, S. W. and Seok, Y. S. and Byun, K. M. and Choi, S. H. (2026). *A Cheonjiin Layout Mental Speller: Developing a Simple and Cost-Effective EEG-Based Brain–Computer Interface System*.
+
+[Source](https://www.mdpi.com/1424-8220/26/7/2265).
+
+Paper-figure slideshow: Figures 1–9 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. EEG signals select five cursor commands on a Cheonjiin keyboard to compose Hangul; command accuracy is distinct from text-entry accuracy. Hangul input; no Hanja conversion is demonstrated.
+
+File: `media/ahn2026cheonjiin-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `3d37267608fd43347d2fc054c6001e72f888837e892ee1223939a03c7a223663`.
+
+Original PDF SHA-256: `8071a0e23826785897b81b3fdc0983e0750939752f3b32355e67045179f9a259`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 5: `media/figure-sequences/ahn2026cheonjiin/fig-1-p5.png`.
+
+- Figure 2, PDF page 6: `media/figure-sequences/ahn2026cheonjiin/fig-2-p6.png`.
+
+- Figure 3, PDF page 7: `media/figure-sequences/ahn2026cheonjiin/fig-3-p7.png`.
+
+- Figure 4, PDF page 11: `media/figure-sequences/ahn2026cheonjiin/fig-4-p11.png`.
+
+- Figure 5, PDF page 14: `media/figure-sequences/ahn2026cheonjiin/fig-5-p14.png`.
+
+- Figure 6, PDF page 15: `media/figure-sequences/ahn2026cheonjiin/fig-6-p15.png`.
+
+- Figure 7, PDF page 16: `media/figure-sequences/ahn2026cheonjiin/fig-7-p16.png`.
+
+- Figure 8, PDF page 18: `media/figure-sequences/ahn2026cheonjiin/fig-8-p18.png`.
+
+- Figure 9, PDF page 19: `media/figure-sequences/ahn2026cheonjiin/fig-9-p19.png`.
+
+### park2015enhanced-figure-slideshow
+
+Park, Yongki and Heo, Hoon and Lee, Kyogu (2015). *Enhanced auditory feedback for Korean touch screen keyboards*.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1071581914001050).
+
+Paper-figure slideshow: Figures 1–10 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Different sounds provide feedback for Korean touchscreen typing; sentence transcription is tested with automatic completion and correction disabled. Hangul input; no Hanja conversion is demonstrated.
+
+File: `media/park2015enhanced-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `e51c92cb670fdd2578879434390ac392ec6c57537ca4c4542ca189d041cf322e`.
+
+Original PDF SHA-256: `d688b09309fe32338374ef9a65b3b79cfe09649d220fc5718d6a7d5a56931687`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 3: `media/figure-sequences/park2015enhanced/fig-1-p3.png`.
+
+- Figure 2, PDF page 3: `media/figure-sequences/park2015enhanced/fig-2-p3.png`.
+
+- Figure 3, PDF page 4: `media/figure-sequences/park2015enhanced/fig-3-p4.png`.
+
+- Figure 4, PDF page 5: `media/figure-sequences/park2015enhanced/fig-4-p5.png`.
+
+- Figure 5, PDF page 6: `media/figure-sequences/park2015enhanced/fig-5-p6.png`.
+
+- Figure 6, PDF page 6: `media/figure-sequences/park2015enhanced/fig-6-p6.png`.
+
+- Figure 7, PDF page 6: `media/figure-sequences/park2015enhanced/fig-7-p6.png`.
+
+- Figure 8, PDF page 8: `media/figure-sequences/park2015enhanced/fig-8-p8.png`.
+
+- Figure 9, PDF page 9: `media/figure-sequences/park2015enhanced/fig-9-p9.png`.
+
+- Figure 10, PDF page 10: `media/figure-sequences/park2015enhanced/fig-10-p10.png`.
+
+### hagiwara2013koosho-figure-slideshow
+
+Hagiwara, Masato and Masuko, Soh (2013). *KooSHO: Japanese Text Input Environment based on Aerial Hand Writing*.
+
+[Source](https://aclanthology.org/N13-3006/).
+
+Paper-figure slideshow: Figures 1–3 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Aerial letter trajectories form a lattice; consonant decoding produces Kanji candidates that users touch to submit a search query.
+
+File: `media/hagiwara2013koosho-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `0f0c7933e8cf8efc0373a5e2470ce36f4791e995463ecc22f8705010348524dc`.
+
+Original PDF SHA-256: `66fd466a6be4257b13711f1ff4ce33c11e14462b3ef6d61e4a7ae275124f737f`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 1: `media/figure-sequences/hagiwara2013koosho/fig-1-p1.png`.
+
+- Figure 2, PDF page 2: `media/figure-sequences/hagiwara2013koosho/fig-2-p2.png`.
+
+- Figure 3, PDF page 2: `media/figure-sequences/hagiwara2013koosho/fig-3-p2.png`.
+
+### yuasa2025flickpose-figure-slideshow
+
+Yuasa, Ryo and Nagao, Katashi (2025). *FlickPose: A Hand Tracking-Based Text Input System for Mobile Users Wearing Smart Glasses*.
+
+[Source](https://www.mdpi.com/2076-3417/15/15/8122).
+
+Paper-figure slideshow: Figures 1–14 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. One hand selects a key and the other selects a symbol through hand poses; dictionary-based kana–Kanji conversion produces Japanese text.
+
+File: `media/yuasa2025flickpose-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `8a0cc1ce525bcd121d46235deac5cd3ba1d241794203eeb6f244cc349c2f2ac8`.
+
+Original PDF SHA-256: `fd18cfc04b65dbef4b6b938033349d41f5c52402ed2c9f90b3d3d486ac0a3ef3`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 5: `media/figure-sequences/yuasa2025flickpose/fig-1-p5.png`.
+
+- Figure 2, PDF page 6: `media/figure-sequences/yuasa2025flickpose/fig-2-p6.png`.
+
+- Figure 3, PDF page 7: `media/figure-sequences/yuasa2025flickpose/fig-3-p7.png`.
+
+- Figure 4, PDF page 7: `media/figure-sequences/yuasa2025flickpose/fig-4-p7.png`.
+
+- Figure 5, PDF page 7: `media/figure-sequences/yuasa2025flickpose/fig-5-p7.png`.
+
+- Figure 6, PDF page 8: `media/figure-sequences/yuasa2025flickpose/fig-6-p8.png`.
+
+- Figure 7, PDF page 10: `media/figure-sequences/yuasa2025flickpose/fig-7-p10.png`.
+
+- Figure 8, PDF page 10: `media/figure-sequences/yuasa2025flickpose/fig-8-p10.png`.
+
+- Figure 9, PDF page 12: `media/figure-sequences/yuasa2025flickpose/fig-9-p12.png`.
+
+- Figure 10, PDF page 14: `media/figure-sequences/yuasa2025flickpose/fig-10-p14.png`.
+
+- Figure 11, PDF page 15: `media/figure-sequences/yuasa2025flickpose/fig-11-p15.png`.
+
+- Figure 12, PDF page 16: `media/figure-sequences/yuasa2025flickpose/fig-12-p16.png`.
+
+- Figure 13, PDF page 16: `media/figure-sequences/yuasa2025flickpose/fig-13-p16.png`.
+
+- Figure 14, PDF page 19: `media/figure-sequences/yuasa2025flickpose/fig-14-p19.png`.
+
+- Figure 14, PDF page 20: `media/figure-sequences/yuasa2025flickpose/fig-14-p20.png`.
+
+### yokoyama2021joyflick-figure-slideshow
+
+Yokoyama, Kaisei and Takakura, Rei and Shizuki, Buntarou (2021). *JoyFlick: Japanese Text Entry Using Dual Joysticks for Flick Input Users*.
+
+[Source](https://link.springer.com/chapter/10.1007/978-3-030-85613-7_8).
+
+Paper-figure slideshow: Figures 1–15 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Two joysticks and modifier buttons produce Japanese kana. IME integration and VR use are discussed as future extensions. Background keyboard designs discussed in the paper are also included.
+
+File: `media/yokoyama2021joyflick-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `ee94a4e0c82ede93902c537c2e86f73dd939dee105f4ecd687744a2bea54690e`.
+
+Original PDF SHA-256: `37d01e145eec127521722b77d973dcb1d7e87b1d55ad0082f923fd0ae17265c2`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 2: `media/figure-sequences/yokoyama2021joyflick/fig-1-p2.png`.
+
+- Figure 2, PDF page 3: `media/figure-sequences/yokoyama2021joyflick/fig-2-p3.png`.
+
+- Figure 3, PDF page 4: `media/figure-sequences/yokoyama2021joyflick/fig-3-p4.png`.
+
+- Figure 4, PDF page 5: `media/figure-sequences/yokoyama2021joyflick/fig-4-p5.png`.
+
+- Figure 5, PDF page 7: `media/figure-sequences/yokoyama2021joyflick/fig-5-p7.png`.
+
+- Figure 6, PDF page 7: `media/figure-sequences/yokoyama2021joyflick/fig-6-p7.png`.
+
+- Figure 7, PDF page 8: `media/figure-sequences/yokoyama2021joyflick/fig-7-p8.png`.
+
+- Figure 8, PDF page 9: `media/figure-sequences/yokoyama2021joyflick/fig-8-p9.png`.
+
+- Figure 9, PDF page 10: `media/figure-sequences/yokoyama2021joyflick/fig-9-p10.png`.
+
+- Figure 10, PDF page 12: `media/figure-sequences/yokoyama2021joyflick/fig-10-p12.png`.
+
+- Figure 11, PDF page 12: `media/figure-sequences/yokoyama2021joyflick/fig-11-p12.png`.
+
+- Figure 12, PDF page 12: `media/figure-sequences/yokoyama2021joyflick/fig-12-p12.png`.
+
+- Figure 13, PDF page 15: `media/figure-sequences/yokoyama2021joyflick/fig-13-p15.png`.
+
+- Figure 14, PDF page 15: `media/figure-sequences/yokoyama2021joyflick/fig-14-p15.png`.
+
+- Figure 15, PDF page 15: `media/figure-sequences/yokoyama2021joyflick/fig-15-p15.png`.
+
+### yu2019asynchronous-figure-slideshow
+
+Yu, Yang and Liu, Yadong and Yin, Erwei and Jiang, Jun and Zhou, Zongtan and Hu, Dewen (2019). *An asynchronous hybrid spelling approach based on EEG–EOG signals for Chinese character input*.
+
+[Source](https://ieeexplore.ieee.org/abstract/document/8708258/).
+
+Paper-figure slideshow: Figures 1–3 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. EEG spelling is activated by triple blinks, while double blinks select predicted Chinese characters.
+
+File: `media/yu2019asynchronous-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `deaca8026e390b64841acd5dbca513519d514cb37f61199811689c92ddf47e53`.
+
+Original PDF SHA-256: `ea33fbf78bfc940585819fbb7ea3c20c3ec39c9be11218d2084158ec83fe3952`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 4: `media/figure-sequences/yu2019asynchronous/fig-1-p4.png`.
+
+- Figure 2, PDF page 5: `media/figure-sequences/yu2019asynchronous/fig-2-p5.png`.
+
+- Figure 3, PDF page 6: `media/figure-sequences/yu2019asynchronous/fig-3-p6.png`.
+
+### tong2024eye-figure-slideshow
+
+Tong, D. C. W. (2024). *Eye Strokes: An Eye-gaze Drawing System for Mandarin Characters*.
+
+[Source](https://doi.org/10.1145/3654702).
+
+Paper-figure slideshow: Figures 1–11 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Eye movements draw strokes for a limited Mandarin character set; the tested single characters include 一, 十 and 床.
+
+File: `media/tong2024eye-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `f97bf45635fcb0c7ebd6eb993c47a9a34b6718fffa8bd0ca8bb8a4ed9401e3e3`.
+
+Original PDF SHA-256: `9355fb5a562876b6c6785f68222d12e738fd45e7dc4e36094d7ed1cb063b9c5c`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 5: `media/figure-sequences/tong2024eye/fig-1-p5.png`.
+
+- Figure 2, PDF page 6: `media/figure-sequences/tong2024eye/fig-2-p6.png`.
+
+- Figure 3, PDF page 7: `media/figure-sequences/tong2024eye/fig-3-p7.png`.
+
+- Figure 4, PDF page 8: `media/figure-sequences/tong2024eye/fig-4-p8.png`.
+
+- Figure 5, PDF page 8: `media/figure-sequences/tong2024eye/fig-5-p8.png`.
+
+- Figure 6, PDF page 9: `media/figure-sequences/tong2024eye/fig-6-p9.png`.
+
+- Figure 7, PDF page 9: `media/figure-sequences/tong2024eye/fig-7-p9.png`.
+
+- Figure 8, PDF page 11: `media/figure-sequences/tong2024eye/fig-8-p11.png`.
+
+- Figure 9, PDF page 13: `media/figure-sequences/tong2024eye/fig-9-p13.png`.
+
+- Figure 10, PDF page 14: `media/figure-sequences/tong2024eye/fig-10-p14.png`.
+
+- Figure 11, PDF page 14: `media/figure-sequences/tong2024eye/fig-11-p14.png`.
+
+### guo2024optimization-figure-slideshow
+
+Guo, Yikai and He, Jixiao and Bai, Rongtian and Wu, Zhengyang and Huang, Yuhang (2024). *CN-T9: Optimization of T9 Chinese Input Layout*.
+
+[Source](https://doi.org/10.1145/3640471.3680458).
+
+Paper-figure slideshow: Figures 1–6 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. CN-T9 rearranges a numeric Pinyin keyboard to improve Chinese input layout; product implementation is discussed as future work.
+
+File: `media/guo2024optimization-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `676eb01c266fce09765b726ce32ef0b3f18caf8a0200a8071815a521e0e9a2e1`.
+
+Original PDF SHA-256: `043b2603b87520cd4ca60e1190a0a2dbf7ae107935afe7ef49c4008b44b054dd`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 2: `media/figure-sequences/guo2024optimization/fig-1-p2.png`.
+
+- Figure 2, PDF page 3: `media/figure-sequences/guo2024optimization/fig-2-p3.png`.
+
+- Figure 3, PDF page 3: `media/figure-sequences/guo2024optimization/fig-3-p3.png`.
+
+- Figure 4, PDF page 5: `media/figure-sequences/guo2024optimization/fig-4-p5.png`.
+
+- Figure 5, PDF page 5: `media/figure-sequences/guo2024optimization/fig-5-p5.png`.
+
+- Figure 6, PDF page 5: `media/figure-sequences/guo2024optimization/fig-6-p5.png`.
+
+### yao2019seeime-figure-slideshow
+
+Yao, Jian and Shen, Xingfa and Qiu, Jianhui and Wang, Ting (2019). *SeeIME: a Chinese mobile IME for Chinese learners based on hybrid Pinyin code*.
+
+[Source](https://dl.acm.org/doi/abs/10.1145/3321408.3321594).
+
+Paper-figure slideshow: Figures 1–12 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. A learner-oriented mobile IME displays Pinyin, Chinese characters and English together using a hybrid Pinyin code.
+
+File: `media/yao2019seeime-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `61af833f586245c35f19df3e4caef13e42737f8bd840443f695376e3f73c6a04`.
+
+Original PDF SHA-256: `37f78a5f4c77de6e00d6533dd56bd26ab092b1bb00cee18c0fd0b66c68f4f9f5`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 2: `media/figure-sequences/yao2019seeime/fig-1-p2.png`.
+
+- Figure 2, PDF page 2: `media/figure-sequences/yao2019seeime/fig-2-p2.png`.
+
+- Figure 3, PDF page 3: `media/figure-sequences/yao2019seeime/fig-3-p3.png`.
+
+- Figure 4, PDF page 3: `media/figure-sequences/yao2019seeime/fig-4-p3.png`.
+
+- Figure 5, PDF page 3: `media/figure-sequences/yao2019seeime/fig-5-p3.png`.
+
+- Figure 6, PDF page 3: `media/figure-sequences/yao2019seeime/fig-6-p3.png`.
+
+- Figure 7, PDF page 4: `media/figure-sequences/yao2019seeime/fig-7-p4.png`.
+
+- Figure 8, PDF page 4: `media/figure-sequences/yao2019seeime/fig-8-p4.png`.
+
+- Figure 9, PDF page 4: `media/figure-sequences/yao2019seeime/fig-9-p4.png`.
+
+- Figure 10, PDF page 5: `media/figure-sequences/yao2019seeime/fig-10-p5.png`.
+
+- Figure 11, PDF page 5: `media/figure-sequences/yao2019seeime/fig-11-p5.png`.
+
+- Figure 12, PDF page 5: `media/figure-sequences/yao2019seeime/fig-12-p5.png`.
+
+### zhang2026tone-figure-slideshow
+
+Zhang, Xinyu and Shan, Xinyuan and Zhou, Yang and Chen, Zihong and Tan, Peng and Xing, Youlu and Bin, Luo and Pan, Zhigeng and Feng, Guihuan (2026). *A tone-assisted Chinese silent speech input method for virtual reality*.
+
+[Source](https://www.tandfonline.com/doi/abs/10.1080/10447318.2025.2537784).
+
+Paper-figure slideshow: Figures 1–18 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Silent lip movements and touchpad tone gestures are fused in VR to generate Mandarin Han text without acoustic speech input.
+
+File: `media/zhang2026tone-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `95d5382120ae88ec405d04a74518e723e3fa80460ed0462bf9349b0fd9016ddb`.
+
+Original PDF SHA-256: `80a1c0ef60192dc58feaed6e6f7b6017f9eb59bd2bf6bdce555355e923fa9697`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 5: `media/figure-sequences/zhang2026tone/fig-1-p5.png`.
+
+- Figure 2, PDF page 7: `media/figure-sequences/zhang2026tone/fig-2-p7.png`.
+
+- Figure 3, PDF page 8: `media/figure-sequences/zhang2026tone/fig-3-p8.png`.
+
+- Figure 4, PDF page 10: `media/figure-sequences/zhang2026tone/fig-4-p10.png`.
+
+- Figure 5, PDF page 11: `media/figure-sequences/zhang2026tone/fig-5-p11.png`.
+
+- Figure 6, PDF page 12: `media/figure-sequences/zhang2026tone/fig-6-p12.png`.
+
+- Figure 7, PDF page 14: `media/figure-sequences/zhang2026tone/fig-7-p14.png`.
+
+- Figure 8, PDF page 16: `media/figure-sequences/zhang2026tone/fig-8-p16.png`.
+
+- Figure 9, PDF page 18: `media/figure-sequences/zhang2026tone/fig-9-p18.png`.
+
+- Figure 10, PDF page 19: `media/figure-sequences/zhang2026tone/fig-10-p19.png`.
+
+- Figure 11, PDF page 19: `media/figure-sequences/zhang2026tone/fig-11-p19.png`.
+
+- Figure 12, PDF page 20: `media/figure-sequences/zhang2026tone/fig-12-p20.png`.
+
+- Figure 13, PDF page 23: `media/figure-sequences/zhang2026tone/fig-13-p23.png`.
+
+- Figure 14, PDF page 24: `media/figure-sequences/zhang2026tone/fig-14-p24.png`.
+
+- Figure 15, PDF page 26: `media/figure-sequences/zhang2026tone/fig-15-p26.png`.
+
+- Figure 16, PDF page 27: `media/figure-sequences/zhang2026tone/fig-16-p27.png`.
+
+- Figure 17, PDF page 27: `media/figure-sequences/zhang2026tone/fig-17-p27.png`.
+
+- Figure 18, PDF page 27: `media/figure-sequences/zhang2026tone/fig-18-p27.png`.
+
+### ding2020design-figure-slideshow
+
+Ding, XiaoJuan and Lv, Zhao (2020). *Design and development of an EOG-based simplified Chinese eye-writing system*.
+
+[Source](https://www.sciencedirect.com/science/article/pii/S1746809419303489).
+
+Paper-figure slideshow: Figures 1–10 in original figure order, including any continuation. This editorial sequence combines source figures; it is not a recorded input session. Eye-writing signals are used to enter a small set of simplified Chinese characters, with calibration and confirm/cancel operations.
+
+File: `media/ding2020design-figure-slideshow.gif`.
+
+Original PDF figure regions cropped and uniformly fit on white canvases. Figure/page attribution added separately. Figure order preserved; 3-second slide durations are editorial, not input timings. No synthetic motion or interpolated characters.
+
+GIF SHA-256: `1f724ba638eaaad1fbe6a71d5edba6fe53c703a1c638d4229393e4378989b576`.
+
+Original PDF SHA-256: `ed574c5b8f9cd13c8c8dfba676ce1a14cc402eebd1e18990315ffb90e06e671d`. Attributed source excerpts; no new license is assigned.
+
+- Figure 1, PDF page 2: `media/figure-sequences/ding2020design/fig-1-p2.png`.
+
+- Figure 2, PDF page 3: `media/figure-sequences/ding2020design/fig-2-p3.png`.
+
+- Figure 3, PDF page 4: `media/figure-sequences/ding2020design/fig-3-p4.png`.
+
+- Figure 4, PDF page 4: `media/figure-sequences/ding2020design/fig-4-p4.png`.
+
+- Figure 5, PDF page 5: `media/figure-sequences/ding2020design/fig-5-p5.png`.
+
+- Figure 6, PDF page 6: `media/figure-sequences/ding2020design/fig-6-p6.png`.
+
+- Figure 7, PDF page 7: `media/figure-sequences/ding2020design/fig-7-p7.png`.
+
+- Figure 8, PDF page 7: `media/figure-sequences/ding2020design/fig-8-p7.png`.
+
+- Figure 9, PDF page 8: `media/figure-sequences/ding2020design/fig-9-p8.png`.
+
+- Figure 10, PDF page 9: `media/figure-sequences/ding2020design/fig-10-p9.png`.

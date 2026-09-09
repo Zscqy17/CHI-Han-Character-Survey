@@ -9,7 +9,9 @@
 - [校验文件 / SHA-256](SHA256SUMS)
 - [交给 Kimi 的部署说明 / Deployment instructions](KIMI-DEPLOY.md)
 
-新版优先展示 **GIF → 视频 → 静态图片**。GIF 默认播放并可暂停；视频按需加载，不能嵌入时提供来源入口。白底黑字，保留原始论文署名、图号页码和出处。
+新版含 **16 份 GIF、14 条视频来源**。新增两份 ACL 2024 讲解关键帧 GIF，以及 12 份论文图组轮播（122 张原文配图，覆盖中日韩）。视频截帧保留时间点；图组保留图号、页码与单张原图，并明确标记为编辑轮播。所有新增媒体配有四语说明。
+
+新版优先展示 **视频截帧／作者 GIF → 论文图组 GIF → 视频 → 静态图片**。GIF 默认播放并可暂停；视频按需加载，不能嵌入时提供来源入口。白底黑字，保留原始论文署名、图号页码和出处。
 
 The latest version puts animated GIFs first, video sources second, and static images third. GIFs have a pause control and respect reduced-motion preferences. External video players load on request; source-only and unavailable records keep their status labels.
 
