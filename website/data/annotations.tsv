@@ -1,0 +1,242 @@
+id	en	zh
+ezaki2000pen	Tablet handwriting is recognized as Japanese text; spoken candidates support selection, rewriting and editing.	平板手写识别生成日文文字，通过语音播报候选，支持选择、重写与编辑。
+luk2000digital	Six-key Braille codes become Chinese search queries, with character, word-prefix and sentence input.	六键盲文编码转换为中文检索式，支持单字、词前缀和句子输入。
+lin2006design	A chorded on-screen keyboard supports Chinese phonetic and shape-code layouts; the reported copy-typing task uses English.	和弦式屏幕键盘支持中文注音及形码布局；文中报告的抄录任务使用英文。
+lin2008designing	A scanning keyboard includes two Chinese layouts. The language used in the experimental article is not clearly specified.	扫描式键盘包含两种中文布局，但实验所用文章的语言未明确说明。
+fu2009fast	Coordinate gestures select Zhuyin symbols, tones and Chinese candidates; entered text can be spoken aloud.	坐标手势用于选择注音符号、声调和汉字候选，输入的文字可通过语音朗读。
+kotani2010japanese	Gaze operates three Japanese input layouts for kana and Kanji. NIRS measures responses during evaluation rather than controlling input.	眼动操控三种日文输入布局，输入假名和汉字；近红外测量用于评估，并非输入控制通道。
+minett2010assistive	A brain interface selects traditional Chinese characters, radicals and strokes. Complete large-vocabulary entry is proposed rather than demonstrated.	脑机界面选择繁体汉字、部件和笔画；完整的大字库输入是提出的目标，尚未实际展示。
+wang2010accurate	Mandarin Braille paragraphs are translated into simplified Chinese for a proposed input method for blind users.	将汉语盲文段落转换为简体中文，服务于面向盲人的输入法。
+kotani2011proficiency	Eye-controlled Japanese input is evaluated with mixed kana–Kanji passages; clinical accounts also describe names and lyrics.	通过含假名与汉字的段落评估眼控日文输入，临床使用记录还涉及姓名和歌词。
+wu2012text	Students with learning disabilities enter traditional Chinese by assembling Zhuyin phonetic symbols.	有学习障碍的学生通过组合注音符号输入繁体中文。
+hamano2013usability	Older adults use smartphone methods for Japanese kana or English entry; Kanji conversion is not evaluated.	老年用户使用智能手机输入日文假名或英文，研究未评估汉字转换。
+miura2014usage	Questionnaires document touchscreen text entry among visually impaired Japanese users, including keyboards and speech input.	问卷记录日本视障用户的触屏文字输入情况，包括屏幕键盘、实体键盘与语音输入。
+shoji2014japanese	Life-log information is proposed for prediction in gaze-based Japanese entry; prediction experiments use examples and simulated priorities.	利用生活日志辅助眼控日文输入的预测，预测实验采用示例及模拟优先级。
+zhou2014older	Older adults enter Chinese messages on phones and tablets; the study examines device size, input method and task completion.	老年用户在手机和平板上输入中文信息，研究考察设备尺寸、输入方式与任务完成情况。
+lin2015designs	Scalp electrical signals control scanning selection of Zhuyin symbols. The reported output is phonetic symbols rather than selected Han characters.	头皮电信号控制扫描选择注音符号；报告的输出为注音符号，尚非经候选选择后的汉字。
+tang2015touch	Six-dot touchscreen Braille is matched to Chinese phonetic symbols and words for messaging, with audio confirmation and editing controls.	触屏六点盲文匹配中文注音符号与词语，用于短信输入，并提供语音确认和编辑功能。
+wang2015preliminary	Instruction combines screen-reader feedback and tactile character structure to teach Chinese phonetic and shape-based input methods.	教学结合屏幕朗读反馈和可触摸的汉字结构，帮助学习中文注音及形码输入法。
+xie2017attitude	Older adults use their preferred keyboard, handwriting or speech methods for mixed-content Chinese messages; difficulties include rewriting and switching.	老年用户以习惯的键盘、手写或语音方式输入含多种字符的中文消息，研究记录重写与切换等困难。
+jabeen2018sak	A scanning interface moves from consonants and syllables to Chinese candidates, with association, deletion and speech playback.	扫描界面依次选择声母、音节和汉字候选，并提供联想、删除与语音播放。
+jabeen2019modeling	Initial and syllable selection produces Chinese candidates; a character language model ranks replacements within sentences.	通过声母和音节选择生成汉字候选，字符语言模型对句中的替换候选进行排序。
+liao2019enabling	A longitudinal teaching study uses screen-reader support for Chinese keyboard typing and information search, including Zhuyin and Boshiamy methods.	纵向教学研究利用屏幕朗读支持中文键盘输入与信息检索，涉及注音和嘸蝦米输入法。
+lv2019brain	A brain-controlled Pinyin interface selects initials, finals, tones and Han candidates across successive displays.	脑控拼音界面在连续界面中选择声母、韵母、声调和汉字候选。
+shi2019vipboard	Vipboard corrects Pinyin entry before Chinese conversion and supports candidate gestures. Its reported speed excludes Han-candidate selection time.	Vipboard 在中文转换前纠正拼音输入，并支持候选操作手势；其报告速度不包含汉字候选选择时间。
+yu2019asynchronous	EEG spelling is activated by triple blinks, while double blinks select predicted Chinese characters.	三次眨眼激活脑电拼写，双次眨眼用于选择预测汉字。
+han2020write	Brain-controlled coordinate selections guide a robot to draw the strokes of 福. The output is a physical glyph, not editable encoded text.	脑控坐标选择引导机器人绘制“福”的笔画；输出是物理字形，并非可编辑的编码文字。
+wang2020effects	Younger and older users enter traditional Chinese on handheld devices using Zhuyin or handwriting, under timed task conditions.	年轻和年长用户在限时任务中，通过注音或手写在手持设备上输入繁体中文。
+sun2022design	Six Braille keys are stored as Unicode Braille, mapped through Pinyin and converted to Chinese text for the clipboard.	六键盲文先存储为 Unicode 盲文符号，经拼音映射转换为中文，再输出到剪贴板。
+weng2022establishment	Audio descriptions and structured learning materials teach congenitally blind learners to enter traditional Chinese using Boshiamy shape codes.	通过语音描述及结构化教材，教授先天盲人以嘸蝦米形码输入繁体中文。
+young2023enabling	Screen-reader-supported Chinese typing and web search are used in literacy learning; this report does not specify the underlying input method.	研究将屏幕朗读支持的中文输入与网页检索用于识字学习；本篇未明确所用输入法。
+chen2024handwriting	Finger and stylus handwriting are compared across input-box sizes. The evaluated task is single-character recognition and rewriting.	比较不同输入框尺寸下的手指与触笔手写，评估任务为单字识别及重写。
+nonoka2024study	Wearable gaze control selects Japanese consonant and vowel groups, with kana modifiers, deletion and spoken feedback.	可穿戴眼控系统选择日文辅音与元音组，并提供假名修饰、删除及语音反馈。
+ahn2025rectus	Leg-muscle EMG triggers cursor and selection commands on a Cheonjiin keyboard to compose Hangul syllables.	腿部肌电触发 Cheonjiin 键盘的光标与选择命令，用于组合 Hangul 音节。
+liu2025influence	Older adults enter Chinese strings using Pinyin keyboards or handwriting; character complexity and method are examined through time, accuracy and deletion.	老年用户通过拼音键盘或手写输入中文字符串，研究以时间、准确率及删除操作考察字形复杂度与输入方式。
+fukushima2000online	Continuous handwritten Japanese is jointly segmented and recognized using shape, character size and contextual likelihoods in a candidate lattice.	通过候选词格，联合利用字形、字符尺寸和上下文概率，对连续日文手写进行分割与识别。
+ichimura2000kana	Partial kana input predicts Kanji strings; accepted phrases are learned into a prioritized personal dictionary.	依据部分假名预测汉字字符串，并将用户接受的短语学习到优先使用的个人词典中。
+tokuno2002context	Handwritten Kanji trajectories are decoded using context-dependent substroke HMMs. Context refers to adjacent substrokes, not sentence meaning.	使用依赖上下文的子笔画隐马尔可夫模型解码汉字手写轨迹；上下文指相邻子笔画，并非句意。
+ren2003candidate	Romaji-to-Kanji input is used to compare candidate-list presentation and paging, with selection and repair timed separately.	通过罗马字转汉字任务比较候选列表呈现与翻页方式，并分别计量选择和修正时间。
+houser2004japanese	Japanese entry speeds are compared across devices using equivalent Romaji keystrokes; these rates are not direct Kanji-per-minute measures.	以等效罗马字按键数比较不同设备的日文输入速度，该指标并非直接的每分钟汉字数。
+huang2004statistical	A statistical decoder converts Hangeul into mixed Hanja and Hangeul, jointly handling word boundaries and whether a term should be converted.	统计解码器将 Hangeul 转为 Hanja 与 Hangeul 混合文字，同时处理词界及词语是否需要转换。
+sato2004menu	Stylus menus enter consonants; optional vowels narrow Japanese candidates, while dictionaries provide completion and next-word prediction.	触笔菜单输入辅音，可补充元音缩小日文候选范围，词典支持补全及后续词预测。
+komatsu2005corpus	Text observed in documents supplies compound-word completions, ranked using the current context and typed pronunciation prefixes.	从文档中观察到的文本提供复合词补全，并结合当前上下文及已输入的读音前缀排序。
+araki2006evaluation	Kana–Kanji candidates are checked by converting them back to spoken readings; semantic patterns are also used to detect homonym errors.	将假名转汉字候选还原为语音读音进行核查，并使用语义模式检测同音词转换错误。
+araki2006evaluationb	Markov models segment unspaced kana and generate mixed Kanji–kana candidates; word boundaries and conversion correctness are evaluated.	马尔可夫模型分割无空格假名并生成汉字与假名混合候选，评估词界与转换正确性。
+doo2006korean	One-handed chording selects Hangul initials, vowels and final consonants through a syllable-structured key mapping.	单手和弦按键依据音节结构映射，选择 Hangul 声母、元音和韵尾。
+itoh2006comparative	Two gaze interfaces are compared on hiragana communication phrases. The experiment does not evaluate kana–Kanji conversion.	以平假名交流短语比较两种眼控界面，实验不涉及假名转汉字的评估。
+ota2007online	An inter-stroke grammar recognizes isolated Kanji trajectories and accommodates alternate stroke orders.	笔画间语法识别单个汉字的手写轨迹，并支持不同笔顺。
+sakurada2007japanese	Free-form ink can be segmented, merged and recognized on demand; users then select handwriting or kana–Kanji conversion candidates.	自由手写墨迹可按需分割、合并及识别，用户随后选择手写识别或假名转汉字候选。
+sano2007recognition	Online brush trajectories are matched against hiragana templates, illustrated with recognition of あ.	在线毛笔轨迹与平假名模板匹配，文中以识别“あ”为例。
+tonouchi2007text	Overlapping hiragana handwriting is recognized stroke by stroke, with gestures for deletion, kana–Kanji conversion and commitment.	重叠书写的平假名按笔画识别，并用手势执行删除、假名转汉字和提交。
+ehara2008multilingual	Automatic language detection switches between language-specific input engines, including Japanese and Chinese conversion back ends.	自动语言检测在不同语言的输入引擎间切换，其中包括日文和中文转换后端。
+go2008itone	Dual joysticks select a Japanese syllabary column and vowel row; releasing commits the character. Conversion exists but is not fully evaluated.	双摇杆分别选择日语音节表的列和元音行，释放后提交字符；系统具有转换功能，但未进行完整评估。
+ilinkin2008design	A twelve-key mobile layout combines consonant multi-tap with shape-based vowel composition for Hangul entry.	十二键手机布局结合辅音多击与基于形状的元音组合，实现 Hangul 输入。
+mladenov2008integrated	A Japanese word processor combines keyboard entry with dictionary and radical lookup. Stroke-order pictures teach writing; handwriting recognition is not implemented.	日文文字处理器结合键盘输入、词典及部首查找；笔顺图片用于教学，未实现手写识别。
+miyao2009writer	Virtual examples adapt an online hiragana recognizer to individual writers using separately held-out handwriting samples.	通过虚拟样本使在线平假名识别器适应不同书写者，并以独立留出的手写样本评估。
+shin2009multi	One- and two-finger button actions are compared for Hangul composition in an image-based interface mockup.	在基于图像的界面模型中，比较单指与双指按键操作的 Hangul 组合方式。
+ilinkin2010evaluation	A user study compares Korean mobile keypad methods; reported character-based rates refer to component letters rather than whole Hangul syllables.	用户研究比较韩文手机键盘输入法，报告的字符速率针对组成字母，并非完整 Hangul 音节。
+kato2010kana	A word-based Markov model converts unsegmented kana into mixed Kanji–kana text, evaluated at sentence, word and character levels.	词级马尔可夫模型将未分词假名转换为汉字与假名混合文本，并在句、词和字符层面评估。
+kimioka2011niboshi	Multi-touch Japanese entry supports kana and predictive Kanji conversion; eyes-free operation concerns the keys rather than hidden text feedback.	多点触控日文输入支持假名及预测性汉字转换；免视操作针对按键，文字反馈仍然可见。
+ikegami2012modeless	Sequence features distinguish Japanese and ASCII input and map ASCII to kana. Kanji conversion is a proposed downstream step.	序列特征区分日文与 ASCII 输入，并将 ASCII 映射为假名；汉字转换属于提出的后续环节。
+fukatsu2013look	Single-handed flick gestures enter kana for short notes without looking at the keys; the study does not test Kanji conversion.	单手滑动手势在不看按键的情况下输入短假名笔记，研究未测试汉字转换。
+go2013designing	EdgeWrite corner paths encode Japanese phonograms, principally katakana, using stroke order and spatial structure.	EdgeWrite 利用笔顺与空间结构，通过角点路径编码日语表音字符，主要为片假名。
+kim2013hybrid	A hybrid evaluation compares mobile Hangul input using rehearsed sentences; trials stop when an error occurs.	混合评估使用预先练习的句子比较手机 Hangul 输入，出现错误即终止试次。
+wu2013web	Web-mined compounds and phrases expand Japanese kana–Kanji conversion; cloud candidates are placed ahead of local candidates.	从网页挖掘复合词与短语以扩展日文假名转汉字，云端候选排在本地候选之前。
+ashitaka2014acquisition	Hierarchical typing practice links Japanese kana words to Romaji key sequences; actual conversion candidates are not displayed.	分层打字练习将日文假名词与罗马字按键序列关联，实验不显示实际转换候选。
+higashida2015one	Numeric sequences retrieve Japanese words, names and addresses, with candidate display used to resolve ambiguity.	数字序列检索日文词语、姓名及地址，通过候选呈现消除歧义。
+ikegami2015hybrid	N-gram classification and a dictionary distinguish ASCII from kana during mixed Japanese typing, before Kanji conversion.	在混合日文输入中，使用 N 元模型分类与词典区分 ASCII 和假名，再进入汉字转换环节。
+matsuhara2015efficient	A photo attached to a kana-based tweet helps rerank Kanji candidates using similarity to retrieved Twitter images.	利用假名推文所附照片与检索到的 Twitter 图片之间的相似度，重新排列汉字候选。
+park2015enhanced	Different sounds provide feedback for Korean touchscreen typing; sentence transcription is tested with automatic completion and correction disabled.	为韩文触屏输入提供不同声音反馈，在关闭自动补全和自动纠错的条件下测试句子抄录。
+lee2016complete	A smartwatch interface constructs Hangul from initial consonants, vowels and final consonants through expandable, frequency-ordered choices.	智能手表界面以可展开、按频率排列的选项，逐步选择声母、元音和韵尾构成 Hangul。
+han2017mid	Mid-air gestures select consonants and vowels on a large display to compose Hangul, without a head-mounted display.	通过空中手势选择大屏幕上的辅音和元音，组合 Hangul，系统不使用头戴显示器。
+ikegami2017flick	A Japanese mobile IME uses word segmentation and recurrent language modeling to predict the next word from the current input and history.	日文手机输入法通过分词及循环语言模型，结合当前输入和历史词语预测后续词。
+ilinkin2017evaluation	Repeated smartwatch transcription compares Korean entry methods, with corrections deleting individual letters rather than whole syllable blocks.	通过重复的智能手表抄录任务比较韩文输入法，纠错时删除单个字母，而非整个音节块。
+shin2017non	Kinect detects mid-air tapping to enter hiragana or English, with controls for modifiers, deletion, spacing and character-set changes.	Kinect 检测空中拍击以输入平假名或英文，并支持修饰符、删除、空格及字符集切换。
+nguyen2018online	Recurrent networks recognize recorded Japanese handwriting trajectories as characters or text lines; no interactive candidate interface is evaluated.	循环网络将记录的日文手写轨迹识别为字符或文本行，研究未评估交互式候选界面。
+takei2018button	A two-by-six-button tablet keyboard enters kana, special characters and controls without kana–Kanji conversion.	二乘六按键的平板键盘用于输入假名、特殊字符及控制命令，不包含假名转汉字。
+tojo2018bubbleflick	Directional flicks on a circular smartwatch keyboard select kana; a central area controls cursor movement and deletion.	在环形智能手表键盘上以方向滑动选择假名，中央区域用于光标移动与删除。
+tanaka2019micro	Sliding chooses a Japanese syllabary row and tapping chooses its vowel position to enter hiragana on a small touch surface.	在小型触控面上，先滑动选择日语音节行，再点击选择元音位置，输入平假名。
+toba2019efficient	A smartwatch interface repairs Japanese speech-recognition errors using candidate and keyboard operations; re-dictation is prohibited in the test.	智能手表界面通过候选及键盘操作修正日语语音识别错误，测试中禁止重新口述。
+nakamura2020japanese	A bimanual tablet keyboard combines kana flick entry with dictionary-based Kanji conversion and a dedicated candidate area.	双手平板键盘结合假名滑动输入、基于词典的汉字转换及专门的候选区域。
+sato2020homonym	Word-sense clustering normalizes Japanese homonyms for an offline kana–Kanji conversion module.	通过词义聚类规范日文同音词，用于离线假名转汉字模块。
+nakamura2021bimanual	Common-use Kanji can be selected directly; other Kanji and katakana remain accessible through a conversion area.	常用汉字可直接选择，其他汉字及片假名仍可通过转换区域输入。
+takahashi2021japanese	A VR flick interface enters hiragana and displays the sentence; Kanji-candidate conversion is not evaluated.	VR 滑动界面输入平假名并显示句子，未评估汉字候选转换。
+yokoyama2021joyflick	Two joysticks and modifier buttons produce Japanese kana. IME integration and VR use are discussed as future extensions.	两个摇杆与修饰按键用于输入日文假名，接入输入法和 VR 使用属于讨论中的后续扩展。
+ikegami2024fast	A Japanese mobile IME provides recurrent-model word prediction and conversion candidates, compared with Mozc on input time and key actions.	日文手机输入法提供循环模型词预测及转换候选，并与 Mozc 比较输入时间和按键操作。
+sarhangzadeh2024alignment	An alignment-based policy incrementally converts kana into Japanese written text while controlling when the decoder reads and writes.	基于对齐的策略控制解码器读取与输出时机，将假名逐步转换为日文书面文本。
+wada2025flick	A bezel swipe and indirect touch select Japanese kana on a watch. The illustrated Kanji-conversion extension was not implemented or evaluated.	通过表框滑动和间接触控在手表上选择日文假名，图示的汉字转换扩展尚未实现或评估。
+kishi2026proposal	Pinch gestures operate a VR kana keyboard and an editing mode with deletion, modifiers and conversion-candidate selection.	捏合手势操控 VR 假名键盘及编辑模式，支持删除、修饰符和转换候选选择。
+mokuya2026japanese	Large consonant keys and vowel taps compose kana on a smartwatch; predictive conversion is proposed as future work.	通过大尺寸辅音键和元音点击在智能手表上组合假名，预测性转换属于后续工作。
+takeuchi2026kuchimoji	Mouth shapes estimate vowels; scanning and confirmation signals select kana. The system supports speech playback, but not Kanji conversion.	口型用于估计元音，再通过扫描及确认信号选择假名；系统支持语音播放，不包含汉字转换。
+tanakaishii2002entering	Ambiguous input on four character buttons is resolved through predictive completion and selection from ranked word candidates.	四个字符按键产生的歧义输入，通过预测补全及排序词候选的选择消解。
+kurihara2006speech	Ambient speech and handwriting recognition suggest text that can be inserted into Japanese notes in a personalized handwriting style.	环境语音与手写识别提供文字建议，可按个性化手写风格插入日文笔记。
+hatano2009japanese	Surface EMG generates pseudo-key events for Japanese word-candidate selection, paging and confirmation.	表面肌电生成模拟按键事件，用于日文词候选选择、翻页与确认。
+li2009bci	A P300 messenger offers Chinese stroke entry, candidate selection and deletion, then sends the resulting message.	P300 消息系统提供中文笔画输入、候选选择及删除，并发送生成的消息。
+jin2010chinese	A stroke-to-Chinese candidate interface is designed around P300 classification; the experiment evaluates cued components rather than voluntary messages.	围绕 P300 分类设计笔画转汉字候选界面，实验评估提示条件下的组件选择，而非自主消息输入。
+kotani2010design	An eye-typing interface selects kana using gaze timing, with written and auditory confirmation; calibration corrects sensor drift.	眼控打字界面依据注视时序选择假名，并提供文字及声音确认；校准用于修正传感器漂移。
+lee2011hangul	Hierarchical P300 stimuli select Hangul components in syllable order, with null-final and undo controls.	分层 P300 刺激按照音节顺序选择 Hangul 组成部分，并提供空韵尾及撤销控制。
+sun2011design	ERP-based Zhuyin selection produces traditional Chinese candidates, followed by character selection, paging and deletion.	基于事件相关电位选择注音符号，生成繁体汉字候选，再进行选字、翻页和删除。
+bi2012multilingual	Touchscreen layout optimization includes the Roman-letter portion of Pinyin; the Han-candidate phase is excluded and user testing uses English.	触屏布局优化涵盖拼音的罗马字母输入部分，不包含汉字候选环节，用户实验使用英文。
+liang2012eye	Gaze selects Pinyin keys and Chinese phrase candidates, with paging, punctuation and backspace controls.	通过注视选择拼音按键及中文词组候选，并提供翻页、标点和退格功能。
+minett2012chinese	Three-stage P300 selection composes traditional Chinese characters from components. The experimental protocol prohibits repairing component errors.	三阶段 P300 选择通过部件构成繁体汉字，实验协议禁止修正部件选择错误。
+chen2013cursor	Motor-imagery cursor control selects Pinyin letters; a Chinese IME converts them into Han text for messaging.	运动想象控制光标选择拼音字母，由中文输入法转换为汉字并用于消息发送。
+hagiwara2013koosho	Aerial letter trajectories form a lattice; consonant decoding produces Kanji candidates that users touch to submit a search query.	空中字母轨迹形成词格，辅音解码生成汉字候选，用户触及候选后提交检索式。
+huang2013fastest	Brain-wave selection enters Zhuyin before switching to Chinese candidates; the reported experiment measures item selections, not complete sentences.	通过脑电选择输入注音，再切换到汉字候选；报告的实验计量项目选择，并非完整句子输入。
+yu2016brain	P300 selection moves from Pinyin initials and finals to frequency-ranked Han characters, with prediction, paging and repair controls.	P300 选择从拼音声母和韵母进入按频率排列的汉字候选，支持预测、翻页与修正。
+han2017eighty	An eighty-target brain speller first selects a Pinyin range, then a Chinese homophone candidate, with extra commands for correction.	八十目标脑控拼写器先选择拼音范围，再选择同音汉字候选，并以额外命令纠错。
+gan2020air	Continuous in-air Chinese handwriting is projected and decoded into text using temporal convolution, recurrent modeling and a language model.	连续空中中文手写经投影后，结合时序卷积、循环建模及语言模型解码为文本。
+li2020approach	The study detects error-related brain responses during Pinyin-component spelling; it does not demonstrate automatic repair of final Han text.	研究检测拼音组件拼写中的错误相关脑反应，未展示最终汉字文本的自动修正。
+shi2020steady	An SSVEP interface combines Pinyin entry and Han-candidate selection for home communication by a person with ALS.	SSVEP 界面结合拼音输入与汉字候选选择，支持一名 ALS 患者在家中交流。
+guo2021calibration	An updating P300 classifier supports cued Pinyin and Chinese-word selections, using known copy targets as rewards.	动态更新的 P300 分类器支持提示条件下的拼音及中文词语选择，并以已知抄录目标提供奖励。
+ogata2021effectiveness	Gaze-controlled Romaji keys send Japanese kana to text editors, including modifiers and deletion; Kanji conversion is not evaluated.	眼控罗马字按键将日文假名发送至文本编辑器，并支持修饰与删除；未评估汉字转换。
+huang2022calibration	A transfer-based P300 classifier selects Pinyin initials, finals and tones under cued spelling; free-composition correction is not demonstrated.	基于迁移的 P300 分类器在提示式拼写中选择拼音声母、韵母和声调，未展示自由表达中的纠错。
+li2022practical	P300 selects Pinyin initials and finals; eye tracking then selects the Chinese character from a homophone list.	P300 选择拼音声母和韵母，随后由眼动从同音字列表中选择汉字。
+tang2022interface	Three gaze-controlled Chinese keyboard layouts are compared through daily-sentence entry with dwell selection and permitted corrections.	通过允许纠错的日常句子输入任务，比较三种采用停留选择的眼控中文键盘布局。
+gao2024character	A hidden Markov model corrects Pinyin-symbol sequences from a P300 speller; final Han-candidate confirmation is not shown.	隐马尔可夫模型纠正 P300 拼写器产生的拼音符号序列，未展示最终汉字候选确认。
+hosono2024segmentation	Aerial hiragana trajectories are segmented and recognized into strings, evaluated on fixed syllabary sequences.	将空中平假名轨迹分割并识别为字符串，以固定音节表序列进行评估。
+tong2024eye	Eye movements draw strokes for a limited Mandarin character set; the tested single characters include 一, 十 and 床.	通过眼动绘制有限字集中的汉字笔画，测试的单字包括“一”“十”和“床”。
+yang2024reconstructing	Brain signals reconstruct imagined Chinese handwriting trajectories using externally supplied stroke transitions, followed by template and language-model decoding.	脑信号结合外部提供的笔画转换时点重建想象的汉字手写轨迹，随后使用模板与语言模型解码。
+wu2025mind	Imagined handwriting is classified into isolated Pinyin components; homophone choice and final Han-character composition are not evaluated.	将想象手写分类为独立拼音组件，未评估同音字选择及最终汉字组合。
+ahn2026cheonjiin	EEG signals select five cursor commands on a Cheonjiin keyboard to compose Hangul; command accuracy is distinct from text-entry accuracy.	脑电信号选择 Cheonjiin 键盘上的五种光标命令以组合 Hangul；命令准确率与文字输入准确率不同。
+li2026asynchronous	Gaze and P300 signals support initial, final and Han-character selection, supplemented by contextual predictions from a language model.	眼动与 P300 信号支持声母、韵母和汉字选择，并由语言模型提供上下文预测。
+wang2026eeg	The dataset records imagined Chinese strokes and Pinyin vowels. It does not demonstrate complete character composition or online spelling.	数据集记录想象中的汉字笔画及拼音元音，未展示完整汉字组合或在线拼写。
+komiya2017japanese	Finger flexion and extension select Japanese consonants and vowels in VR, producing kana with a separate deletion gesture.	在 VR 中，通过手指屈伸选择日语辅音与元音以生成假名，并以独立手势删除。
+ogitani2018space	A virtual twelve-key keyboard supports Japanese kana and English entry through mid-air or palm-based flick gestures.	虚拟十二键键盘通过空中或掌上滑动手势，支持日文假名和英文输入。
+yang2018interaction	Gesture recognition separates writing from repositioning; projected three-dimensional trajectories are passed to a Chinese handwriting recognizer.	手势识别区分书写与重新定位，再将三维轨迹投影后交由中文手写识别器处理。
+kato2023hover	A wrist camera detects hovering fingertips for dwell-based kana selection while allowing the arm to remain lowered.	腕部摄像头检测悬停指尖，以停留方式选择假名，并允许手臂保持低位。
+monobe2025research	Touch, pinch and flick actions operate a Japanese kana keyboard in VR, with modifiers and deletion controls.	触碰、捏合及滑动操作 VR 日文假名键盘，并支持修饰符和删除。
+yuasa2025flickpose	One hand selects a key and the other selects a symbol through hand poses; dictionary-based kana–Kanji conversion produces Japanese text.	一只手选键，另一只手通过手势选字符，再由基于词典的假名转汉字生成日文文本。
+chen2000statistical	Statistical Pinyin-to-Chinese conversion combines a language model with spelling tolerance and modeless English entry.	统计拼音转汉字结合语言模型、拼写容错及无模式切换的英文输入。
+wang2001chinese	Keyboard and eye-tracking methods are compared for Chinese candidate selection in a single-character dictation task.	通过单字听写任务，比较键盘和眼动两种汉字候选选择方式。
+liu2002approach	A small-memory Pinyin converter learns real and artificial word entries to improve tonal Pinyin-to-character conversion.	小内存拼音转换器学习真实词与构造词条，以改进带声调拼音转汉字。
+lo2002cross	A cross-platform engine demonstrates Cangjie and simplified shape-code input, with prefix hints, numbered candidates and browser glyph images.	跨平台引擎演示仓颉及简易形码输入，提供前缀提示、数字候选选择和浏览器字形图片。
+matic2002quickstroke	Chinese handwriting candidates update after each additional stroke, allowing selection before the character is fully written.	每增加一笔便更新汉字手写候选，用户可在写完全部笔画前选择目标字。
+huang2004adaptive	Compression-based statistical modeling adapts Pinyin-to-Chinese conversion across news and story text, assuming one pronunciation per character.	基于压缩的统计建模使拼音转汉字适应新闻和故事文本，模型假定每字仅有一种读音。
+xiaolong2004mining	Rough-set rules learned from corpus contexts convert segmented toneless Pinyin into Chinese, allowing unresolved cases to remain undecided.	由语料上下文学习粗糙集规则，将已分音节的无调拼音转换为汉字，并允许对未解决的情况保留判断。
+ge2005online	A handwriting interface accepts Chinese characters or Pinyin syllables; recognized Pinyin opens a frequency-ranked Han-candidate list.	手写界面接受汉字或拼音音节，识别出的拼音用于打开按频率排列的汉字候选列表。
+lin2005graphics	Graphical keypad labels are compared for stroke-based Chinese entry, using both mobile typing and stroke-to-key mapping tasks.	通过手机输入及笔画到按键映射任务，比较中文笔画输入键盘上的图形标签。
+tsai2005applying	A mix word-pair identifier resolves phonetic and segmentation ambiguities by replacing selected words in converted Chinese sentences.	混合词对识别器通过替换已转换中文句子中的选定词语，消解读音及分词歧义。
+tsai2005word	Word-pair co-occurrence helps disambiguate tonal or toneless syllables during traditional Chinese input.	词对共现信息用于消解繁体中文输入中带调或无调音节的歧义。
+hsu2006spoken	Spoken character descriptions constrain recognition to correct Zhuyin-based Chinese input, either replacing text or narrowing candidates.	口述汉字描述约束识别范围，用于修正基于注音的中文输入，可直接替换文字或缩小候选范围。
+liu2006application	A coarsened Pinyin candidate lattice is decoded with lexical models, then refined using grammar and semantic information.	先简化拼音候选词格并以词汇模型解码，再利用语法及语义信息细化结果。
+tsai2006word	Support scores from matching multisyllabic word pairs rank replacements to resolve Chinese syllable-to-word ambiguity.	根据匹配的多音节词对计算支持度，对替换词排序，以消解中文音节转词歧义。
+tseng2006chinese	Reduced first-symbol phonetic input is assessed through language-model uncertainty; decoded Chinese entry is not directly evaluated.	通过语言模型的不确定性评估首符号简化注音输入，未直接评估解码后的中文输入。
+wang2006maximum	Maximum-entropy modeling converts toneless Pinyin character by character using local and longer-distance phonetic context.	最大熵模型结合局部及较远距离的读音上下文，将无调拼音逐字转换为汉字。
+zhou2006improved	Speech hypotheses and incremental handwritten strokes jointly rerank Chinese character candidates after each stroke.	语音假设与逐步增加的手写笔画共同作用，每写一笔便重新排列汉字候选。
+lin2007constructing	A simulated stroke keypad tests Chinese character construction; predictive candidates are analyzed retrospectively rather than selected interactively.	模拟笔画键盘用于测试汉字构造，预测候选在事后分析，并非交互选择。
+liu2007chinese	Mobile Pinyin phrase entry compares direct Chinese candidate selection with an explicit Pinyin-disambiguation stage.	手机拼音词组输入比较直接选择汉字候选与先明确消解拼音歧义的方式。
+ma2007line	Handwritten shorthand is recognized into consonant and rhyme interpretations; conversion through Pinyin into Han text remains future work.	手写速记识别产生声母及韵母解释，经拼音转换为汉字仍属于后续工作。
+tung2007key	Zhuyin symbols are mapped to reduced key sets to balance key count and ambiguity in traditional Chinese selection.	将注音符号映射至精简键集，在繁体汉字选择中平衡按键数量与编码歧义。
+xiao2007exploiting	Pinyin context predicts word classes that are combined with transition and emission scores for Chinese sequence decoding.	利用拼音上下文预测词类，再结合转移及发射分数进行中文序列解码。
+zhou2007segment	A segment-based hidden Markov model converts continuous Pinyin into Chinese using lexical and cross-word character probabilities.	基于片段的隐马尔可夫模型结合词汇及跨词字符概率，将连续拼音转换为中文。
+jiang2008multimodal	Speech, keypad initials and word frequency are fused to generate Chinese candidates that the user confirms.	融合语音、键盘声母和词频，生成由用户确认的中文候选。
+lin2008novel	A word-distance language model converts Pinyin and supports locating and replacing an erroneous candidate with an additional key action.	词距语言模型用于拼音转换，并支持以额外按键定位和替换错误候选。
+liu2008rotatxt	A rotator selects Pinyin letters or consonant–final pairs and then Chinese candidates, comparing alphabetic and phonetic ordering.	旋钮先选择拼音字母或声韵母组合，再选择汉字候选，研究比较字母序与语音序排列。
+wen2008ambiguity	Matching rules and language-model scores resolve continuous Pinyin syllable boundaries before conversion to Chinese words.	通过匹配规则和语言模型分数消解连续拼音的音节边界，再转换为中文词语。
+gong2009design	Unicode Extension B characters are retrieved through stroke sequences or radical-and-shape codes.	通过笔画序列或部首与字形组合编码，检索 Unicode 扩展 B 区汉字。
+jiang2009artificial	An artificial immune network scores Pinyin-to-Chinese word lattices, combining sequence decoding with error-driven updates.	人工免疫网络对拼音转汉字词格评分，结合序列解码与错误驱动更新。
+li2009effect	The number of displayed Chinese candidates is varied during single-character full-Pinyin input, with target readings supplied.	在提供目标读音的单字全拼输入中，改变显示的汉字候选数量。
+liu2009chinese	Pinyin generated from already segmented text is converted back to Chinese with word boundaries supplied.	将已分词文本生成的拼音转换回汉字，转换时提供已知词界。
+liu2009immediate	Four handheld touchscreen methods are compared during Chinese short-message copying.	通过中文短消息抄录任务，比较四种手持触屏输入方式。
+po2009six	Six-digit codes use the first three and last three strokes of a character, with phrase codes, wildcards and candidate pages.	六位编码使用汉字的前三笔及末三笔，并支持词组编码、通配符及候选翻页。
+ren2009optimal	Input-box sizes are compared for handwritten Japanese and alphanumeric characters; recognition is performed afterward rather than during entry.	比较日文及字母数字手写的输入框尺寸，识别在输入结束后进行，而非实时执行。
+tung2009modified	Phonetic features of characters and selected radicals form hybrid codes intended to reduce collisions in Chinese input.	组合汉字及选定部首的语音特征，形成旨在减少中文输入重码的混合编码。
+wei2009applying	Activity and correlation scores guide Chinese word-lattice decoding, while feedback updates correct and erroneous paths.	利用活动度及相关性分数指导中文词格解码，并通过反馈更新正确与错误路径。
+wei2009linux	A Linux/MiniGUI engine maps indexed codes to Chinese characters and phrases across Pinyin, shape and stroke schemes.	Linux/MiniGUI 引擎通过索引编码映射汉字及词组，支持拼音、形码和笔画等方案。
+yan2009birth	A mobile radical keypad combines spatial grouping, stroke fallback and frequency-ranked Chinese candidates.	手机部件键盘结合空间分组、笔画后备输入及按频率排列的汉字候选。
+li2010prompting	Numeric remote-control input retrieves Chinese television-search terms using field-specific dictionaries and full-text search.	数字遥控输入结合字段专用词典与全文检索，获取中文电视搜索词。
+liu2010predicting	A model estimates mobile Pinyin entry time using thumb movement and candidate navigation, with prediction enabled or disabled.	模型结合拇指移动及候选导航，估计开启或关闭预测时的手机拼音输入时间。
+niu2010stroke	A touchscreen method combines radicals and strokes, allowing unordered components and Chinese character or phrase selection.	触屏输入法结合部件与笔画，允许无序部件输入，并支持汉字或词组选择。
+wang2010improvement	Keyboard controls navigate Chinese candidate rows and columns; a second hint area supplies contextual phrases.	键盘控制用于导航汉字候选的行列，另一个提示区域提供上下文词组。
+zhou2010hit	A Chinese handwriting corpus records pen trajectories with segmentation, editing gestures and document checking; it does not benchmark recognition output.	中文手写语料记录笔轨迹，并提供分割、编辑手势及文档核查；研究未评测识别输出。
+lin2011auxiliary	A known, visually similar Han character retrieves ranked rare glyphs with Unicode details through a shape-similarity lookup service.	输入一个已知且外形相近的汉字，即可通过字形相似检索服务获取排序的生僻字及 Unicode 信息。
+liu2011user	User–word relationships and search snippets support related-word retrieval and domain-lexicon expansion, rather than direct conversion evaluation.	用户与词语关系及搜索摘要支持相关词检索和领域词库扩展，研究未直接评估输入转换。
+po2011dynamic	Directional gestures select Chinese candidates around a five-stroke touchscreen keypad using first-three/last-three stroke codes.	在五笔画触屏键盘周围，通过方向手势选择采用前三笔与末三笔编码的汉字候选。
+sha2011automatic	Entered Chinese queries are mapped back to Pinyin and matched to topic dictionaries for spelling correction and completion.	将已输入的中文查询映射回拼音，再匹配主题词典，进行拼写纠正与补全。
+wong2011chinese	Second-language learners compose Chinese using freely chosen Pinyin, handwriting and dictionary tools.	汉语二语学习者自由选择拼音、手写及词典工具进行中文写作。
+zheng2011chime	CHIME repairs word-separated Pinyin chunks within a bounded edit distance before decoding Chinese text.	CHIME 在限定编辑距离内修正按词分隔的拼音片段，再解码为中文文本。
+zheng2011why	Logs of Pinyin input, committed Chinese and backspaces are analyzed to study input behavior and infer likely correction pairs.	分析拼音输入、已提交汉字及退格日志，以研究输入行为并推断可能的纠错对。
+zou2011overlapped	Overlapping Chinese handwriting uses progressive ink fading on a phone, with final text recognized offline.	手机上的重叠中文手写通过逐步淡化墨迹显示，最终文字在离线条件下识别。
+liu2012pinyinpie	A leading-letter tap opens a pie menu for Pinyin suffix gestures, feeding an existing Chinese IME.	点击首字母后打开饼状菜单，通过手势选择拼音后缀，再交由现有中文输入法处理。
+masui2012enjoying	Pronunciation prefixes retrieve mixed Japanese-word and image candidates; cycling and confirmation insert the selected item.	读音前缀检索由日文词语及图片组成的候选，用户循环浏览并确认插入选定项。
+suzuki2012unified	Backspace-derived corrections train a joint model of Pinyin spelling repair and Chinese sequence conversion.	利用退格操作提取的纠错数据，训练联合处理拼音拼写修正与中文序列转换的模型。
+wang2012approach	Online Chinese sentence handwriting is jointly segmented and recognized, with user gestures for splitting, merging and candidate correction.	在线中文句子手写联合进行分割与识别，用户可通过手势拆分、合并及修正候选。
+wang2012improving	Speech and typed or handwritten Pinyin initials are combined to predict Chinese text, including simulated candidate selection.	结合语音与键入或手写的拼音声母预测中文文本，评估包括模拟候选选择。
+yang2012machine	A phrase-based translation model maps aligned Pinyin syllables to Chinese sentences without word reordering.	基于短语的翻译模型将对齐的拼音音节映射为中文句子，不进行词序重排。
+zhu2012design	An embedded remote-control IME maps numeric keys to Pinyin and Chinese candidates, with paging and frequency adaptation.	嵌入式遥控输入法将数字键映射至拼音和汉字候选，并支持翻页及词频自适应。
+gao2013user	Mobile handwriting input is studied in contacts and messaging tasks containing Chinese, English, numbers and punctuation.	在包含中文、英文、数字及标点的通讯录与短信任务中研究手机手写输入。
+jia2013kyss	KySS evaluates the candidate-selection and paging effort of Chinese IMEs, excluding the fixed cost of typing Pinyin.	KySS 评估中文输入法的候选选择及翻页成本，不计入固定的拼音键入成本。
+li2013mutual	Mutual information selects lexicon units for Pinyin-to-Chinese decoding, including useful collocations beyond conventional words.	互信息用于选择拼音转汉字的词库单元，其中包括传统词语之外的有效搭配。
+liu2013investigating	Children practice traditional Chinese entry through Zhuyin; the study examines practice time and literacy in typing performance.	儿童通过注音练习繁体中文输入，研究考察练习时间及识字能力与打字表现的关系。
+petrovi2013metoda	Five-stroke numeric input uses the first four and final strokes, comparing Chinese and Japanese forms and regional stroke orders.	五笔画数字输入采用前四笔与末笔，研究比较中文与日文字形及地区笔顺差异。
+po2013radical	A dynamic touchscreen keypad selects a radical and remaining strokes, then uses directional swipes to choose traditional Chinese candidates.	动态触屏键盘选择部首及剩余笔画，再通过方向滑动选择繁体汉字候选。
+tan2013china	Children's reading is related to self-reported Pinyin and handwriting exposure; the study does not assign an input-method intervention.	研究考察儿童阅读与自报拼音、手写接触情况的关系，未安排输入法干预。
+tu2013optimal	Chinese handwriting is tested across input sizes; unsuccessful recognition requires rewriting until the correct character is obtained.	在不同输入尺寸下测试中文手写，识别失败后需重新书写，直至获得正确汉字。
+jia2014joint	A joint graph combines Pinyin segmentation, typo alternatives and Chinese word probabilities to produce ranked conversion candidates.	联合图结合拼音分割、错拼替代项和中文词概率，生成排序的转换候选。
+niu2014stroke	Stroke++ combines radicals and strokes with unordered matching, ranked phrases and phrase-boundary controls on a touchscreen.	Stroke++ 在触屏上结合部首、笔画、无序匹配、排序词组及词组边界控制。
+sim2014multimodal	Initial handwritten strokes, a spatial layout and optional speech jointly predict Chinese characters and words.	初始手写笔画、空间布局及可选语音共同预测汉字和词语。
+yang2014chinese	Previously entered Chinese strings are stored and recombined at shared characters to offer completion paths.	存储已有中文输入，并在共同字符处重新组合，以提供补全路径。
+anon2015smart	Toneless Hakka romanization converts to traditional Han text, with prediction, a custom dictionary and spoken output feedback.	无调客语罗马拼音转换为繁体汉字，并提供预测、自定义词典及语音输出反馈。
+chen2015neural	An offline neural model revises n-gram probabilities; runtime Chinese conversion still uses a backoff language model and Viterbi decoding.	离线神经模型修订 N 元概率，运行时的中文转换仍采用回退语言模型与 Viterbi 解码。
+huang2015input	Machine-translation hypotheses support Pinyin decoding and next-phrase suggestions while a human translator writes Chinese.	在人类译者输入中文时，机器翻译假设辅助拼音解码及后续短语建议。
+lin2015investigation	Traditional Chinese Zhuyin entry is compared across physical, touchscreen and combined mobile interfaces.	比较实体键盘、触屏及组合式手机界面上的繁体中文注音输入。
+gong2016leveraging	Case-specific dictionaries and Pinyin retrieval suggest Chinese clinical phrases during patient-safety narrative entry.	通过病例专用词典与拼音检索，在患者安全事件叙述输入中推荐中文临床短语。
+wu2016study	The study examines layout, color, key states and dimensions of a ten-key Pinyin touchscreen interface.	研究考察十键拼音触屏界面的布局、颜色、按键状态及尺寸。
+xiao2016pinyin	Pinyin conversion outputs both a Chinese word and a unique sense identifier; the editor can display its definition.	拼音转换同时输出中文词语及唯一词义标识符，编辑器可显示相应释义。
+zhu2016word	Learners write Chinese essays using Pinyin in a word processor or pencil and paper; the study evaluates composition rather than recognition.	学习者通过文字处理器中的拼音输入或纸笔撰写中文作文，研究评估写作而非识别。
+chen2017effect	Recognition judgments examine links between Chinese semantics, phonology and Pinyin experience; no text-entry task is performed.	通过识别判断考察汉字语义、语音与拼音经验的联系，研究未执行文字输入任务。
+chen2017role	Finger, thumb and stylus input are compared for isolated Chinese handwriting across box positions and display sizes.	比较不同输入框位置及显示尺寸下的手指、拇指和触笔汉字单字手写。
+huang2017research	Hakka romanization is converted into traditional Han text on mobile devices; speech synthesis supplies output feedback.	在移动设备上将客语罗马拼音转换为繁体汉字，语音合成提供输出反馈。
+huang2017researchb	A Sixian Hakka mobile IME combines toneless conversion, next-word prediction, personal preferences and spoken feedback.	四县客语手机输入法结合无调转换、后续词预测、个人偏好及语音反馈。
+huang2018chinese	A neural Pinyin-to-Chinese model uses context to complete text beyond the characters directly represented by the typed prefix.	神经拼音转汉字模型利用上下文，在已输入前缀直接对应的字符之外补全文本。
+huang2018moon	Moon IME combines neural Pinyin conversion with customizable associations, follow-up prediction and Chinese-to-English assistance.	Moon IME 结合神经拼音转换、自定义关联、后续预测及中译英辅助。
+huang2018research	Hakka romanization or Mandarin Zhuyin produces Hakka text; unavailable glyphs are represented by Pinyin, with spoken feedback.	客语罗马拼音或国语注音生成客语文字，无法显示的字形以拼音表示，并提供语音反馈。
+ji2018knowledge	Knowledge-based correction handles mistyped or abbreviated Pinyin to recover intended Chinese character sequences.	基于知识的纠错处理误输入或缩略拼音，以恢复目标汉字序列。
+meng2018smart	Sliding traces on an iOS keyboard are sent to a server for Pinyin interpretation and Chinese conversion.	将 iOS 键盘上的滑动轨迹发送至服务器，进行拼音解释与中文转换。
+ruan2018comparing	Speech and keyboard entry are compared for short English and Mandarin messages, with keyboard repair available after speech recognition.	比较英文及普通话短消息的语音和键盘输入，语音识别后可通过键盘修正。
+tian2018visor	IM-Visor shields sensitive keystrokes from third-party Android IMEs. Its evaluated tasks concern Latin input rather than Han conversion.	IM-Visor 防止第三方 Android 输入法获取敏感按键，评估任务涉及拉丁文字输入，而非汉字转换。
+yang2019testime	TestIME compares Chinese input engines during exact transcription of electronic medical records, requiring correction of character differences.	TestIME 在电子病历逐字抄录中比较中文输入引擎，要求修正字符差异。
+yao2019enabling	An incremental vocabulary reduces neural decoding cost as Romaji-derived kana is converted into Japanese word-lattice candidates.	将罗马字生成的假名转换为日文词格候选时，通过增量词表降低神经解码开销。
+yao2019seeime	A learner-oriented mobile IME displays Pinyin, Chinese characters and English together using a hybrid Pinyin code.	面向学习者的手机输入法采用混合拼音编码，同时显示拼音、汉字及英文。
+zhang2019open	An open-vocabulary neural IME learns new Chinese words during simulated Pinyin conversion on news and historical chat data.	开放词表神经输入法在新闻及历史聊天数据的模拟拼音转换中学习新词。
+zhang2019smarthandwriting	A smartwatch senses acceleration and rotation while the user writes Chinese characters on paper, producing recognition labels.	用户在纸上书写汉字时，智能手表感知加速度与转动，并产生识别标签。
+cao2020evaluation	Chinese and Japanese simulated medical dialogues are dictated into an IME and transcribed into a memo application.	将模拟中文及日文医患对话口述至输入法，再转写到备忘录应用。
+ding2020design	Eye-writing signals are used to enter a small set of simplified Chinese characters, with calibration and confirm/cancel operations.	眼写信号用于输入少量简体汉字，系统提供校准及确认、取消操作。
+li2020influence	Phone posture, environment and tapping layout are compared during mixed Chinese and English short-message entry with corrections allowed.	在允许纠错的中英文混合短消息输入中，比较手机姿势、环境及点击键盘布局。
+liu2020stroke	A stroke-sequence-dependent neural network classifies isolated handwritten Chinese characters; no live candidate or repair interface is tested.	依赖笔画序列的神经网络分类独立手写汉字，未测试实时候选或修正界面。
+yang2020subsequent	Deep reinforcement learning recommends words after an entered Chinese context, without evaluating a specific Pinyin or shape-code interface.	深度强化学习根据已输入的中文上下文推荐后续词，未评估特定拼音或形码界面。
+zhang2020user	Users rate the appearance of mobile IME skins; the study evaluates visual preference rather than text-entry performance.	用户评价手机输入法皮肤的外观，研究评估视觉偏好，而非文字输入表现。
+zhou2020children	Reading and character-judgment tasks examine associations with children's Pinyin typing exposure; typing is not performed during scanning.	通过阅读及汉字判断任务考察儿童拼音输入接触情况的关联，扫描期间未进行打字。
+jiang2022adaptive	Representation similarity adapts Pinyin conversion across news, chat, legal and medical domains in simulated sequential domain shifts.	在模拟的连续领域切换中，通过表征相似性使拼音转换适应新闻、聊天、法律和医疗领域。
+li2022fast	Spatial and contextual neural features recognize Chinese characters in constructed handwriting sequences derived from existing datasets.	通过空间及上下文神经特征，识别由既有数据集构建的手写序列中的汉字。
+tan2022exploring	PinyinGPT adapts Chinese generation to complete or abbreviated Pinyin with context; mixed forms and typo repair are not implemented.	PinyinGPT 使中文生成适应带上下文的全拼或缩写拼音，未实现混合形式及错拼修复。
+xiong2022pinyin	Self-attention converts sentence-level Pinyin to Chinese in news and medical domains, evaluated with idealized character edits.	自注意力将新闻及医疗领域的句级拼音转换为中文，并使用理想化字符编辑条件评估。
+li2023less	A clinical suggestion tool offers Chinese medical text alongside the existing IME, with separate keys for accepting each source's candidates.	临床建议工具在既有输入法旁提供中文医疗文本，并用不同按键接受各来源的候选。
+luo2023internet	Survey measures of internet use and Pinyin proficiency are related to Chinese spelling tests, rather than measured typing speed.	将互联网使用及拼音熟练度的问卷指标与汉字拼写测试联系起来，未实测打字速度。
+ding2024generative	GeneInput unifies full, abbreviated and mistyped Pinyin conversion with continuation and rewriting in a generative input framework.	GeneInput 在生成式输入框架中统一全拼、缩写和错拼转换，并支持续写及改写。
+guo2024optimization	CN-T9 rearranges a numeric Pinyin keyboard to improve Chinese input layout; product implementation is discussed as future work.	CN-T9 重排数字拼音键盘以改进中文输入布局，产品实现属于后续工作。
+knockel2024silent	Network-security testing examines cloud Pinyin traffic in Chinese IMEs, rather than conversion accuracy or typing speed.	网络安全测试考察中文输入法的云拼音通信，而非转换准确率或输入速度。
+sun2024exploring	A conditional variational Transformer models multiple Chinese outputs for ambiguous nine-key and twenty-six-key Pinyin input.	条件变分 Transformer 针对九键及二十六键拼音输入的歧义，建模多个可能的中文输出。
+chen2025investigating	CATIA uses recent screen context to suggest Chinese intentions and text; users revise, regenerate and insert suggestions into their apps.	CATIA 利用近期屏幕上下文推荐中文意图及文本，用户可修改、重新生成并插入应用。
+peng2025enhancing	Pinyin encoders condition GPT-based Chinese conversion on correctly segmented, clean Pinyin, with constrained character decoding.	拼音编码器以正确分词、无错拼的拼音为条件，通过受约束字符解码辅助 GPT 中文转换。
+zhang2026tone	Silent lip movements and touchpad tone gestures are fused in VR to generate Mandarin Han text without acoustic speech input.	在 VR 中融合无声唇动与触控板声调手势，生成普通话汉字文本，无需声学语音输入。

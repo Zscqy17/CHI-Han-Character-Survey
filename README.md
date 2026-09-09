@@ -1,46 +1,47 @@
-# CJK Input Atlas — Kimi deployment handoff
+# CJK Input Atlas
 
-This repository provides the completed CJK Input Atlas website for deployment with Kimi. The package contains the static HTML site, original-paper images and GIFs, curated data, and maintainable React / TypeScript source.
+241 篇中日韩文字输入研究的在线目录及配套媒体。保留 EN-A / EN-B、算法与交互视图，以及英中日韩四种显示语言。
 
-## 下载 / Download
+## 最新版下载 / Latest download
 
-- [部署包 / Deployment ZIP (64.4 MB)](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/download/cjk-input-atlas-kimi-v1/CJK-Input-Atlas-Kimi-deploy.zip)
-- [Release 页面 / Release page](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/tag/cjk-input-atlas-kimi-v1)
-- [完整部署说明 / Deployment instructions](KIMI-DEPLOY.md)
-- [SHA-256 校验 / Checksum](SHA256SUMS)
+- [网站部署包 / Deployment ZIP](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest/download/CJK-Input-Atlas-Kimi-deploy.zip)
+- [版本说明 / Release](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest)
+- [校验文件 / SHA-256](SHA256SUMS)
+- [交给 Kimi 的部署说明 / Deployment instructions](KIMI-DEPLOY.md)
 
-部署包作为 Release 附件提供，不在 Git 源码压缩包中。仓库访问权限同样适用于 Release 附件：如果仓库保持私有，Kimi 的下载环境必须已获授权；普通匿名下载链接无法绕过私有权限。
+新版优先展示 **GIF → 视频 → 静态图片**。GIF 默认播放并可暂停；视频按需加载，不能嵌入时提供来源入口。白底黑字，保留原始论文署名、图号页码和出处。
 
-The deployment ZIP is a release asset, not part of GitHub's automatically generated source archive. Repository permissions also apply to release assets; a private repository requires an authorized downloader.
+The latest version puts animated GIFs first, video sources second, and static images third. GIFs have a pause control and respect reduced-motion preferences. External video players load on request; source-only and unavailable records keep their status labels.
 
-## 交给 Kimi 的任务 / Task for Kimi
+## 匿名审稿 / Anonymous review
 
-> 下载本仓库 Release `cjk-input-atlas-kimi-v1` 中的 `CJK-Input-Atlas-Kimi-deploy.zip`，校验 SHA-256，解压后阅读 `KIMI-DEPLOY.md`。将 `site/` 直接部署为网站根目录，按说明配置无扩展名详情页路由；`source/` 是可维护源码，需要适配时再重建。保留全部 241 篇记录、EN-A 57 / EN-B 184、算法与交互视图、英中日韩四语、白底黑字和图片优先的现有界面。发布为免登录的匿名网站，保留 noindex，检查页面、图片/GIF、语言切换、搜索与筛选，并返回正式公开网址。如果当前环境需要我点击「发布」，准备好网站后指出具体位置。
+为满足匿名审稿要求，网站通过单独提供的临时链接浏览。当前不启用个人账号的 GitHub Pages，也不在此可识别账号的公开仓库中披露临时审稿地址。读者无需下载完整 PDF 包。
 
-> Download `CJK-Input-Atlas-Kimi-deploy.zip` from release `cjk-input-atlas-kimi-v1`, verify its SHA-256, and follow the included `KIMI-DEPLOY.md`. Publish `site/` at the origin root with the documented clean-URL routing. Preserve the existing catalogue, classifications, four display languages, media, citations and academic layout. Return a production URL and actual validation results.
+The review site uses a temporary link supplied separately. GitHub Pages under this account remains disabled, and the temporary review address is not disclosed here. Source papers retain their original authorship and media attribution.
 
-已在终端授权 GitHub 的 Kimi 环境也可以使用：
-
-```sh
-gh release download cjk-input-atlas-kimi-v1 --repo Zscqy17/CHI-Han-Character-Survey --pattern 'CJK-Input-Atlas-Kimi-deploy.zip' --pattern 'SHA256SUMS' --dir cjk-atlas-download
-cd cjk-atlas-download
-shasum -a 256 -c SHA256SUMS
-unzip CJK-Input-Atlas-Kimi-deploy.zip
-```
-
-This command works in a Kimi terminal with authorized GitHub access. Public repositories can also use the direct download link.
-
-## 内容 / Contents
+## 内容 / Collection
 
 - 241 papers: EN-A 57; EN-B 184.
 - Algorithms: 110; Interaction: 181; overlap: 50.
+- Chinese: 155; Japanese: 67; Korean: 13; cross-script/general: 6.
 - English, Chinese, Japanese and Korean display languages; default English.
-- 245 static HTML files, including 241 paper records and a 404 page.
-- Original illustrations, tables or explicitly labeled page previews for every record, with citations and provenance.
-- No database, account system or deployment credentials required by the static site.
+- Every paper has an original-source link and an attributed illustration, table or labeled page preview.
+- No database, login service or full-text PDF directory is needed for online hosting.
 
-本仓库交付网站部署包；含 241 篇 PDF 的投稿补充材料另行交付。公开网站保留全部论文的原文入口。
+## 源码与维护 / Source and maintenance
 
-This handoff contains the website deployment package. The submission supplement containing all 241 PDFs is delivered separately; the website retains original-source links for every paper.
+`website/` contains the maintained React / TypeScript source and curated public data. `docs/` contains a static export configured for the `/CHI-Han-Character-Survey` project path, reserved for later GitHub Pages use. The release ZIP's `site/` is configured for deployment at a domain root and includes all directory indexes.
 
-Kimi 官方入口 / Official entry: https://www.kimi.com/agent
+Requires Node.js 22.13 or later:
+
+```sh
+cd website
+npm ci
+npm test
+npm run typecheck
+NEXT_PUBLIC_BASE_PATH='' npm run build:pages
+```
+
+Deploy `website/dist/github-pages/` at the domain root. For later GitHub Pages use, `npm run build:pages` defaults to the repository path; see [GITHUB-PAGES.md](GITHUB-PAGES.md). Build commands do not enable publishing or change access settings.
+
+The [v1 release](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/tag/cjk-input-atlas-kimi-v1) remains available as a historical snapshot. New deployments should use the latest release.

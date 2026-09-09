@@ -1,0 +1,2221 @@
+[
+  {
+    "id": "ezaki2000pen",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "luk2000digital",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "lin2006design",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "lin2008designing",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "fu2009fast",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "kotani2010japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "minett2010assistive",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wang2010accurate",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "kotani2011proficiency",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wu2012text",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "hamano2013usability",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "miura2014usage",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "shoji2014japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "simulation"
+  },
+  {
+    "id": "zhou2014older",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "lin2015designs",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tang2015touch",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wang2015preliminary",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "xie2017attitude",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "jabeen2018sak",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "jabeen2019modeling",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liao2019enabling",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "lv2019brain",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "shi2019vipboard",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "yu2019asynchronous",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "han2020write",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wang2020effects",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "sun2022design",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "weng2022establishment",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "young2023enabling",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "chen2024handwriting",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "nonoka2024study",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ahn2025rectus",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2025influence",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "fukushima2000online",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "ichimura2000kana",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "tokuno2002context",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "ren2003candidate",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "houser2004japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "huang2004statistical",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "sato2004menu",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "komatsu2005corpus",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "araki2006evaluation",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "evaluation",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "araki2006evaluationb",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "evaluation",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "doo2006korean",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "simulation"
+  },
+  {
+    "id": "itoh2006comparative",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ota2007online",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "sakurada2007japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "sano2007recognition",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "heuristic"
+  },
+  {
+    "id": "tonouchi2007text",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ehara2008multilingual",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "go2008itone",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ilinkin2008design",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "mladenov2008integrated",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "miyao2009writer",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "shin2009multi",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ilinkin2010evaluation",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "kato2010kana",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "kimioka2011niboshi",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ikegami2012modeless",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "fukatsu2013look",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "go2013designing",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "kim2013hybrid",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wu2013web",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "ashitaka2014acquisition",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "higashida2015one",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "ikegami2015hybrid",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "matsuhara2015efficient",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "park2015enhanced",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "lee2016complete",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "han2017mid",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ikegami2017flick",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ilinkin2017evaluation",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "shin2017non",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "nguyen2018online",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "takei2018button",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tojo2018bubbleflick",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tanaka2019micro",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "toba2019efficient",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "nakamura2020japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "sato2020homonym",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "nakamura2021bimanual",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "takahashi2021japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "yokoyama2021joyflick",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ikegami2024fast",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "sarhangzadeh2024alignment",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "wada2025flick",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "kishi2026proposal",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "mokuya2026japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "takeuchi2026kuchimoji",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tanakaishii2002entering",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "kurihara2006speech",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "hatano2009japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "li2009bci",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "jin2010chinese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "kotani2010design",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "lee2011hangul",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "sun2011design",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "bi2012multilingual",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liang2012eye",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "minett2012chinese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "chen2013cursor",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "hagiwara2013koosho",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "huang2013fastest",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "yu2016brain",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "han2017eighty",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "gan2020air",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "li2020approach",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "shi2020steady",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "guo2021calibration",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ogata2021effectiveness",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "huang2022calibration",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "li2022practical",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tang2022interface",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "gao2024character",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "hosono2024segmentation",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "tong2024eye",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "yang2024reconstructing",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wu2025mind",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ahn2026cheonjiin",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "li2026asynchronous",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wang2026eeg",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "other",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "komiya2017japanese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ogitani2018space",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "yang2018interaction",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "kato2023hover",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "monobe2025research",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "yuasa2025flickpose",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "chen2000statistical",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "wang2001chinese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2002approach",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "lo2002cross",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "system_benchmark"
+  },
+  {
+    "id": "matic2002quickstroke",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "huang2004adaptive",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "xiaolong2004mining",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "ge2005online",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "lin2005graphics",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tsai2005applying",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "tsai2005word",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "hsu2006spoken",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2006application",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "tsai2006word",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "tseng2006chinese",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "wang2006maximum",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "zhou2006improved",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "lin2007constructing",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2007chinese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ma2007line",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "tung2007key",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "simulation"
+  },
+  {
+    "id": "xiao2007exploiting",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "zhou2007segment",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "jiang2008multimodal",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "lin2008novel",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "liu2008rotatxt",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wen2008ambiguity",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "gong2009design",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "system_benchmark"
+  },
+  {
+    "id": "jiang2009artificial",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "li2009effect",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2009chinese",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "liu2009immediate",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "po2009six",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "ren2009optimal",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tung2009modified",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wei2009applying",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "wei2009linux",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "yan2009birth",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "li2010prompting",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "liu2010predicting",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "niu2010stroke",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wang2010improvement",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "zhou2010hit",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "other",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "lin2011auxiliary",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2011user",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "user-study",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "po2011dynamic",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "sha2011automatic",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "wong2011chinese",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "zheng2011chime",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "zheng2011why",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "zou2011overlapped",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2012pinyinpie",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "masui2012enjoying",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "suzuki2012unified",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "wang2012approach",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "wang2012improving",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "yang2012machine",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "zhu2012design",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "gao2013user",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "jia2013kyss",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "li2013mutual",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "liu2013investigating",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "petrovi2013metoda",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "po2013radical",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tan2013china",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "tu2013optimal",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "jia2014joint",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "niu2014stroke",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "sim2014multimodal",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "simulation"
+  },
+  {
+    "id": "yang2014chinese",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "anon2015smart",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "chen2015neural",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "huang2015input",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "lin2015investigation",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "gong2016leveraging",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "wu2016study",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "heuristic"
+  },
+  {
+    "id": "xiao2016pinyin",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "zhu2016word",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "chen2017effect",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "chen2017role",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "huang2017research",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "huang2017researchb",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "huang2018chinese",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "huang2018moon",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "huang2018research",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "ji2018knowledge",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "meng2018smart",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "simulation"
+  },
+  {
+    "id": "ruan2018comparing",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "tian2018visor",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "system",
+    "evaluationType": "system_benchmark"
+  },
+  {
+    "id": "yang2019testime",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "design_only"
+  },
+  {
+    "id": "yao2019enabling",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "yao2019seeime",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "zhang2019open",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "zhang2019smarthandwriting",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "cao2020evaluation",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "ding2020design",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "li2020influence",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "liu2020stroke",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "yang2020subsequent",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "simulation"
+  },
+  {
+    "id": "zhang2020user",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "zhou2020children",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "jiang2022adaptive",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "li2022fast",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "tan2022exploring",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "xiong2022pinyin",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "li2023less",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "evaluation",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "luo2023internet",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "user-study",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "ding2024generative",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "system",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "guo2024optimization",
+    "views": [
+      "interaction"
+    ],
+    "basis": "input_control_user_or_evaluation_evidence",
+    "contributionType": "technique",
+    "evaluationType": "lab_user_study"
+  },
+  {
+    "id": "knockel2024silent",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "evaluation",
+    "evaluationType": "security_measurement"
+  },
+  {
+    "id": "sun2024exploring",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "chen2025investigating",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "field_study"
+  },
+  {
+    "id": "peng2025enhancing",
+    "views": [
+      "algorithms"
+    ],
+    "basis": "conversion_recognition_data_or_infrastructure",
+    "contributionType": "technique",
+    "evaluationType": "corpus_benchmark"
+  },
+  {
+    "id": "zhang2026tone",
+    "views": [
+      "algorithms",
+      "interaction"
+    ],
+    "basis": "joint_model_and_input_system",
+    "contributionType": "system",
+    "evaluationType": "lab_user_study"
+  }
+]

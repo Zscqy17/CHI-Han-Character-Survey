@@ -1,0 +1,322 @@
+[
+  {
+    "id": "huang2004statistical-figexample",
+    "paperId": "huang2004statistical",
+    "kind": "image",
+    "file": "media/huang2004statistical-figexample.png",
+    "sourceUrl": "https://aclanthology.org/W04-1111/",
+    "page": 1,
+    "figure": "example",
+    "caption": {
+      "en": "Original terminology example: the intended sense determines Hanja conversion or Hangul retention. This is a paper excerpt, not an interface.",
+      "zh": "原文术语示例：按词义转换为 Hanja 或保留 Hangul。这是正文摘图，并非系统界面。",
+      "ja": "原文の用語例：語義により漢字へ変換するかHangulを保持する。画面ではなく本文の抜粋。",
+      "ko": "원문 용어 예시: 의미에 따라 한자로 변환하거나 한글을 유지한다. 인터페이스가 아닌 본문 발췌이다."
+    },
+    "license": "CC BY-NC-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "c0123417f455adbebf9460135d578121954eae982fe251da03d01eb383342050",
+    "assetSha256": "654defaa24fc3eb1af867dd275424d4231f56b63a070e00bc94b7ea2f0ea5233"
+  },
+  {
+    "id": "yuasa2025flickpose-fig3",
+    "paperId": "yuasa2025flickpose",
+    "kind": "image",
+    "file": "media/yuasa2025flickpose-fig3.png",
+    "sourceUrl": "https://www.mdpi.com/2076-3417/15/15/8122",
+    "page": 7,
+    "figure": "3",
+    "caption": {
+      "en": "FlickPose keyboard and interface panels include conversion and word-candidate controls.",
+      "zh": "FlickPose 键盘与界面包含转换和词语候选控件。",
+      "ja": "FlickPoseのキーボードと画面には変換と単語候補の操作がある。",
+      "ko": "FlickPose 키보드와 인터페이스에는 변환 및 단어 후보 제어가 포함된다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "28712447f1667a489adcbbd1f20d561d0c27d847d1001afeb57e46eece917cb6",
+    "assetSha256": "e4214773a9b50b086d66e35327e024d0cae1657987b9c9d6bf8e3ef8a6d3ff6b"
+  },
+  {
+    "id": "yuasa2025flickpose-fig5",
+    "paperId": "yuasa2025flickpose",
+    "kind": "image",
+    "file": "media/yuasa2025flickpose-fig5.png",
+    "sourceUrl": "https://www.mdpi.com/2076-3417/15/15/8122",
+    "page": 7,
+    "figure": "5",
+    "caption": {
+      "en": "Original touch-panel demonstration with hand-pose selection.",
+      "zh": "原始触摸面板演示与手势选择。",
+      "ja": "手の姿勢を選ぶタッチパネル方式の実演。",
+      "ko": "손 자세 선택을 사용하는 원본 터치 패널 시연."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "28712447f1667a489adcbbd1f20d561d0c27d847d1001afeb57e46eece917cb6",
+    "assetSha256": "10506d041ed5d16e6bb4ffba87005da82c2831c4fa22443c9f3478249537fd1e"
+  },
+  {
+    "id": "hagiwara2013koosho-fig1",
+    "paperId": "hagiwara2013koosho",
+    "kind": "image",
+    "file": "media/hagiwara2013koosho-fig1.png",
+    "sourceUrl": "https://aclanthology.org/N13-3006/",
+    "page": 1,
+    "figure": "1",
+    "caption": {
+      "en": "Aerial handwriting, Kanji candidates and search results.",
+      "zh": "空中手写、汉字候选与检索结果。",
+      "ja": "空中手書き・漢字候補・検索結果。",
+      "ko": "공중 필기, 한자 후보, 검색 결과."
+    },
+    "license": "CC BY-NC-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "d64b21392773ac83de4c8907019af3b04f3a3069aba0dea11a045916cb8f70d4",
+    "assetSha256": "8beb7e7686e28d933b03e71f7552271365b969dadd4e0c0ea72b240216c9355b"
+  },
+  {
+    "id": "hagiwara2013koosho-fig3",
+    "paperId": "hagiwara2013koosho",
+    "kind": "image",
+    "file": "media/hagiwara2013koosho-fig3.png",
+    "sourceUrl": "https://aclanthology.org/N13-3006/",
+    "page": 2,
+    "figure": "3",
+    "caption": {
+      "en": "Consonant-based lattice search for Japanese words.",
+      "zh": "基于辅音词格检索日文词语。",
+      "ja": "子音に基づく日本語の格子探索。",
+      "ko": "자음 기반 일본어 격자 탐색."
+    },
+    "license": "CC BY-NC-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "d64b21392773ac83de4c8907019af3b04f3a3069aba0dea11a045916cb8f70d4",
+    "assetSha256": "db0f863a2f8bd2b0161d691aa37484e96ff86b8411a7fb9df7be7ad7f06f08b6"
+  },
+  {
+    "id": "huang2018moon-fig2",
+    "paperId": "huang2018moon",
+    "kind": "image",
+    "file": "media/huang2018moon-fig2.png",
+    "sourceUrl": "https://aclanthology.org/P18-4024/",
+    "page": 4,
+    "figure": "2",
+    "caption": {
+      "en": "Association suggestions extend a partial Pinyin input.",
+      "zh": "关联建议扩展部分拼音输入。",
+      "ja": "関連候補で部分的な拼音入力を補う。",
+      "ko": "연관 후보로 부분 병음 입력을 확장한다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "33d12bccccc38678817cf13dc33560e5c992f42d31367328312953f6114c53aa",
+    "assetSha256": "f7d1ebe1dc78e0aff5aa32fddc4cdf2736713b7f549701be879de08505a73407"
+  },
+  {
+    "id": "huang2018chinese-fig2",
+    "paperId": "huang2018chinese",
+    "kind": "image",
+    "file": "media/huang2018chinese-fig2.png",
+    "sourceUrl": "https://aclanthology.org/D18-1321/",
+    "page": 4,
+    "figure": "2",
+    "caption": {
+      "en": "Candidate lists with different uses of input context.",
+      "zh": "利用输入上下文的不同候选列表。",
+      "ja": "入力文脈の利用による候補一覧の違い。",
+      "ko": "입력 문맥 활용에 따른 후보 목록."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "faac2cec7052a1ee26675be13f161491795788e9598e23676ea202ef5ee75b3d",
+    "assetSha256": "19e0b9b691653a6fc2bfec277a8fcfef9200607494decc9f0c4d219d316ee39c"
+  },
+  {
+    "id": "ding2024generative-fig1",
+    "paperId": "ding2024generative",
+    "kind": "image",
+    "file": "media/ding2024generative-fig1.png",
+    "sourceUrl": "https://aclanthology.org/2024.findings-acl.218/",
+    "page": 1,
+    "figure": "1",
+    "caption": {
+      "en": "Full, abbreviated and mistyped Pinyin input scenarios.",
+      "zh": "全拼、缩写及错拼输入情境。",
+      "ja": "完全・省略・誤入力の拼音例。",
+      "ko": "전체·축약·오타 병음 입력 사례."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "aeb539b98900adffc35f8918fd539f62c72fd175c66ffbea3ef2471623c59591",
+    "assetSha256": "bbee8520c9ca3615f28fbf892553c7539a17b301a3cc577b0fc1a01749a0f525"
+  },
+  {
+    "id": "sun2024exploring-fig1",
+    "paperId": "sun2024exploring",
+    "kind": "image",
+    "file": "media/sun2024exploring-fig1.png",
+    "sourceUrl": "https://aclanthology.org/2024.acl-short.56/",
+    "page": 1,
+    "figure": "1",
+    "caption": {
+      "en": "Nine-key and twenty-six-key Pinyin layouts.",
+      "zh": "九键与二十六键拼音布局。",
+      "ja": "9キーと26キーの拼音配列。",
+      "ko": "9키 및 26키 병음 배열."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "bf0f24477cb8e1a83ee6b21b950840d346fed2790d29a3eb07b4845d9fe5fb2b",
+    "assetSha256": "fbb1992ec770b4c08037a99d9c9442507e9de3223428f2596f087ae89c652db3"
+  },
+  {
+    "id": "tan2022exploring-fig3",
+    "paperId": "tan2022exploring",
+    "kind": "image",
+    "file": "media/tan2022exploring-fig3.png",
+    "sourceUrl": "https://aclanthology.org/2022.acl-long.133/",
+    "page": 7,
+    "figure": "3",
+    "caption": {
+      "en": "Original examples contrast context-sensitive Chinese predictions.",
+      "zh": "原文示例比较利用上下文的中文预测。",
+      "ja": "原文の例で文脈を使う中国語予測を比較する。",
+      "ko": "원문 예제로 문맥 기반 중국어 예측을 비교한다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "3a8f9d4c60ac5b7a2835e98cc2f16c601a501b52133d4571972184fa891dd095",
+    "assetSha256": "b0b57e609771a38090a11b083a54384dcf06e7557c230f15811e153396154224"
+  },
+  {
+    "id": "yao2019enabling-fig1",
+    "paperId": "yao2019enabling",
+    "kind": "image",
+    "file": "media/yao2019enabling-fig1.png",
+    "sourceUrl": "https://aclanthology.org/N19-2001/",
+    "page": 3,
+    "figure": "1",
+    "caption": {
+      "en": "Input context, word-lattice conversion and word prediction.",
+      "zh": "输入上下文、词格转换与词语预测。",
+      "ja": "入力文脈・語格子変換・語予測。",
+      "ko": "입력 문맥, 단어 격자 변환, 단어 예측."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "3a6d2f3ac7d2e4f9309e417df3e64f88d9d61ff266b389cfd15b65802af570b0",
+    "assetSha256": "934ad2026da70d9bde0d78248ca2c981b2279ac9619ae9c5ee36a603d3cad3c4"
+  },
+  {
+    "id": "ahn2026cheonjiin-fig2",
+    "paperId": "ahn2026cheonjiin",
+    "kind": "image",
+    "file": "media/ahn2026cheonjiin-fig2.png",
+    "sourceUrl": "https://www.mdpi.com/1424-8220/26/7/2265",
+    "page": 6,
+    "figure": "2",
+    "caption": {
+      "en": "EEG cursor commands operate a Hangul composition keyboard.",
+      "zh": "脑电光标命令操控 Hangul 组合键盘。",
+      "ja": "EEGカーソル命令でHangul合成キーボードを操作する。",
+      "ko": "EEG 커서 명령으로 한글 조합 키보드를 조작한다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "5d5445d82e43242e9fc773ea8f648321014ab2b5f97ea35a6e79066376d3d16e",
+    "assetSha256": "99b7f2cc2adfb787594a2d62cdff259d3587db7cc67c68c6de1d4d122d7affe4"
+  },
+  {
+    "id": "tong2024eye-fig1",
+    "paperId": "tong2024eye",
+    "kind": "image",
+    "file": "media/tong2024eye-fig1.png",
+    "sourceUrl": "https://doi.org/10.1145/3654702",
+    "page": 5,
+    "figure": "1",
+    "caption": {
+      "en": "Gaze strokes pass through the interface and character classifier.",
+      "zh": "眼动笔画经过界面与字符分类器处理。",
+      "ja": "視線の筆画を画面と文字分類器で処理する。",
+      "ko": "시선 획을 인터페이스와 문자 분류기로 처리한다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "6a75e915d9073f3babca553021549ef6b7213dd830d668f3770b745af3a1d4d8",
+    "assetSha256": "1e4f87026d8793974f770409cdf6164767a1185518ff5eb69b505c7e765e7910"
+  },
+  {
+    "id": "chen2025investigating-fig2",
+    "paperId": "chen2025investigating",
+    "kind": "image",
+    "file": "media/chen2025investigating-fig2.png",
+    "sourceUrl": "https://dl.acm.org/doi/abs/10.1145/3706598.3713944",
+    "page": 5,
+    "figure": "2",
+    "caption": {
+      "en": "Captured context leads to reviewed, edited and inserted text.",
+      "zh": "捕获的上下文用于生成、检查、编辑并插入文本。",
+      "ja": "取得した文脈から候補を作り、確認・編集して挿入する。",
+      "ko": "수집한 문맥으로 후보를 만들고 검토·편집하여 삽입한다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "7e05df447c55caf014e89e9cfcd907cf73518a28a69356d8b8b8c6037eb71523",
+    "assetSha256": "6ec6a0e36b4737f6197ccb1ace92b9b8e5399428a093ef077298423cc0a0c380"
+  },
+  {
+    "id": "yuasa2025flickpose-fig2",
+    "paperId": "yuasa2025flickpose",
+    "kind": "image",
+    "file": "media/yuasa2025flickpose-fig2.png",
+    "sourceUrl": "https://www.mdpi.com/2076-3417/15/15/8122",
+    "page": 6,
+    "figure": "2",
+    "caption": {
+      "en": "Five hand poses select symbols in the input system.",
+      "zh": "五种手势用于选择输入字符。",
+      "ja": "5種類の手の姿勢で入力記号を選ぶ。",
+      "ko": "다섯 가지 손 자세로 입력 문자를 선택한다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "28712447f1667a489adcbbd1f20d561d0c27d847d1001afeb57e46eece917cb6",
+    "assetSha256": "cf603fe2c331460d184385c45422b74f45a1f6026d1ac2e6226ca85f8c3a74dc"
+  },
+  {
+    "id": "takeuchi2026kuchimoji-fig4",
+    "paperId": "takeuchi2026kuchimoji",
+    "kind": "image",
+    "file": "media/takeuchi2026kuchimoji-fig4.png",
+    "sourceUrl": "https://www.mdpi.com/2079-9292/15/12/2677",
+    "page": 7,
+    "figure": "4",
+    "caption": {
+      "en": "Mouth-shape recognition and confirmation produce kana output.",
+      "zh": "口型识别与确认生成假名输出。",
+      "ja": "口形認識と確定操作で仮名を出力する。",
+      "ko": "입 모양 인식과 확인으로 가나를 출력한다."
+    },
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Figure region cropped from the original PDF; no content redrawn.",
+    "sourceSha256": "51fe4ce5581f277de0c41ecd1c8761cf1f4845f9b8b9c6925b7a0084c3e07785",
+    "assetSha256": "49fd654f705c8ff486d8c351c498a41fa69d61591acd029f7afe0bbf2833acf1"
+  }
+]

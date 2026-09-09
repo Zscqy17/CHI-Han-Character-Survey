@@ -1,0 +1,2862 @@
+{
+  "basis": {
+    "algorithms": "Computational Approaches Across Eras",
+    "interaction": [
+      "Touch and Mobile Input",
+      "Handwriting and Alternative Controls",
+      "Accessibility and Participant Coverage",
+      "Immersive Entry and Output Checking"
+    ],
+    "coding": "The original review codes are retained. Generations and modalities can overlap; XR is a scenario."
+  },
+  "algorithmGenerations": [
+    {
+      "order": 1,
+      "code": "rule",
+      "label": "Rule-based methods"
+    },
+    {
+      "order": 2,
+      "code": "stat_lm",
+      "label": "Statistical models"
+    },
+    {
+      "order": 3,
+      "code": "neural",
+      "label": "Neural models"
+    },
+    {
+      "order": 4,
+      "code": "llm",
+      "label": "Large language models"
+    }
+  ],
+  "additionalApproaches": [
+    "hybrid",
+    "na"
+  ],
+  "interactionGroups": {
+    "keyboard_and_touch": [
+      "kb_phonetic",
+      "kb_shape",
+      "touch_mobile"
+    ],
+    "handwriting_and_gesture": [
+      "handwriting",
+      "gesture"
+    ],
+    "other_controls": [
+      "gaze",
+      "bci",
+      "speech",
+      "emg",
+      "braille",
+      "other"
+    ]
+  },
+  "scenario": [
+    "xr"
+  ],
+  "periods": {
+    "pre-2006": [
+      2000,
+      2005
+    ],
+    "2006-2012": [
+      2006,
+      2012
+    ],
+    "2013-2019": [
+      2013,
+      2019
+    ],
+    "2020-now": [
+      2020,
+      2026
+    ]
+  },
+  "records": [
+    {
+      "id": "ezaki2000pen",
+      "era": "pre-2006",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "luk2000digital",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "braille"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2006design",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "kb_shape",
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2008designing",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "fu2009fast",
+      "era": "2006-2012",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "kotani2010japanese",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "minett2010assistive",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2010accurate",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "braille"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "kotani2011proficiency",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wu2012text",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "hamano2013usability",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "miura2014usage",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "speech"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "shoji2014japanese",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhou2014older",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "kb_phonetic",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2015designs",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "emg"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tang2015touch",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "braille",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2015preliminary",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "xie2017attitude",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "kb_shape",
+        "touch_mobile",
+        "handwriting",
+        "speech"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jabeen2018sak",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jabeen2019modeling",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liao2019enabling",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lv2019brain",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "shi2019vipboard",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yu2019asynchronous",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "han2020write",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2020effects",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sun2022design",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "braille"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "weng2022establishment",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "young2023enabling",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "chen2024handwriting",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "nonoka2024study",
+      "era": "2020-now",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "ahn2025rectus",
+      "era": "2020-now",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "emg"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2025influence",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "fukushima2000online",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ichimura2000kana",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tokuno2002context",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ren2003candidate",
+      "era": "pre-2006",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "houser2004japanese",
+      "era": "pre-2006",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2004statistical",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sato2004menu",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "komatsu2005corpus",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "araki2006evaluation",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "araki2006evaluationb",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "doo2006korean",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "itoh2006comparative",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ota2007online",
+      "era": "2006-2012",
+      "approaches": [
+        "hybrid"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sakurada2007japanese",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sano2007recognition",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tonouchi2007text",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ehara2008multilingual",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "go2008itone",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ilinkin2008design",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "mladenov2008integrated",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "miyao2009writer",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "shin2009multi",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ilinkin2010evaluation",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "kato2010kana",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "kimioka2011niboshi",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ikegami2012modeless",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "fukatsu2013look",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "go2013designing",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "kim2013hybrid",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wu2013web",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ashitaka2014acquisition",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "higashida2015one",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ikegami2015hybrid",
+      "era": "2013-2019",
+      "approaches": [
+        "hybrid"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "matsuhara2015efficient",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "park2015enhanced",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lee2016complete",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "han2017mid",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ikegami2017flick",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm",
+        "neural"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ilinkin2017evaluation",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "shin2017non",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "nguyen2018online",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "takei2018button",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tojo2018bubbleflick",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tanaka2019micro",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "toba2019efficient",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "speech",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "nakamura2020japanese",
+      "era": "2020-now",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sato2020homonym",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm",
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "nakamura2021bimanual",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "takahashi2021japanese",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "yokoyama2021joyflick",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ikegami2024fast",
+      "era": "2020-now",
+      "approaches": [
+        "hybrid",
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sarhangzadeh2024alignment",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wada2025flick",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "kishi2026proposal",
+      "era": "2020-now",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "mokuya2026japanese",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "takeuchi2026kuchimoji",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "gesture",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tanakaishii2002entering",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "kurihara2006speech",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting",
+        "speech"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "hatano2009japanese",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "emg"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2009bci",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm",
+        "neural"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jin2010chinese",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "kotani2010design",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lee2011hangul",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sun2011design",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "bi2012multilingual",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liang2012eye",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "minett2012chinese",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "chen2013cursor",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "hagiwara2013koosho",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "gesture",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2013fastest",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yu2016brain",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "han2017eighty",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "gan2020air",
+      "era": "2020-now",
+      "approaches": [
+        "neural",
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting",
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2020approach",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "shi2020steady",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "guo2021calibration",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ogata2021effectiveness",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2022calibration",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2022practical",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci",
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tang2022interface",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "gao2024character",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "hosono2024segmentation",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "gesture",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tong2024eye",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "gaze",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yang2024reconstructing",
+      "era": "2020-now",
+      "approaches": [
+        "neural",
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wu2025mind",
+      "era": "2020-now",
+      "approaches": [
+        "neural",
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ahn2026cheonjiin",
+      "era": "2020-now",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2026asynchronous",
+      "era": "2020-now",
+      "approaches": [
+        "llm",
+        "stat_lm"
+      ],
+      "modalities": [
+        "bci",
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2026eeg",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "bci"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "komiya2017japanese",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "ogitani2018space",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "yang2018interaction",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "gesture",
+        "handwriting"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "kato2023hover",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "monobe2025research",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "yuasa2025flickpose",
+      "era": "2020-now",
+      "approaches": [
+        "rule",
+        "neural"
+      ],
+      "modalities": [
+        "gesture"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    },
+    {
+      "id": "chen2000statistical",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2001chinese",
+      "era": "pre-2006",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "gaze"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2002approach",
+      "era": "pre-2006",
+      "approaches": [
+        "rule",
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lo2002cross",
+      "era": "pre-2006",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "matic2002quickstroke",
+      "era": "pre-2006",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2004adaptive",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "xiaolong2004mining",
+      "era": "pre-2006",
+      "approaches": [
+        "rule",
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ge2005online",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2005graphics",
+      "era": "pre-2006",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_shape",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tsai2005applying",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tsai2005word",
+      "era": "pre-2006",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "hsu2006spoken",
+      "era": "2006-2012",
+      "approaches": [
+        "rule",
+        "stat_lm"
+      ],
+      "modalities": [
+        "speech",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2006application",
+      "era": "2006-2012",
+      "approaches": [
+        "hybrid"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tsai2006word",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tseng2006chinese",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2006maximum",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhou2006improved",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "speech",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2007constructing",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_shape",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2007chinese",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ma2007line",
+      "era": "2006-2012",
+      "approaches": [
+        "rule",
+        "neural"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tung2007key",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "xiao2007exploiting",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhou2007segment",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jiang2008multimodal",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "speech",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2008novel",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2008rotatxt",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "other"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wen2008ambiguity",
+      "era": "2006-2012",
+      "approaches": [
+        "rule",
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "gong2009design",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jiang2009artificial",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2009effect",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2009chinese",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2009immediate",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "handwriting",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "po2009six",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ren2009optimal",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tung2009modified",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wei2009applying",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wei2009linux",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yan2009birth",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_shape",
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2010prompting",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2010predicting",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "niu2010stroke",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2010improvement",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhou2010hit",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2011auxiliary",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2011user",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "po2011dynamic",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape",
+        "touch_mobile",
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sha2011automatic",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wong2011chinese",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zheng2011chime",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zheng2011why",
+      "era": "2006-2012",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zou2011overlapped",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm",
+        "neural"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2012pinyinpie",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile",
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "masui2012enjoying",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "suzuki2012unified",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2012approach",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wang2012improving",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "speech",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yang2012machine",
+      "era": "2006-2012",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhu2012design",
+      "era": "2006-2012",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "gao2013user",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jia2013kyss",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2013mutual",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2013investigating",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "petrovi2013metoda",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "po2013radical",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape",
+        "touch_mobile",
+        "gesture"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tan2013china",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tu2013optimal",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jia2014joint",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "niu2014stroke",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_shape",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sim2014multimodal",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "handwriting",
+        "speech",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yang2014chinese",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "anon2015smart",
+      "era": "2013-2019",
+      "approaches": [
+        "rule",
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "chen2015neural",
+      "era": "2013-2019",
+      "approaches": [
+        "neural",
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2015input",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "lin2015investigation",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "gong2016leveraging",
+      "era": "2013-2019",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "wu2016study",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "xiao2016pinyin",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm",
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhu2016word",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "chen2017effect",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "chen2017role",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2017research",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2017researchb",
+      "era": "2013-2019",
+      "approaches": [
+        "rule",
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2018chinese",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2018moon",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "huang2018research",
+      "era": "2013-2019",
+      "approaches": [
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ji2018knowledge",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "meng2018smart",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ruan2018comparing",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "speech",
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tian2018visor",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yang2019testime",
+      "era": "2013-2019",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yao2019enabling",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yao2019seeime",
+      "era": "2013-2019",
+      "approaches": [
+        "rule",
+        "stat_lm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhang2019open",
+      "era": "2013-2019",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhang2019smarthandwriting",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "cao2020evaluation",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "speech"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ding2020design",
+      "era": "2020-now",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "gaze",
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2020influence",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "liu2020stroke",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "yang2020subsequent",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhang2020user",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhou2020children",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "jiang2022adaptive",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2022fast",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "handwriting"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "tan2022exploring",
+      "era": "2020-now",
+      "approaches": [
+        "llm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "xiong2022pinyin",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "li2023less",
+      "era": "2020-now",
+      "approaches": [
+        "rule"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "luo2023internet",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "ding2024generative",
+      "era": "2020-now",
+      "approaches": [
+        "llm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "guo2024optimization",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "knockel2024silent",
+      "era": "2020-now",
+      "approaches": [
+        "na"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "sun2024exploring",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "chen2025investigating",
+      "era": "2020-now",
+      "approaches": [
+        "llm"
+      ],
+      "modalities": [
+        "kb_phonetic",
+        "touch_mobile",
+        "speech"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "peng2025enhancing",
+      "era": "2020-now",
+      "approaches": [
+        "llm"
+      ],
+      "modalities": [
+        "kb_phonetic"
+      ],
+      "scenarios": []
+    },
+    {
+      "id": "zhang2026tone",
+      "era": "2020-now",
+      "approaches": [
+        "neural"
+      ],
+      "modalities": [
+        "speech",
+        "gesture"
+      ],
+      "scenarios": [
+        "xr"
+      ]
+    }
+  ]
+}

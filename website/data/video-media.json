@@ -1,0 +1,166 @@
+[
+  {
+    "id": "yuasa2025flickpose-video",
+    "paperId": "yuasa2025flickpose",
+    "kind": "video",
+    "sourceUrl": "https://www.mdpi.com/2076-3417/15/15/8122",
+    "videoUrl": "https://youtu.be/XNqUrDFB8T4",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/XNqUrDFB8T4",
+    "caption": {
+      "en": "Author demonstration of FlickPose, linked in the paper’s supplementary materials.",
+      "zh": "论文补充材料链接的 FlickPose 作者演示。",
+      "ja": "論文の補足資料にあるFlickPoseの著者実演。",
+      "ko": "논문 보충 자료에 연결된 FlickPose 저자 시연."
+    },
+    "status": "official_source_confirmed_download_restricted"
+  },
+  {
+    "id": "han2020write-video",
+    "paperId": "han2020write",
+    "kind": "video",
+    "sourceUrl": "https://www.youtube.com/watch?v=A1w-e2dBGl0",
+    "videoUrl": "https://www.youtube.com/watch?v=A1w-e2dBGl0",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/A1w-e2dBGl0",
+    "page": 1,
+    "caption": {
+      "en": "Author-linked robot writing demonstration. Physical glyph output, not an IME conversion.",
+      "zh": "作者链接的机械臂书写演示：物理字形输出，不是输入法转换。",
+      "ja": "著者が示すロボット筆記の実演。物理的な字形出力でありIME変換ではない。",
+      "ko": "저자가 연결한 로봇 필기 시연. IME 변환이 아닌 물리적 글리프 출력이다."
+    },
+    "status": "official_source_confirmed_download_restricted"
+  },
+  {
+    "id": "wada2025flick-video",
+    "paperId": "wada2025flick",
+    "kind": "video",
+    "sourceUrl": "https://github.com/inaniwaudon/flick-in",
+    "videoUrl": "https://dl.acm.org/doi/suppl/10.1145/3694907.3765927/suppl_file/flickin-movie.mp4",
+    "caption": {
+      "en": "Author repository links the official supplementary video and an animated demonstration. Evaluated output is kana; Kanji conversion was not implemented.",
+      "zh": "作者仓库提供官方补充视频及动图。实测输出为假名；汉字转换未实现。",
+      "ja": "著者リポジトリに公式補足動画と動画像がある。評価対象は仮名で、漢字変換は未実装。",
+      "ko": "저자 저장소에 공식 보충 영상과 애니메이션이 있다. 평가 출력은 가나이며 한자 변환은 구현되지 않았다."
+    },
+    "status": "author_repository_confirmed_publisher_video_restricted"
+  },
+  {
+    "id": "jia2014joint-video",
+    "paperId": "jia2014joint",
+    "kind": "video",
+    "sourceUrl": "https://aclanthology.org/P14-1142/",
+    "videoUrl": "https://aclanthology.org/P14-1142.mp4",
+    "caption": {
+      "en": "Official ACL conference presentation explaining the conversion model.",
+      "zh": "解释转换模型的 ACL 官方会议报告。",
+      "ja": "変換モデルを説明するACL公式学会発表。",
+      "ko": "변환 모델을 설명하는 ACL 공식 학회 발표."
+    },
+    "license": "CC BY-NC-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "status": "official_video_accessible"
+  },
+  {
+    "id": "jia2014joint-keyframes",
+    "paperId": "jia2014joint",
+    "kind": "gif",
+    "file": "media/jia2014joint-keyframes.gif",
+    "poster": "media/jia2014joint-keyframes-poster.png",
+    "sourceUrl": "https://aclanthology.org/P14-1142/",
+    "videoUrl": "https://aclanthology.org/P14-1142.mp4",
+    "timestamps": [
+      135,
+      155,
+      175,
+      205
+    ],
+    "caption": {
+      "en": "Original conference-slide key frames: Pinyin, word mapping and Hanzi output. This is a model explanation, not a live typing trial. The intermediate slide’s syllable order is preserved verbatim.",
+      "zh": "原始报告幻灯片关键帧：拼音、词语映射和汉字输出。这是模型说明，并非实时输入实验；中间幻灯片的音节顺序按原样保留。",
+      "ja": "元の学会スライドの抽出フレーム：拼音・単語対応・漢字出力。モデル説明であり実時間入力実験ではない。中間スライドの音節順序は原資料どおり保持。",
+      "ko": "원본 학회 슬라이드 핵심 프레임: 병음·단어 대응·한자 출력. 실시간 입력 실험이 아닌 모델 설명이다. 중간 슬라이드의 음절 순서는 원본 그대로 유지했다."
+    },
+    "license": "CC BY-NC-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "adaptation": "Four slide-region frames cropped from the original video; timestamps added below the image; sequence timing shortened. Original slide contains ni hao jie shi under nihaoshijie; retained without correction.",
+    "sourceSha256": "986fb28a96a38c6fdbebe925ee16b0ce3da18120c51c15dc383aa95ff1351687",
+    "assetSha256": "4787afc55892cc2422c754f97d3c29240224b0c835a83cd5ca48d1005cf4e021"
+  },
+  {
+    "id": "wada2025flick-animation",
+    "paperId": "wada2025flick",
+    "kind": "gif",
+    "file": "media/wada2025flick-original.gif",
+    "poster": "media/wada2025flick-poster.png",
+    "sourceUrl": "https://github.com/inaniwaudon/flick-in",
+    "caption": {
+      "en": "Original animation from the author repository: bezel gestures and kana selection. This GIF does not demonstrate implemented Kanji conversion.",
+      "zh": "作者仓库的原始动图：表圈手势与假名选择。此 GIF 不代表已实现汉字转换。",
+      "ja": "著者リポジトリの元の動画像：ベゼル操作と仮名選択。実装済み漢字変換を示すものではない。",
+      "ko": "저자 저장소의 원본 애니메이션: 베젤 제스처와 가나 선택. 구현된 한자 변환을 보여주는 GIF가 아니다."
+    },
+    "license": "MIT · Copyright (c) 2025 Yuto Wada",
+    "licenseUrl": "https://github.com/inaniwaudon/flick-in/blob/main/LICENSE",
+    "adaptation": "Original GIF copied unchanged; a separate still poster was extracted at frame 100.",
+    "sourceSha256": "a36727d76995a286618bf3065233f459c2a180c63035ec617477800f4c8f195a",
+    "assetSha256": "a36727d76995a286618bf3065233f459c2a180c63035ec617477800f4c8f195a"
+  },
+  {
+    "id": "park2015enhanced-video",
+    "paperId": "park2015enhanced",
+    "kind": "video",
+    "sourceUrl": "http://marg.snu.ac.kr/eaf/EAF_Sound_Demo.mp4",
+    "videoUrl": "http://marg.snu.ac.kr/eaf/EAF_Sound_Demo.mp4",
+    "page": 3,
+    "caption": {
+      "en": "Sound-feedback demonstration referenced by the paper; the original URL could not be reached. Hangul typing, not Hanja conversion.",
+      "zh": "论文引用的声音反馈演示；原链接本次无法访问。涉及 Hangul 输入，并非 Hanja 转换。",
+      "ja": "論文が示す音フィードバックの実演。元URLに接続できなかった。Hangul入力であり漢字変換ではない。",
+      "ko": "논문이 참조한 소리 피드백 시연으로 원 URL에 접근하지 못했다. 한자 변환이 아닌 한글 입력이다."
+    },
+    "status": "unavailable"
+  },
+  {
+    "id": "zhou2006improved-video",
+    "paperId": "zhou2006improved",
+    "kind": "video",
+    "sourceUrl": "http://mail.ustc.edu.cn/~zhouxi/multimodel.avi",
+    "videoUrl": "http://mail.ustc.edu.cn/~zhouxi/multimodel.avi",
+    "page": 4,
+    "caption": {
+      "en": "Author demo URL from the paper. The URL returned HTTP 404 during this check.",
+      "zh": "论文提供的作者演示链接，本次返回 HTTP 404。",
+      "ja": "論文中の著者実演URL。今回の確認ではHTTP 404。",
+      "ko": "논문의 저자 시연 URL이며 이번 확인에서 HTTP 404를 반환했다."
+    },
+    "status": "unavailable"
+  },
+  {
+    "id": "tang2015touch-6m5KuF5MIbY",
+    "paperId": "tang2015touch",
+    "kind": "video",
+    "sourceUrl": "https://www.youtube.com/watch?v=6m5KuF5MIbY",
+    "videoUrl": "https://www.youtube.com/watch?v=6m5KuF5MIbY",
+    "caption": {
+      "en": "News coverage linked by the paper about the accessible mobile application. This is third-party reporting, not an author experiment video.",
+      "zh": "论文链接的无障碍移动应用新闻报道，属于第三方报道，并非作者实验视频。",
+      "ja": "論文が示すアクセシブルなモバイルアプリの報道。著者の実験動画ではなく第三者の取材映像。",
+      "ko": "논문에서 연결한 접근성 모바일 앱 뉴스 보도. 저자의 실험 영상이 아닌 제3자 보도이다."
+    },
+    "status": "news_coverage_source_confirmed"
+  },
+  {
+    "id": "tang2015touch-6hGR3kh7HGw",
+    "paperId": "tang2015touch",
+    "kind": "video",
+    "sourceUrl": "https://www.youtube.com/watch?v=6hGR3kh7HGw",
+    "videoUrl": "https://www.youtube.com/watch?v=6hGR3kh7HGw",
+    "caption": {
+      "en": "News coverage linked by the paper about the accessible mobile application. This is third-party reporting, not an author experiment video.",
+      "zh": "论文链接的无障碍移动应用新闻报道，属于第三方报道，并非作者实验视频。",
+      "ja": "論文が示すアクセシブルなモバイルアプリの報道。著者の実験動画ではなく第三者の取材映像。",
+      "ko": "논문에서 연결한 접근성 모바일 앱 뉴스 보도. 저자의 실험 영상이 아닌 제3자 보도이다."
+    },
+    "status": "news_coverage_source_confirmed"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "paperId": "hagiwara2013koosho",
+    "url": "https://www.youtube.com/watch?v=h9htRy0-sUw",
+    "reason": "Kinect Painter Keyboard Test 1 is cited background, not the KooSHO demonstration."
+  },
+  {
+    "paperId": "wada2025flick",
+    "url": "https://www.youtube.com/watch?v=ES9jArHRFHQ",
+    "reason": "Google VR design talk cited as background; not a Flick-in demonstration."
+  },
+  {
+    "paperId": "tang2015touch",
+    "url": "https://www.youtube.com/watch?v=rIEO1bUFHsI",
+    "reason": "BrailleTouch background example; not the studied accessible mobile application."
+  }
+]
