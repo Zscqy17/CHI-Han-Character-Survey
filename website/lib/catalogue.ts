@@ -1,3 +1,4 @@
+import reviewTaxonomy from '../data/review-taxonomy.json';
 export const locales = ['en','zh','ja','ko'] as const;
 export type Locale = typeof locales[number];
 export type Localized = Record<Locale,string>;
@@ -6,6 +7,9 @@ export interface Media { id:string; paperId:string; kind:'image'|'gif'|'video'; 
 export interface Source {kind:string;url:string;status:string;httpStatus?:number|null;checkedAt:string;}
 export interface Paper {views:string[];viewBasis:string;contributionType:string;evaluationType:string;id:string;title:string;authors:string;year:number;venue:string;tier:string;script:string;scriptCodes:string[];modalities:string[];tech:string[];features:string[];summary:Localized;sources:Source[];media:Media[];pdfFile:string;pdfPages:number;originalPages:number[];sourceSha256:string;audit:{localFulltext:string;publicationStatus:string;identityBasis:string;figureCaptionCount:number;mediaStatus:string;checkedAt:string};}
 export interface Filters {tier:string;script:string;query:string;media:string;view?:string;facet?:string;approach?:string;modality?:string;era?:string;scenario?:string;}
+export const interactionTopics = reviewTaxonomy.topicDefinitions.map(({code,labelKey})=>({code,labelKey}));
+const topicsByPaper = new Map(reviewTaxonomy.records.map(r=>[r.id,r.scenarios]));
+export function paperTopics(paper:Pick<Paper,'id'>):string[]{return topicsByPaper.get(paper.id)||[];}
 export function availableVideo(m:Media){return m.kind==='video'&&m.status!=='unavailable'&&!!(m.videoUrl||m.embedUrl);}
 export function canPlayVideo(m:Media){return availableVideo(m)&&!!(m.embedUrl||(m.status==='official_video_accessible'&&m.videoUrl?.endsWith('.mp4')));}
 export function mediaRank(m?:Media){return !m?4:m.kind==='gif'&&m.file?(m.sourceType==='paper_figure_slideshow'?0.5:m.sourceType==='paper_excerpt_slideshow'?0.75:0):availableVideo(m)?1:m.kind==='image'&&m.file?2:3;}
@@ -21,7 +25,7 @@ export function filterPapers(papers:Paper[], f:Filters) {
   &&(!f.approach||f.approach==='all'||p.tech.includes(f.approach))
   &&(!f.modality||f.modality==='all'||p.modalities.includes(f.modality))
   &&(!f.era||f.era==='all'||publicationEra(p.year)===f.era)
-  &&(!f.scenario||f.scenario==='all'||p.modalities.includes(f.scenario))
+  &&(!f.scenario||f.scenario==='all'||paperTopics(p).includes(f.scenario))
   &&(f.tier==='all'||p.tier===f.tier)&&(f.script==='all'||p.script===f.script)
   &&(!q||p.title.normalize('NFKC').toLocaleLowerCase().includes(q))
   &&(f.media==='all'||p.media.some(m=>f.media==='image'?m.kind==='image':f.media==='gif'?m.kind==='gif':m.kind==='video')));

@@ -2,7 +2,7 @@
 
 Anonymous companion resource for a systematic review of CJK input and conversion, 2000–2026.
 
-During anonymous review, use the temporary review link rather than the GitHub account URL: [temporary review link supplied separately] . The site footer explains this in all four display languages. GitHub Pages files are prepared for later use; publishing them under the personal account is deferred to preserve review anonymity.
+During anonymous review, use the temporary review link rather than the GitHub account URL: [temporary review URL supplied separately] . The site footer explains this in all four display languages. GitHub Pages files are prepared for later use; publishing them under the personal account is deferred to preserve review anonymity.
 
 The interface uses a white background, black text and a compact media gallery directly below the header. The catalogue and each paper's media follow this order: animated GIFs, available video sources, then static images. GIFs play immediately and have a pause control; readers who request reduced motion start with a still image. Videos load on request, or link to their official source when embedding is unavailable. Known unavailable video links do not displace paper images. Each paper has an original illustration, table or explicitly labeled page preview. The sidebar prioritizes the review’s four algorithm generations, publication periods and interaction methods; XR is a separate scenario. Search is in the sidebar. Paper details place original media before the study interpretation. On phones, expand the filter panel above the gallery.
 
@@ -27,11 +27,15 @@ npm run offline
 
 The website is a React/TypeScript static export. `app/atlas.tsx` supplies the complete catalogue, algorithm view, interaction view, paper records and offline interface. `lib/catalogue.ts` contains shared filtering and URL logic. `lib/i18n.ts` holds all four display languages. `public/data/review-taxonomy.json` records the manuscript-aligned filtering scheme, while `public/data/figure-selections.json` records the per-paper visual selection. `lib/processes.ts` holds source-page-supported process descriptions.
 
+Interaction topics follow the review's touch/mobile, handwriting/alternative-control, accessibility/user-needs, and immersive-input sections. `python3 scripts/build-review-taxonomy.py` derives their overlapping memberships from the canonical corpus's `modality` and `user_group` fields, records the matching codes per paper, and updates both runtime and public taxonomy copies. Accessibility includes intended visual, motor, ALS/locked-in and older-adult groups; it does not establish which participants were recruited. Others contains the complement of the four named themes. Existing `scenario=xr` URLs remain valid; this URL parameter now selects a review theme. The original manuscript classification is unchanged.
+
 `data/papers.json` is the prepared, public dataset. It is sufficient to rebuild this delivered source without the manuscript workspace. Edit records and their four-language fields together. Media provenance is stored per item, including source links, figure/page references, permissions and, where applicable, extraction timestamps and hashes.
 
 Within the original review workspace, `scripts/classify-views.py` and `scripts/compile-data.py` rebuild the dataset from the canonical corpus and private verification records. `scripts/integrate-paper-illustrations.py` imports the visually checked original-paper selections. Those commands require the surrounding review workspace; they are not needed to build the delivered source. They export only curated fields. The manuscript remains untouched.
 
-`npm run build` writes the online static site to `dist/client`. `npm run offline` writes a single classic-script HTML application to `../CJK-Input-Atlas/index.html`; it embeds its JavaScript, CSS and catalogue and uses relative media/PDF links. Copy `public/media` and `public/data` alongside that HTML, with the PDF files in `papers/`. `scripts/package-supplement.py` automates assembly in the review workspace.
+`npm run build` writes the online static site to `dist/client`. After building, `npm run offline -- --output ../CJK-Input-Atlas-offline-web --without-pdfs` creates a standalone offline website. It embeds JavaScript, CSS and the catalogue in `index.html`, copies local media and data, and includes a submission-ready `README.md`. Open this HTML directly with `file://`; no server or network connection is required for the catalogue, filters, details, GIFs or images. External paper/video links still need Internet access. Zip the contents of the output directory so that `index.html` is at the archive root.
+
+For the separate full-PDF supplement, the existing `npm run offline` default still writes to `../CJK-Input-Atlas/` with relative PDF links enabled. `scripts/package-supplement.py` assembles the PDFs and sources in that review-workspace package. The `--without-pdfs` option suppresses unavailable local-PDF links and leaves the full-PDF supplement unchanged.
 
 ## GitHub Pages
 

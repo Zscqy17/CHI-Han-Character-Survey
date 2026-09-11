@@ -5,9 +5,12 @@
 ## 最新版下载 / Latest download
 
 - [网站部署包 / Deployment ZIP](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest/download/CJK-Input-Atlas-Kimi-deploy.zip)
+- [压缩全文包 / 241 PDFs, 133.5 MB](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest/download/CJK-Input-Atlas-pdfs-small.zip)
 - [版本说明 / Release](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest)
 - [校验文件 / SHA-256](SHA256SUMS)
 - [交给 Kimi 的部署说明 / Deployment instructions](KIMI-DEPLOY.md)
+
+v5 更新了与综述对应的 Interaction topics 分类、算法 Others 标签及精简的文献下载区。压缩后的 241 篇全文 PDF 作为独立附件提供。
 
 新版含 **241 份 GIF，每篇论文一份**：4 份作者动图／视频关键帧、12 份图组轮播、225 份原文图页轮播。保留英中日韩四语说明、原文入口和逐帧出处。图页轮播明确标注为编辑展示。
 
@@ -32,7 +35,7 @@ The review site uses a temporary link supplied separately. GitHub Pages under th
 
 ## 源码与维护 / Source and maintenance
 
-`website/` contains the maintained React / TypeScript source and curated public data. `docs/` contains a static export configured for the `/CHI-Han-Character-Survey` project path, reserved for later GitHub Pages use. The release ZIP's `site/` is configured for deployment at a domain root and includes all directory indexes. ZIP media are stored once in `site/media/`; run the included `restore-source-media.mjs` before rebuilding its `source/` copy. The `website/` source in this repository already includes its media.
+`website/` contains the maintained React / TypeScript source and curated public data. `docs/` retains the older v4 static snapshot for the `/CHI-Han-Character-Survey` project path. Use the latest release ZIP for deployment. The release ZIP's `site/` is configured for deployment at a domain root and includes all directory indexes. ZIP media are stored once in `site/media/`; run the included `restore-source-media.mjs` before rebuilding its `source/` copy. The `website/` source in this repository already includes its media.
 
 Requires Node.js 22.13 or later:
 

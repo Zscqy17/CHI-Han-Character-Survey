@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
-import {filterPapers,partitionGallery,previewMedia,previewImage,orderedMedia,mediaRank,canPlayVideo,publicationEra,paperHref,homeHref,viewHref,validLocale,locales,type Paper} from '../lib/catalogue';
+import {filterPapers,paperTopics,interactionTopics,partitionGallery,previewMedia,previewImage,orderedMedia,mediaRank,canPlayVideo,publicationEra,paperHref,homeHref,viewHref,validLocale,locales,type Paper} from '../lib/catalogue';
 import {labels,tags} from '../lib/i18n';
 import {processes} from '../lib/processes';
 import raw from '../data/papers.json';
@@ -106,6 +106,24 @@ for(const p of papers){const ordered=orderedMedia(p);check(ordered.every((m,i)=>
 check(partitionGallery(papers).illustrated.length===241,'all 241 papers have a traceable visual preview');
 check(papers.find(p=>p.id==='jia2014joint')!.media.some(m=>m.kind==='gif'&&m.poster?.endsWith('.png')),'video-frame GIF preserves its real still-frame poster');
 const taxonomy=JSON.parse(fs.readFileSync('public/data/review-taxonomy.json','utf8'));
+check(fs.readFileSync('data/review-taxonomy.json','utf8')===fs.readFileSync('public/data/review-taxonomy.json','utf8'),'runtime and public taxonomy are identical');
+check(taxonomy.records.length===241&&new Set(taxonomy.records.map((r:any)=>r.id)).size===241,'topic evidence covers 241 unique papers');
+for(const topic of interactionTopics)check(topic.labelKey in labels,'all interaction themes have four-language labels');
+for(const [topic,count] of Object.entries({touch_mobile:65,alternative_controls:112,accessibility:55,xr:11,other:83})){
+ check(filterPapers(papers,{...all,scenario:topic}).length===count,'review topic count '+topic);
+ for(const view of ['all','algorithms','interaction'])for(const tier of ['all','EN-A','EN-B'])for(const script of ['all','zh','ja','ko','other']){
+  const actual=filterPapers(papers,{...all,view,tier,script,scenario:topic});
+  const expected=taxonomy.records.filter((r:any)=>r.scenarios.includes(topic)).map((r:any)=>papers.find(p=>p.id===r.id)!).filter((p:Paper)=>(view==='all'||p.views.includes(view))&&(tier==='all'||p.tier===tier)&&(script==='all'||p.script===script));
+  check(actual.length===expected.length&&actual.every(p=>expected.includes(p)),'topic/view/venue/script intersections '+topic);
+ }
+}
+for(const paper of papers){
+ const topics=paperTopics(paper);
+ check(topics.length>0,'every paper is discoverable by a review topic');
+ check(!topics.includes('other')||topics.length===1,'Others is the exclusive remainder, not a second positive theme');
+}
+check(paperTopics(papers.find(p=>p.id==='zhou2014older')!).includes('accessibility'),'older-adult study is included in review user-needs theme');
+check(paperTopics(papers.find(p=>p.id==='huang2004statistical')!).join()==='other','general Hanja algorithm remains in Others rather than being assigned an unsupported interaction context');
 const figureSelections=JSON.parse(fs.readFileSync('public/data/figure-selections.json','utf8'));
 check(figureSelections.length===241&&new Set(figureSelections.map((r:any)=>r.id)).size===241,'per-paper figure selection covers every record once');
 for(const row of figureSelections){
@@ -118,15 +136,20 @@ for(const row of taxonomy.records){
  check(publicationEra(paper.year)===row.era,'publication period matches the manuscript corpus code');
  check(JSON.stringify(paper.tech)===JSON.stringify(row.approaches),'algorithm labels preserve manuscript codes');
  check(!row.modalities.includes('xr')&&row.scenarios.includes('xr')===paper.modalities.includes('xr'),'XR stays a scenario, separate from input signals');
+ check(row.scenarios.includes('touch_mobile')===paper.modalities.includes('touch_mobile'),'touch/mobile topic preserves the review tag');
+ check(row.scenarios.includes('alternative_controls')===paper.modalities.some(m=>['handwriting','gesture','gaze','bci','speech','emg','braille','other'].includes(m)),'alternative controls preserve the review input tags');
+ check(row.scenarios.includes('accessibility')===row.userGroups.some((u:string)=>['visual_impaired','motor_impaired','als_locked_in','elderly'].includes(u)),'accessibility uses intended-user coding, not inferred participant characteristics');
+ check(row.topicEvidence.length===row.scenarios.length,'each assigned theme has a coding basis');
 }
 for(const approach of ['rule','stat_lm','neural','llm','hybrid','na'])for(const era of ['pre-2006','2006-2012','2013-2019','2020-now']){
  const actual=filterPapers(papers,{...all,view:'algorithms',approach,era});
  const expected=taxonomy.records.filter((r:any)=>r.era===era&&r.approaches.includes(approach)&&papers.find(p=>p.id===r.id)!.views.includes('algorithms'));
  check(actual.length===expected.length&&actual.every(p=>expected.some((r:any)=>r.id===p.id)),'algorithm generation and publication period intersect accurately');
 }
-for(const modality of ['kb_phonetic','kb_shape','touch_mobile','handwriting','gesture','gaze','bci','speech','emg','braille','other']){
- const actual=filterPapers(papers,{...all,view:'interaction',modality,scenario:'xr'});
- check(actual.every(p=>p.modalities.includes(modality)&&p.modalities.includes('xr')),'interaction method intersects XR scenario');
+for(const modality of ['kb_phonetic','kb_shape','touch_mobile','handwriting','gesture','gaze','bci','speech','emg','braille','other'])for(const topic of interactionTopics){
+ const actual=filterPapers(papers,{...all,view:'interaction',modality,scenario:topic.code});
+ const expected=papers.filter(p=>p.views.includes('interaction')&&p.modalities.includes(modality)&&paperTopics(p).includes(topic.code));
+ check(actual.length===expected.length&&actual.every(p=>expected.includes(p)),'interaction method intersects review topic');
 }
 check(validLocale('de')==='en'&&validLocale('ja')==='ja','language defaults');
 check(homeHref('ko',true)==='index.html?lang=ko'&&viewHref('interaction','ja',true)==='index.html?view=interaction&lang=ja','offline navigation');
