@@ -1,3 +1,4 @@
+import {classificationDimensions,classificationNote} from '../lib/classification';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
@@ -153,5 +154,25 @@ for(const modality of ['kb_phonetic','kb_shape','touch_mobile','handwriting','ge
 }
 check(validLocale('de')==='en'&&validLocale('ja')==='ja','language defaults');
 check(homeHref('ko',true)==='index.html?lang=ko'&&viewHref('interaction','ja',true)==='index.html?view=interaction&lang=ja','offline navigation');
+
+
+// Independent acceptance counts transcribed from the review classification figure.
+const figureCounts={
+ script:{zh_simp:122,zh_trad:34,zh_classical:0,ja:67,ko:13,multi_cjk:5,general:1},
+ modality:{kb_phonetic:121,kb_shape:18,touch_mobile:65,handwriting:39,speech:13,gaze:15,bci:24,emg:3,gesture:19,xr:11,braille:4,other:9},
+ approach:{rule:46,stat_lm:89,hybrid:4,neural:36,llm:5,na:81},
+ evaluation:{lab_study:149,conversion_accuracy:129,task_time:88,error_rate:60,wpm:70,kspc:46,subjective_ux:76,field_study:35,other_eval:76,no_eval:14},
+ population:{general:176,motor_impaired:28,visual_impaired:11,als_locked_in:14,elderly:7,children:7,non_native_learners:4,other:7},
+};
+for(const [field,options] of Object.entries(figureCounts))for(const [code,n] of Object.entries(options)){
+ check(filterPapers(papers,{...all,[field]:code}).length===n,`review figure ${field}/${code}: ${n}`);
+}
+const traditional=filterPapers(papers,{...all,script:'zh_trad'});
+check(traditional.some(p=>p.scriptCodes.includes('zh_simp')),'multi-tag Chinese paper appears in both script categories');
+const targetGroup=filterPapers(papers,{...all,population:'visual_impaired',evaluation:'lab_study'});
+check(targetGroup.length>0&&targetGroup.every(p=>taxonomy.records.find((r:any)=>r.id===p.id).evaluation.includes('lab_study')),'target population and evaluation filters intersect');
+for(const p of papers){const row=taxonomy.records.find((r:any)=>r.id===p.id);check(row.languageScripts.join('|')===p.scriptCodes.join('|'),'granular scripts retain original coding');check(row.inputTags.join('|')===p.modalities.join('|'),'input tags include XR scenario without dropping records');}
+
+for(const dimension of classificationDimensions)for(const language of locales){check(!!dimension.label[language]&&!!classificationNote[language],'classification headings and note translated');for(const option of dimension.options)check(!!option.label[language],'classification option translated');}
 const report={passed:true,checks,papers:241,tiers:{'EN-A':57,'EN-B':184},scripts:{zh:155,ja:67,ko:13,other:6},views:{algorithms:110,interaction:181,both:50},media:{images:papers.flatMap(p=>p.media).filter(m=>m.kind==='image').length,gifs:papers.flatMap(p=>p.media).filter(m=>m.kind==='gif').length,videoSources:papers.flatMap(p=>p.media).filter(m=>m.kind==='video').length},browserTesting:'Not performed; source, data, build and HTTP verification only.'};
 fs.mkdirSync('work',{recursive:true});fs.writeFileSync('work/verification.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));

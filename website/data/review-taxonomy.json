@@ -98,6 +98,16 @@
       "userGroups": [
         "visual_impaired"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -130,6 +140,15 @@
       ],
       "userGroups": [
         "visual_impaired"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "braille"
+      ],
+      "evaluation": [
+        "no_eval"
       ],
       "topicEvidence": [
         {
@@ -166,6 +185,19 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "kb_shape",
+        "other"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -199,6 +231,18 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "other"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -231,6 +275,16 @@
       "userGroups": [
         "other"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "gesture"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -256,6 +310,18 @@
       ],
       "userGroups": [
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "lab_study",
+        "subjective_ux",
+        "task_time",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -290,6 +356,17 @@
       "userGroups": [
         "als_locked_in"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -322,6 +399,15 @@
       ],
       "userGroups": [
         "visual_impaired"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "braille"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -357,6 +443,21 @@
         "motor_impaired",
         "als_locked_in"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "error_rate",
+        "subjective_ux",
+        "wpm",
+        "field_study",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -391,6 +492,16 @@
         "children",
         "other"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -413,6 +524,18 @@
       ],
       "userGroups": [
         "elderly"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -448,6 +571,17 @@
       ],
       "userGroups": [
         "visual_impaired"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "speech"
+      ],
+      "evaluation": [
+        "field_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -489,6 +623,16 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -524,6 +668,20 @@
       ],
       "userGroups": [
         "elderly"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "kb_phonetic",
+        "handwriting"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -565,6 +723,18 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "emg"
+      ],
+      "evaluation": [
+        "task_time",
+        "conversion_accuracy",
+        "other_eval",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -599,6 +769,17 @@
       ],
       "userGroups": [
         "visual_impaired"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "braille",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -640,6 +821,20 @@
       "userGroups": [
         "visual_impaired"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "kb_shape"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "field_study",
+        "wpm",
+        "subjective_ux",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "accessibility",
@@ -670,6 +865,22 @@
       ],
       "userGroups": [
         "elderly"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "kb_shape",
+        "touch_mobile",
+        "handwriting",
+        "speech"
+      ],
+      "evaluation": [
+        "subjective_ux",
+        "lab_study",
+        "task_time",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -713,6 +924,21 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "other"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "lab_study",
+        "task_time",
+        "kspc",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -747,6 +973,21 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "error_rate",
+        "wpm",
+        "kspc",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -779,6 +1020,17 @@
       "userGroups": [
         "visual_impaired"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "field_study",
+        "wpm",
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "accessibility",
@@ -804,6 +1056,16 @@
       ],
       "userGroups": [
         "als_locked_in"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -839,6 +1101,20 @@
       "userGroups": [
         "visual_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "lab_study",
+        "task_time",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -872,6 +1148,19 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time",
+        "wpm",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -904,6 +1193,18 @@
       ],
       "userGroups": [
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -941,6 +1242,19 @@
       "userGroups": [
         "elderly",
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -982,6 +1296,15 @@
       "userGroups": [
         "visual_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "braille"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -1014,6 +1337,19 @@
       "userGroups": [
         "visual_impaired"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_shape"
+      ],
+      "evaluation": [
+        "lab_study",
+        "field_study",
+        "wpm",
+        "conversion_accuracy",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "accessibility",
@@ -1038,6 +1374,18 @@
       ],
       "userGroups": [
         "visual_impaired"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "field_study",
+        "wpm",
+        "conversion_accuracy",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -1067,6 +1415,19 @@
       "userGroups": [
         "elderly",
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -1109,6 +1470,18 @@
       "userGroups": [
         "als_locked_in"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gaze",
+        "xr"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "error_rate"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -1149,6 +1522,18 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "emg"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "subjective_ux",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -1184,6 +1569,21 @@
       ],
       "userGroups": [
         "elderly"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "subjective_ux",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -1224,6 +1624,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -1249,6 +1660,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1270,6 +1691,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -1296,6 +1727,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1318,6 +1760,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -1344,6 +1799,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1366,6 +1830,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "kspc",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -1392,6 +1869,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1413,6 +1899,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -1436,6 +1931,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1457,6 +1962,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "other"
+      ],
+      "evaluation": [
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -1483,6 +1997,19 @@
       ],
       "userGroups": [
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "error_rate",
+        "lab_study",
+        "wpm",
+        "subjective_ux",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -1516,6 +2043,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -1542,6 +2078,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -1566,6 +2113,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -1593,6 +2149,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "wpm",
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -1626,6 +2194,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "multi_cjk"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1647,6 +2225,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "other"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -1673,6 +2263,20 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "lab_study",
+        "kspc",
+        "subjective_ux",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1695,6 +2299,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1716,6 +2329,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -1742,6 +2366,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -1767,6 +2402,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "lab_study",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1789,6 +2436,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1810,6 +2466,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "field_study"
       ],
       "topicEvidence": [
         {
@@ -1836,6 +2503,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1857,6 +2533,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -1882,6 +2570,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gesture"
+      ],
+      "evaluation": [
+        "no_eval"
       ],
       "topicEvidence": [
         {
@@ -1909,6 +2606,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -1935,6 +2643,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -1960,6 +2679,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "error_rate",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -1981,6 +2712,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -2007,6 +2747,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -2029,6 +2780,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -2054,6 +2815,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -2081,6 +2854,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "other"
+      ],
+      "evaluation": [
+        "no_eval"
       ],
       "topicEvidence": [
         {
@@ -2114,6 +2897,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "gesture"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2139,6 +2933,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -2166,6 +2971,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "subjective_ux",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -2190,6 +3008,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gesture"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -2216,6 +3044,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2241,6 +3078,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "error_rate",
+        "subjective_ux",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -2265,6 +3115,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "subjective_ux",
+        "field_study"
       ],
       "topicEvidence": [
         {
@@ -2292,6 +3155,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "wpm",
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -2318,6 +3193,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "speech",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "subjective_ux",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -2351,6 +3239,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "wpm",
+        "lab_study",
+        "error_rate",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -2377,6 +3277,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -2398,6 +3308,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "error_rate",
+        "wpm",
+        "subjective_ux",
+        "field_study"
       ],
       "topicEvidence": [
         {
@@ -2424,6 +3347,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "xr",
+        "gaze"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -2457,6 +3393,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "other"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "lab_study",
+        "subjective_ux",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2484,6 +3433,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "other_eval",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -2509,6 +3471,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -2531,6 +3504,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "xr"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "subjective_ux",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -2565,6 +3552,20 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "xr",
+        "gesture"
+      ],
+      "evaluation": [
+        "lab_study",
+        "error_rate",
+        "wpm",
+        "task_time",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2597,6 +3598,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "lab_study",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -2624,6 +3637,19 @@
       "userGroups": [
         "motor_impaired",
         "als_locked_in"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gesture",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "error_rate",
+        "lab_study",
+        "wpm",
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -2658,6 +3684,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "other"
+      ],
+      "evaluation": [
+        "wpm",
+        "lab_study",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2683,6 +3720,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting",
+        "speech"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "kspc",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -2710,6 +3760,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "emg"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2736,6 +3797,16 @@
       ],
       "userGroups": [
         "als_locked_in"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -2769,6 +3840,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2795,6 +3877,17 @@
       "userGroups": [
         "general",
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -2830,6 +3923,16 @@
         "general",
         "als_locked_in"
       ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2863,6 +3966,17 @@
       "userGroups": [
         "als_locked_in"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -2895,6 +4009,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -2919,6 +4046,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "wpm",
+        "subjective_ux",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -2945,6 +4085,19 @@
       ],
       "userGroups": [
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "task_time",
+        "wpm",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -2979,6 +4132,18 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "wpm",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3012,6 +4177,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gesture",
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3039,6 +4216,18 @@
       "userGroups": [
         "motor_impaired",
         "als_locked_in"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "task_time",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -3074,6 +4263,19 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "task_time",
+        "wpm",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3106,6 +4308,18 @@
       ],
       "userGroups": [
         "als_locked_in"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "conversion_accuracy",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -3141,6 +4355,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "gesture"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3167,6 +4394,16 @@
       ],
       "userGroups": [
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -3201,6 +4438,21 @@
       "userGroups": [
         "als_locked_in"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "field_study",
+        "subjective_ux",
+        "task_time",
+        "wpm",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3233,6 +4485,16 @@
       ],
       "userGroups": [
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -3268,6 +4530,18 @@
         "motor_impaired",
         "als_locked_in"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "lab_study",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3301,6 +4575,17 @@
       ],
       "userGroups": [
         "motor_impaired"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -3336,6 +4621,20 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci",
+        "gaze"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time",
+        "wpm",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3370,6 +4669,18 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "gaze"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "subjective_ux",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3402,6 +4713,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3427,6 +4750,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gesture",
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -3456,6 +4790,20 @@
       "userGroups": [
         "motor_impaired",
         "als_locked_in"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "gaze",
+        "handwriting"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "task_time",
+        "subjective_ux",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -3493,6 +4841,18 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "field_study",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3528,6 +4888,17 @@
         "general",
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3560,6 +4931,18 @@
       ],
       "userGroups": [
         "als_locked_in"
+      ],
+      "languageScripts": [
+        "ko"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "subjective_ux",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -3596,6 +4979,20 @@
       "userGroups": [
         "motor_impaired"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci",
+        "gaze"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "conversion_accuracy",
+        "wpm",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3629,6 +5026,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "bci"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3654,6 +5061,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "xr",
+        "gesture"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "wpm",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -3687,6 +5107,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "xr",
+        "gesture"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "lab_study",
+        "field_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -3722,6 +5156,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "xr",
+        "gesture",
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3756,6 +5202,21 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "xr",
+        "gesture"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "wpm",
+        "lab_study",
+        "subjective_ux",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3788,6 +5249,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "xr",
+        "gesture"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -3823,6 +5297,21 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "gesture",
+        "xr"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "error_rate",
+        "kspc",
+        "subjective_ux",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -3855,6 +5344,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "error_rate"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -3877,6 +5376,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "gaze"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "kspc",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -3904,6 +5416,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -3926,6 +5448,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_shape"
+      ],
+      "evaluation": [
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -3947,6 +5478,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -3973,6 +5514,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -3996,6 +5547,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4017,6 +5577,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -4044,6 +5614,21 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_shape",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "field_study",
+        "task_time",
+        "wpm",
+        "error_rate",
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4066,6 +5651,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4087,6 +5681,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -4111,6 +5714,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "speech",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -4137,6 +5752,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4158,6 +5783,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -4181,6 +5815,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4202,6 +5845,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -4225,6 +5877,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "speech",
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -4253,6 +5916,20 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_shape",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "wpm",
+        "error_rate",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -4278,6 +5955,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "kspc",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -4306,6 +5997,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -4339,6 +6041,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4360,6 +6071,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -4383,6 +6103,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4405,6 +6136,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "speech",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "kspc",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -4431,6 +6174,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4452,6 +6205,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "other"
+      ],
+      "evaluation": [
+        "task_time",
+        "wpm",
+        "kspc",
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -4479,6 +6245,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4500,6 +6276,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "multi_cjk"
+      ],
+      "inputTags": [
+        "kb_shape"
+      ],
+      "evaluation": [
+        "other_eval",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -4523,6 +6309,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4545,6 +6340,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "error_rate",
+        "conversion_accuracy",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4566,6 +6374,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -4591,6 +6408,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "handwriting",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "kspc",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -4624,6 +6455,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp",
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_shape"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4649,6 +6492,20 @@
       "userGroups": [
         "general",
         "elderly"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "conversion_accuracy",
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -4690,6 +6547,20 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "kb_shape"
+      ],
+      "evaluation": [
+        "lab_study",
+        "field_study",
+        "wpm",
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4711,6 +6582,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -4735,6 +6615,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "kb_shape"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4758,6 +6648,23 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_shape",
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "wpm",
+        "kspc",
+        "error_rate",
+        "conversion_accuracy",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -4784,6 +6691,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4806,6 +6722,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "wpm",
+        "task_time",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -4833,6 +6762,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_shape",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -4858,6 +6799,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4879,6 +6829,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "other_eval",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -4905,6 +6865,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "multi_cjk"
+      ],
+      "inputTags": [
+        "kb_shape"
+      ],
+      "evaluation": [
+        "lab_study",
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -4926,6 +6896,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "field_study",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -4951,6 +6932,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_shape",
+        "touch_mobile",
+        "gesture"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -4984,6 +6979,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5007,6 +7012,18 @@
       "userGroups": [
         "non_native_learners",
         "children"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "handwriting"
+      ],
+      "evaluation": [
+        "subjective_ux",
+        "field_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5033,6 +7050,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time",
+        "lab_study",
+        "error_rate"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5054,6 +7083,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "error_rate",
+        "field_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5079,6 +7119,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "subjective_ux",
+        "wpm",
+        "error_rate"
       ],
       "topicEvidence": [
         {
@@ -5115,6 +7169,21 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile",
+        "gesture"
+      ],
+      "evaluation": [
+        "lab_study",
+        "field_study",
+        "wpm",
+        "error_rate",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -5147,6 +7216,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5169,6 +7247,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5190,6 +7278,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
       ],
       "topicEvidence": [
         {
@@ -5218,6 +7316,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "speech",
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "error_rate",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -5244,6 +7355,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5265,6 +7386,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "no_eval"
       ],
       "topicEvidence": [
         {
@@ -5289,6 +7419,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "conversion_accuracy",
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -5322,6 +7466,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5343,6 +7497,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5366,6 +7530,16 @@
       "userGroups": [
         "children"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "wpm",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5387,6 +7561,17 @@
       ],
       "userGroups": [
         "non_native_learners"
+      ],
+      "languageScripts": [
+        "multi_cjk"
+      ],
+      "inputTags": [
+        "kb_shape"
+      ],
+      "evaluation": [
+        "field_study",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5412,6 +7597,21 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_shape",
+        "touch_mobile",
+        "gesture"
+      ],
+      "evaluation": [
+        "lab_study",
+        "kspc",
+        "error_rate",
+        "wpm",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -5445,6 +7645,15 @@
       "userGroups": [
         "children"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5468,6 +7677,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "lab_study",
+        "subjective_ux",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5501,6 +7724,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5523,6 +7756,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_shape",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "task_time",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -5551,6 +7797,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "speech",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc",
+        "lab_study"
       ],
       "topicEvidence": [
         {
@@ -5586,6 +7845,20 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "wpm",
+        "kspc",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -5612,6 +7885,15 @@
       "userGroups": [
         "other"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5635,6 +7917,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5656,6 +7949,18 @@
       ],
       "userGroups": [
         "other"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "kspc",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5679,6 +7984,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "subjective_ux",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5705,6 +8023,19 @@
       "userGroups": [
         "other"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "wpm",
+        "kspc",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5727,6 +8058,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "no_eval"
       ],
       "topicEvidence": [
         {
@@ -5754,6 +8095,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5776,6 +8126,17 @@
       "userGroups": [
         "non_native_learners"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "subjective_ux",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5797,6 +8158,17 @@
       ],
       "userGroups": [
         "children"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "task_time",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -5821,6 +8193,20 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "error_rate",
+        "lab_study",
+        "subjective_ux",
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -5855,6 +8241,16 @@
       "userGroups": [
         "other"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -5882,6 +8278,17 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "subjective_ux"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -5907,6 +8314,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5928,6 +8345,15 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -5951,6 +8377,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_trad"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -5977,6 +8414,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -5999,6 +8446,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
       ],
       "topicEvidence": [
         {
@@ -6027,6 +8485,21 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "speech",
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "subjective_ux",
+        "lab_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -6060,6 +8533,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "general"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "task_time",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -6085,6 +8568,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "no_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6106,6 +8598,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "ja"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
       ],
       "topicEvidence": [
         {
@@ -6130,6 +8632,17 @@
       ],
       "userGroups": [
         "non_native_learners"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "field_study"
       ],
       "topicEvidence": [
         {
@@ -6156,6 +8669,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc",
+        "task_time",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6177,6 +8702,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "task_time",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -6203,6 +8740,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "multi_cjk"
+      ],
+      "inputTags": [
+        "speech"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "subjective_ux",
+        "other_eval",
+        "lab_study"
+      ],
       "topicEvidence": [
         {
           "topic": "alternative_controls",
@@ -6228,6 +8777,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "gaze",
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "wpm",
+        "task_time"
       ],
       "topicEvidence": [
         {
@@ -6256,6 +8818,21 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "touch_mobile",
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "task_time",
+        "error_rate",
+        "subjective_ux",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "touch_mobile",
@@ -6280,6 +8857,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -6306,6 +8893,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6327,6 +8923,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -6353,6 +8959,17 @@
       "userGroups": [
         "children"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "lab_study",
+        "task_time",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6375,6 +8992,19 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc",
+        "task_time",
+        "other_eval",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6396,6 +9026,18 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "handwriting"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "kspc",
+        "task_time",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -6422,6 +9064,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6443,6 +9095,17 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time",
+        "kspc"
       ],
       "topicEvidence": [
         {
@@ -6466,6 +9129,20 @@
       "userGroups": [
         "other"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "kspc",
+        "conversion_accuracy",
+        "error_rate",
+        "wpm",
+        "subjective_ux",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6487,6 +9164,16 @@
       ],
       "userGroups": [
         "children"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "field_study",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -6510,6 +9197,18 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "lab_study",
+        "subjective_ux",
+        "field_study"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6532,6 +9231,19 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile"
+      ],
+      "evaluation": [
+        "lab_study",
+        "wpm",
+        "error_rate",
+        "conversion_accuracy"
       ],
       "topicEvidence": [
         {
@@ -6558,6 +9270,15 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6579,6 +9300,16 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "task_time"
       ],
       "topicEvidence": [
         {
@@ -6604,6 +9335,21 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic",
+        "touch_mobile",
+        "speech"
+      ],
+      "evaluation": [
+        "field_study",
+        "lab_study",
+        "subjective_ux",
+        "task_time",
+        "other_eval"
       ],
       "topicEvidence": [
         {
@@ -6637,6 +9383,16 @@
       "userGroups": [
         "general"
       ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "kb_phonetic"
+      ],
+      "evaluation": [
+        "conversion_accuracy",
+        "other_eval"
+      ],
       "topicEvidence": [
         {
           "topic": "other",
@@ -6660,6 +9416,22 @@
       ],
       "userGroups": [
         "general"
+      ],
+      "languageScripts": [
+        "zh_simp"
+      ],
+      "inputTags": [
+        "speech",
+        "xr",
+        "gesture"
+      ],
+      "evaluation": [
+        "wpm",
+        "error_rate",
+        "conversion_accuracy",
+        "lab_study",
+        "field_study",
+        "subjective_ux"
       ],
       "topicEvidence": [
         {
@@ -6742,5 +9514,12 @@
       "label": "Others",
       "rule": "No match to the four review-theme rules above; not a missing paper or an exclusion."
     }
+  ],
+  "classificationFields": [
+    "languageScripts",
+    "inputTags",
+    "approaches",
+    "evaluation",
+    "userGroups"
   ]
 }

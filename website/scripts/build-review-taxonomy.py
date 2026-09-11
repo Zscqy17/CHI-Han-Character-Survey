@@ -47,7 +47,8 @@ for row in rows:
         evidence = [{'topic': 'other', 'rule': 'No match to the four named themes'}]
     records.append({'id': row['bibkey'], 'era': row['era'], 'approaches': approaches,
                     'modalities': [m for m in modalities if m != 'xr'],
-                    'scenarios': topics, 'userGroups': populations, 'topicEvidence': evidence})
+                    'scenarios': topics, 'userGroups': populations, 'languageScripts': row['lang_script'].split('|'),
+                    'inputTags': modalities, 'evaluation': row['evaluation'].split('|'), 'topicEvidence': evidence})
 taxonomy['basis']['coding'] = 'Original review codes are retained. Reading themes are derived from the four interaction sections and can overlap. XR remains a context, not an input signal. Intended users do not establish who participated in a study.'
 taxonomy['basis']['topicSource'] = 'supplementary_corpus.csv: modality and user_group'
 taxonomy['basis']['sourceCorpusSha256'] = hashlib.sha256(CORPUS.read_bytes()).hexdigest()
@@ -55,6 +56,7 @@ taxonomy['scenarioKind'] = 'overlapping_review_themes'
 taxonomy['scenario'] = [d['code'] for d in definitions]
 taxonomy['topicDefinitions'] = definitions
 taxonomy['records'] = records
+taxonomy['classificationFields'] = ['languageScripts', 'inputTags', 'approaches', 'evaluation', 'userGroups']
 text = json.dumps(taxonomy, ensure_ascii=False, indent=2) + '\n'
 for dest in ['data/review-taxonomy.json', 'public/data/review-taxonomy.json']:
     (SITE / dest).write_text(text)

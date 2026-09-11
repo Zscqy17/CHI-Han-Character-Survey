@@ -1,10 +1,10 @@
-# CJK Input Atlas — Kimi deployment (v5)
+# CJK Input Atlas — Kimi deployment (v6)
 
 Download the latest `CJK-Input-Atlas-Kimi-deploy.zip` and `SHA256SUMS` from this repository's Releases. Extract the ZIP and deploy the complete contents of `CJK-Input-Atlas-Kimi/site/` at the root of a neutral temporary domain. The site is ready to serve; no build, database or login is required.
 
 Preserve all HTML, RSC, JavaScript, CSS, media and directory-index files. Test `/`, `/algorithms/`, `/interaction/` and direct visits/refreshes to `/papers/<bibkey>/`. Keep English, Chinese, Japanese and Korean switching, search, GIF playback and category filters working. Do not rewrite every paper URL to the homepage.
 
-This version includes the revised Interaction topics, the algorithm label “Others”, and the simplified bibliography area. All 241 papers retain a GIF and source links. Paper-figure slideshows are editorial presentations, not recordings of live input.
+This version follows the review figure in five independent, overlapping dimensions: Language / script, Input tags, Computational approach, Evaluation, and Intended population. All 43 option counts match the figure in the unfiltered 241-paper view. XR is explicitly a scenario tag. The computational category code na is displayed as “Others” as requested. The former Interaction topics grouping has been removed from the filter panel. All 241 papers retain a GIF and source links. Paper-figure slideshows are editorial presentations, not recordings of live input.
 
 Keep noindex and robots.txt. Return the temporary review URL privately; do not publish it in this identifiable repository or add the repository/account identity to the review site. GitHub Pages remains disabled.
 
