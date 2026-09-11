@@ -1,43 +1,33 @@
 # CJK Input Atlas
 
-241 篇中日韩文字输入研究的在线目录及配套媒体。保留 EN-A / EN-B、算法与交互视图，以及英中日韩四种显示语言。
+241 篇中日韩文字输入研究的目录与媒体。当前部署版本为 **v7**。
 
-## 最新版下载 / Latest download
+- [交给 Kimi 的部署说明](KIMI-DEPLOY.md)
+- [下载最新部署 ZIP](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest/download/CJK-Input-Atlas-Kimi-deploy.zip)
+- [版本与校验文件](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest)
+- [可维护源码](website/)
 
-- [网站部署包 / Deployment ZIP](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest/download/CJK-Input-Atlas-Kimi-deploy.zip)
-- [压缩全文包 / 241 PDFs, 133.5 MB](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest/download/CJK-Input-Atlas-pdfs-small.zip)
-- [版本说明 / Release](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/latest)
-- [校验文件 / SHA-256](SHA256SUMS)
-- [交给 Kimi 的部署说明 / Deployment instructions](KIMI-DEPLOY.md)
+v7 将计算方法的 `na` 类别显示为 **NA**，并同步使用最新补充网页中已验证的压缩媒体。241 篇论文、241 个 GIF、图片、原文链接及英中日韩四种显示语言全部保留。算法和交互视图沿用综述分类，支持语言／文字、输入标签、计算方法、评价方式、目标人群五个维度。
 
-v6 按综述分类图统一为五个筛选维度：语言／文字、输入标签、计算方法、评价方式、目标人群；43 项分类计数与图中一致。算法 Others 标签及精简的文献下载区保持不变。压缩后的 241 篇全文 PDF 作为独立附件提供。
+优先显示视频截帧／作者 GIF、论文图组与图页 GIF，其次是视频和静态图片。GIF 支持播放与暂停；原文轮播明确标注为编辑展示，不是连续输入录像。
 
-新版含 **241 份 GIF，每篇论文一份**：4 份作者动图／视频关键帧、12 份图组轮播、225 份原文图页轮播。保留英中日韩四语说明、原文入口和逐帧出处。图页轮播明确标注为编辑展示。
+## Kimi 部署
 
-新版优先展示 **视频截帧／作者 GIF → 论文图组 GIF → 原文图页 GIF → 视频 → 静态图片**。GIF 在进入视野附近时加载播放，可暂停，滚出视野后显示静态预览；视频按需加载，不能嵌入时提供来源入口。白底黑字，保留原始论文署名、图号页码和出处。
+解压最新 ZIP，将 `CJK-Input-Atlas-Kimi/site/` 完整部署到中性临时域名根目录，无需构建、数据库、账户或论文 PDF。保持现有目录结构，并验证详情页直接访问及刷新。
 
-The latest version puts animated GIFs first, video sources second, and static images third. GIFs have a pause control and respect reduced-motion preferences. External video players load on request; source-only and unavailable records keep their status labels.
+匿名审稿使用单独提供的临时链接；该链接不要写入此可识别账号的仓库。GitHub Pages 继续关闭。旧 `docs/` 编译快照已删除，避免误用旧版本；Git 历史和历史 Releases 可供追溯。
 
-## 匿名审稿 / Anonymous review
-
-为满足匿名审稿要求，网站通过单独提供的临时链接浏览。当前不启用个人账号的 GitHub Pages，也不在此可识别账号的公开仓库中披露临时审稿地址。读者无需下载完整 PDF 包。
-
-The review site uses a temporary link supplied separately. GitHub Pages under this account remains disabled, and the temporary review address is not disclosed here. Source papers retain their original authorship and media attribution.
-
-## 内容 / Collection
+## 内容与源码
 
 - 241 papers: EN-A 57; EN-B 184.
 - Algorithms: 110; Interaction: 181; overlap: 50.
-- Chinese: 155; Japanese: 67; Korean: 13; cross-script/general: 6.
-- English, Chinese, Japanese and Korean display languages; default English.
-- Every paper has an original-source link and an attributed illustration, table or labeled page preview.
-- No database, login service or full-text PDF directory is needed for online hosting.
+- 241 GIFs with paper/source attribution.
+- English (default), Chinese, Japanese and Korean.
+- Five review-aligned filter dimensions with 43 categories; tags may overlap.
 
-## 源码与维护 / Source and maintenance
+`website/` contains the maintained React/TypeScript source and original media. The release ZIP contains only the prebuilt site and deployment documentation. No full-text PDFs are needed to host it.
 
-`website/` contains the maintained React / TypeScript source and curated public data. `docs/` retains the older v4 static snapshot for the `/CHI-Han-Character-Survey` project path. Use the latest release ZIP for deployment. The release ZIP's `site/` is configured for deployment at a domain root and includes all directory indexes. ZIP media are stored once in `site/media/`; run the included `restore-source-media.mjs` before rebuilding its `source/` copy. The `website/` source in this repository already includes its media.
-
-Requires Node.js 22.13 or later:
+To rebuild with Node.js 22.13 or later:
 
 ```sh
 cd website
@@ -47,6 +37,6 @@ npm run typecheck
 NEXT_PUBLIC_BASE_PATH='' npm run build:pages
 ```
 
-Deploy `website/dist/github-pages/` at the domain root. For later GitHub Pages use, `npm run build:pages` defaults to the repository path; see [GITHUB-PAGES.md](GITHUB-PAGES.md). Build commands do not enable publishing or change access settings.
+Deploy `website/dist/github-pages/`. The source build retains original media; the latest release applies verified delivery encodings. The Python media optimizer is included under `website/scripts/`.
 
-The [v1 release](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/tag/cjk-input-atlas-kimi-v1) remains available as a historical snapshot. New deployments should use the latest release.
+The [compressed full-text archive from v6](https://github.com/Zscqy17/CHI-Han-Character-Survey/releases/download/cjk-input-atlas-kimi-v6/CJK-Input-Atlas-pdfs-small.zip) remains an optional separate download.

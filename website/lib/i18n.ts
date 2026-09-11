@@ -5,7 +5,7 @@ export const labels={
  generationStat:q('2. Statistical models','2. 统计模型','2. 統計モデル','2. 통계 모델'),
  generationNeural:q('3. Neural models','3. 神经模型','3. ニューラルモデル','3. 신경 모델'),
  generationLlm:q('4. Large language models','4. 大语言模型','4. 大規模言語モデル','4. 대규모 언어 모델'),
- otherApproaches:q('Others','其他','その他','기타'),
+ otherApproaches:q('NA','不适用','該当なし','해당 없음'),
  generationNote:q('The review traces four generations that coexist. Tags can overlap; LLMs are tracked separately from other neural models.','沿用综述的四代方法；各代长期并存，标签允许交叉，LLM 单列。','レビューの4世代は併存し、タグは重複します。LLMは他のニューラルモデルと別に集計します。','문헌고찰의 네 세대는 공존하며 태그가 중복될 수 있습니다. LLM은 다른 신경 모델과 별도로 집계합니다.'),
  era:q('Publication period','发表时段','発表時期','발표 시기'),
  allEras:q('All periods','全部时段','すべての時期','전체 시기'),
